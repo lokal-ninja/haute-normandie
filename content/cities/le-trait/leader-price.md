@@ -1,5 +1,5 @@
 ---
 title: "Leader Price"
-url: /saint-etienne-du-rouvray/leader-price-2/
+url: /le-trait/leader-price/
 shop: supermarché
 ---
