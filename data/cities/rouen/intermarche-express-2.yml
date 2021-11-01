@@ -1,11 +1,11 @@
-id: 8038908946
-type: node
-latitude: 49.448736100000005
-longitude: 1.0944807
+id: 63636041
+type: way
+latitude: 49.443378900000006
+longitude: 1.0897970000000001
 postcode: "76000"
 city: Rouen
-street: "Place Bernard Tissot"
-housenumber: 
-phone: ""
-opening_hours: "Mo-Su 09:00-21:00"
+street: "Rue Écuyère"
+housenumber: 39
+phone: "+33 2 32 08 38 04"
+opening_hours: "Mo-Sa 08:30-21:00; Su 09:00-13:00"
 website: "https://www.intermarche.com/"

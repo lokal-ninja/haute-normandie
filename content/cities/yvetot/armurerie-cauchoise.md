@@ -1,5 +1,5 @@
 ---
-title: "Armurerie cauchoise"
+title: "Armurerie Cauchoise"
 url: /yvetot/armurerie-cauchoise/
 shop: armes
 ---
