@@ -1,5 +1,5 @@
 ---
-title: "'La Belle Rouge'"
+title: "La Belle Rouge"
 url: /boos/la-belle-rouge/
 shop: boucherie
 ---
