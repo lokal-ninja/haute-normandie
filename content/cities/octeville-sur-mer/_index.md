@@ -1,6 +1,6 @@
 ---
 title: Octeville-sur-Mer
 url: /octeville-sur-mer/
-latitude: 49.5553201
-longitude: 0.1161519
+latitude: 49.535
+longitude: 0.1
 ---

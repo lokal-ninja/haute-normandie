@@ -1,6 +1,6 @@
 ---
 title: Sommery
 url: /sommery/
-latitude: 49.6327669
-longitude: 1.440636
+latitude: 49.648
+longitude: 1.447
 ---

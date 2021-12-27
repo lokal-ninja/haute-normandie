@@ -1,6 +1,6 @@
 ---
 title: Saint-Pierre-de-Varengeville
 url: /saint-pierre-de-varengeville/
-latitude: 49.5020498
-longitude: 0.9284353000000001
+latitude: 49.499
+longitude: 0.929
 ---

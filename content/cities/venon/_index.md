@@ -1,6 +1,6 @@
 ---
 title: Venon
 url: /venon/
-latitude: 49.1726766
-longitude: 1.0501652000000001
+latitude: 49.172
+longitude: 1.048
 ---

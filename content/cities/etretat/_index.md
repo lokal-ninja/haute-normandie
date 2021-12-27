@@ -1,6 +1,6 @@
 ---
 title: Étretat
 url: /etretat/
-latitude: 49.7074621
-longitude: 0.20319050000000002
+latitude: 49.708
+longitude: 0.205
 ---

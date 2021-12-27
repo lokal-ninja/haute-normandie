@@ -1,6 +1,6 @@
 ---
 title: Sotteville-lès-Rouen
 url: /sotteville-les-rouen/
-latitude: 
-longitude: 
+latitude: 49.42
+longitude: 1.095
 ---

@@ -1,6 +1,6 @@
 ---
 title: Ymare
 url: /ymare/
-latitude: 49.3494748
-longitude: 1.1749715
+latitude: 49.35
+longitude: 1.176
 ---

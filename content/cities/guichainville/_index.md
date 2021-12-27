@@ -1,6 +1,6 @@
 ---
 title: Guichainville
 url: /guichainville/
-latitude: 48.9800436
-longitude: 1.1864378
+latitude: 49.014
+longitude: 1.174
 ---

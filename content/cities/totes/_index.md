@@ -1,6 +1,6 @@
 ---
 title: Tôtes
 url: /totes/
-latitude: 49.6792572
-longitude: 1.0471768000000001
+latitude: 49.68
+longitude: 1.033
 ---

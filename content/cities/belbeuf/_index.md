@@ -1,6 +1,6 @@
 ---
 title: Belbeuf
 url: /belbeuf/
-latitude: 49.3880756
-longitude: 1.1428248
+latitude: 49.388
+longitude: 1.139
 ---

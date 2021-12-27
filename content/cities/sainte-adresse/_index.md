@@ -1,6 +1,6 @@
 ---
 title: Sainte-Adresse
 url: /sainte-adresse/
-latitude: 49.505248200000004
-longitude: 0.0805655
+latitude: 49.508
+longitude: 0.083
 ---

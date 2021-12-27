@@ -1,6 +1,6 @@
 ---
 title: Houppeville
 url: /houppeville/
-latitude: 49.5097935
-longitude: 1.0813157
+latitude: 49.513
+longitude: 1.082
 ---

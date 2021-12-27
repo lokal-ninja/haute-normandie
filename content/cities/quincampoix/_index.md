@@ -1,6 +1,6 @@
 ---
 title: Quincampoix
 url: /quincampoix/
-latitude: 49.521
-longitude: 1.1746400000000001
+latitude: 49.523
+longitude: 1.187
 ---

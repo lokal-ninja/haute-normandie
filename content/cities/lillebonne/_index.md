@@ -1,6 +1,6 @@
 ---
 title: Lillebonne
 url: /lillebonne/
-latitude: 49.5188282
-longitude: 0.5344110000000001
+latitude: 49.518
+longitude: 0.535
 ---

@@ -1,6 +1,6 @@
 ---
 title: Gaillon
 url: /gaillon/
-latitude: 49.1605604
-longitude: 1.3336126000000001
+latitude: 49.161
+longitude: 1.331
 ---

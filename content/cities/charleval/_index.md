@@ -1,6 +1,6 @@
 ---
 title: Charleval
 url: /charleval/
-latitude: 49.372087900000004
-longitude: 1.3835702
+latitude: 49.371
+longitude: 1.387
 ---

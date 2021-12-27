@@ -1,6 +1,6 @@
 ---
 title: Bourg Achard
 url: /bourg-achard/
-latitude: 
-longitude: 
+latitude: 49.361
+longitude: 0.819
 ---

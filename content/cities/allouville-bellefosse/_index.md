@@ -1,6 +1,6 @@
 ---
 title: Allouville-Bellefosse
 url: /allouville-bellefosse/
-latitude: 49.5955366
-longitude: 0.6769743
+latitude: 49.588
+longitude: 0.669
 ---

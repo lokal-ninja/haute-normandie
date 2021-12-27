@@ -1,6 +1,6 @@
 ---
 title: st marcel
 url: /st-marcel/
-latitude: 
-longitude: 
+latitude: 49.1
+longitude: 1.459
 ---

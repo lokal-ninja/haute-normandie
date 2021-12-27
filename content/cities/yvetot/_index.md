@@ -1,6 +1,6 @@
 ---
 title: Yvetot
 url: /yvetot/
-latitude: 49.6179384
-longitude: 0.7538866000000001
+latitude: 49.617
+longitude: 0.755
 ---

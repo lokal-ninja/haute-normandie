@@ -1,6 +1,6 @@
 ---
 title: Petit-Caux
 url: /petit-caux/
-latitude: 
-longitude: 
+latitude: 49.955
+longitude: 1.227
 ---

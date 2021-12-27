@@ -1,6 +1,6 @@
 ---
 title: Cailly
 url: /cailly/
-latitude: 49.5780946
-longitude: 1.2321398000000001
+latitude: 49.58
+longitude: 1.229
 ---

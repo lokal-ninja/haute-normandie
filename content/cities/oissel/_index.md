@@ -1,6 +1,6 @@
 ---
 title: Oissel
 url: /oissel/
-latitude: 49.3424375
-longitude: 1.0957098
+latitude: 49.34
+longitude: 1.094
 ---

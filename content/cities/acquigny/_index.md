@@ -1,6 +1,6 @@
 ---
 title: Acquigny
 url: /acquigny/
-latitude: 49.17231
-longitude: 1.178352
+latitude: 49.175
+longitude: 1.175
 ---

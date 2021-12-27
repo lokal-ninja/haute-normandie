@@ -1,6 +1,6 @@
 ---
 title: Boissy-Lamberville
 url: /boissy-lamberville/
-latitude: 49.16633
-longitude: 0.5756300000000001
+latitude: 49.151
+longitude: 0.565
 ---

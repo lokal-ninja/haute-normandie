@@ -1,6 +1,6 @@
 ---
 title: Lieurey
 url: /lieurey/
-latitude: 49.231003300000005
-longitude: 0.4983596
+latitude: 49.224
+longitude: 0.502
 ---

@@ -1,6 +1,6 @@
 ---
 title: Yainville
 url: /yainville/
-latitude: 49.4526976
-longitude: 0.8304642000000001
+latitude: 49.459
+longitude: 0.821
 ---

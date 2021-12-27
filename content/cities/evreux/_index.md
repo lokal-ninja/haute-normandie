@@ -1,6 +1,6 @@
 ---
 title: Évreux
 url: /evreux/
-latitude: 
-longitude: 
+latitude: 48.996
+longitude: 1.156
 ---

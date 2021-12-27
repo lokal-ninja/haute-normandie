@@ -1,6 +1,6 @@
 ---
 title: Beaumontel
 url: /beaumontel/
-latitude: 49.088655900000006
-longitude: 0.7649572
+latitude: 49.093
+longitude: 0.747
 ---

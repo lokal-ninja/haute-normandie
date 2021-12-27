@@ -1,6 +1,6 @@
 ---
 title: Le Trait
 url: /le-trait/
-latitude: 49.4819151
-longitude: 0.8087513000000001
+latitude: 49.476
+longitude: 0.813
 ---

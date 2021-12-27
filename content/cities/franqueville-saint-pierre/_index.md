@@ -1,6 +1,6 @@
 ---
 title: Franqueville-Saint-Pierre
 url: /franqueville-saint-pierre/
-latitude: 49.4027
-longitude: 1.1825
+latitude: 49.399
+longitude: 1.174
 ---

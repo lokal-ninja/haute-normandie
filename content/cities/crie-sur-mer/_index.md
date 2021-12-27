@@ -1,6 +1,6 @@
 ---
 title: Crie-sur-Mer
 url: /crie-sur-mer/
-latitude: 
-longitude: 
+latitude: 50.012
+longitude: 1.315
 ---

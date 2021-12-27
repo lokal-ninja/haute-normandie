@@ -1,6 +1,6 @@
 ---
 title: Montigny
 url: /montigny/
-latitude: 49.8953658
-longitude: 1.3582709000000002
+latitude: 49.459
+longitude: 1.001
 ---

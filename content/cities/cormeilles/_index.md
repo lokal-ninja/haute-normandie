@@ -1,6 +1,6 @@
 ---
 title: Cormeilles
 url: /cormeilles/
-latitude: 49.2478544
-longitude: 0.3770038
+latitude: 49.248
+longitude: 0.377
 ---

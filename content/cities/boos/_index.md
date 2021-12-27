@@ -1,6 +1,6 @@
 ---
 title: Boos
 url: /boos/
-latitude: 49.1294619
-longitude: 1.1682823
+latitude: 49.388
+longitude: 1.207
 ---

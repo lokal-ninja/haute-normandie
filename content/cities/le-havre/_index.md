@@ -1,6 +1,6 @@
 ---
 title: Le Havre
 url: /le-havre/
-latitude: 
-longitude: 
+latitude: 49.489
+longitude: 0.113
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Madeleine de Nonancourt
 url: /la-madeleine-de-nonancourt/
-latitude: 
-longitude: 
+latitude: 48.796
+longitude: 1.246
 ---

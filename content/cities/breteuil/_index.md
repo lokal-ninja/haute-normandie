@@ -1,6 +1,6 @@
 ---
 title: Breteuil
 url: /breteuil/
-latitude: 48.8363906
-longitude: 0.9160805000000001
+latitude: 48.836
+longitude: 0.915
 ---

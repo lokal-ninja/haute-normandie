@@ -1,6 +1,6 @@
 ---
 title: Bolbec
 url: /bolbec/
-latitude: 49.5739091
-longitude: 0.4742448
+latitude: 49.573
+longitude: 0.47
 ---

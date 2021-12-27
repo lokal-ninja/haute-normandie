@@ -1,6 +1,6 @@
 ---
 title: Heudreville-sur-Eure
 url: /heudreville-sur-eure/
-latitude: 49.140395700000006
-longitude: 1.1874548
+latitude: 49.14
+longitude: 1.185
 ---
