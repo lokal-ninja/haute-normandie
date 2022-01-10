@@ -1,5 +1,5 @@
 ---
 title: "Antiquités Ben & Fils"
-url: /cormeilles/antiquites-ben-and-fils/
+url: /cormeilles/antiquites-ben-et-fils/
 shop: antiquités
 ---

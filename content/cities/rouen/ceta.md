@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /rouen/canda/
+url: /rouen/ceta/
 shop: vêtements
 ---

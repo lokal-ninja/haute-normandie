@@ -1,5 +1,5 @@
 ---
 title: "Ambiance & Styles"
-url: /guichainville/ambiance-and-styles/
+url: /guichainville/ambiance-et-styles/
 shop: décoration intérieure
 ---

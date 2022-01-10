@@ -1,5 +1,5 @@
 ---
-title: "Danièle chaussures"
+title: "Danièle Chaussures"
 url: /yvetot/daniele-chaussures/
 shop: chaussures
 ---

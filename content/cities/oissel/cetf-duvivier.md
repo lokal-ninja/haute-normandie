@@ -1,5 +1,5 @@
 ---
 title: "C&F Duvivier"
-url: /oissel/candf-duvivier/
+url: /oissel/cetf-duvivier/
 shop: boucherie
 ---

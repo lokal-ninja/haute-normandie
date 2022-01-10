@@ -1,5 +1,5 @@
 ---
 title: "Montville & Cie"
-url: /bois-guillaume/montville-and-cie/
+url: /bois-guillaume/montville-et-cie/
 shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "V&B"
-url: /gonfreville-lorcher/vandb/
+url: /gonfreville-lorcher/vetb/
 shop: alcool
 ---

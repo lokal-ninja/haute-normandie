@@ -1,5 +1,5 @@
 ---
 title: "Fast & Good"
-url: /belbeuf/fast-and-good/
+url: /belbeuf/fast-et-good/
 shop: boulangerie
 ---

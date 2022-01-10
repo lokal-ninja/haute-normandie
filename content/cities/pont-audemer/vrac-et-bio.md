@@ -1,5 +1,5 @@
 ---
 title: "Vrac & Bio"
-url: /pont-audemer/vrac-and-bio/
+url: /pont-audemer/vrac-et-bio/
 shop: commodité
 ---
