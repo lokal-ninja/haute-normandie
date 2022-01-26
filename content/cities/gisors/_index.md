@@ -1,6 +1,6 @@
 ---
 title: Gisors
 url: /gisors/
-latitude: 49.276
-longitude: 1.762
+latitude: 49.281
+longitude: 1.779
 ---

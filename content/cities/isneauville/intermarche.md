@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /gisors/intermarche/
+url: /isneauville/intermarche/
 shop: gaz
 ---
