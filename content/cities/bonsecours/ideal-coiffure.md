@@ -1,5 +1,5 @@
 ---
-title: "Ideal Coiffure"
+title: "Idéal Coiffure"
 url: /bonsecours/ideal-coiffure/
 shop: coiffeur
 ---
