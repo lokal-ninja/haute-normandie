@@ -1,5 +1,5 @@
 ---
-title: "Maison Robida"
+title: "Maison ROBIDA"
 url: /le-havre/maison-robida/
 shop: fromage
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Boucherie-Charcuterie Hélie"
+title: "Boucherie-Charcuterie HELIE"
 url: /saint-ouen-de-thouberville/boucherie-charcuterie-helie/
 shop: boucherie
 ---
