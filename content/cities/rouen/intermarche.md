@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /rouen/intermarche/
-shop: commodité
+shop: supermarché
 ---
