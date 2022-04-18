@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /yvetot/e-leclerc/
-shop: gaz
+shop: supermarché
 ---
