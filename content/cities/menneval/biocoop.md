@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /menneval/biocoop/
-shop: supermarché
+shop: alimentation saine
 ---
