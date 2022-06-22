@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/haute-normandie"
+baseURL = "https://fr.shoogle.net/haute-normandie/"
 languageCode = "fr"
 title = "Haute-Normandie"
 theme = "ln-base"
