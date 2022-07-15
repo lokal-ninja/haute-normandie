@@ -1,5 +1,5 @@
 ---
-title: "DRAEGER"
+title: "Draeger"
 url: /rouen/draeger/
 shop: boutique
 ---
