@@ -1,6 +1,6 @@
 ---
 title: Croix-Mare
 url: /croix-mare/
-latitude: 49.605
-longitude: 0.852
+latitude: 49.604
+longitude: 0.853
 ---
