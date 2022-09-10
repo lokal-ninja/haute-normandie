@@ -1,5 +1,5 @@
 ---
 title: "La Muchette"
 url: /rouen/la-muchette/
-shop: shop
+shop: collecteur
 ---
