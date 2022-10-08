@@ -1,6 +1,6 @@
 ---
 title: Beaumont-le-Roger
 url: /beaumont-le-roger/
-latitude: 49.081
-longitude: 0.778
+latitude: 49.08
+longitude: 0.78
 ---
