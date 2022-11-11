@@ -1,5 +1,5 @@
 ---
-title: "Julien d'Orcel"
+title: "Julien D'orcel"
 url: /evreux/julien-dorcel/
 shop: bijoux
 ---
