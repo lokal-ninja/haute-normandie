@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
-url: /cormeilles/citroen-2/
+url: /cormeilles/citroen/
 shop: réparation de voitures
 ---

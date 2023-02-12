@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
-url: /pavilly/carrefour-market-2/
+url: /pavilly/carrefour-market/
 shop: commodité
 ---

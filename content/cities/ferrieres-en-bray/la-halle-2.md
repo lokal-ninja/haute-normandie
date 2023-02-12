@@ -1,5 +1,5 @@
 ---
 title: "La Halle"
-url: /ferrieres-en-bray/la-halle-2/
+url: /ferrieres-en-bray/la-halle/
 shop: vêtements
 ---

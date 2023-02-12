@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
-url: /le-trait/carrefour-2/
+url: /le-trait/carrefour/
 shop: gaz
 ---
