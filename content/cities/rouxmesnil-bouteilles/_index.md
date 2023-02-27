@@ -1,6 +1,6 @@
 ---
 title: Rouxmesnil-Bouteilles
 url: /rouxmesnil-bouteilles/
-latitude: 49.915
-longitude: 1.094
+latitude: 49.914
+longitude: 1.095
 ---
