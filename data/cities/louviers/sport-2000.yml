@@ -1,11 +1,11 @@
-id: 73090090
-type: way
-latitude: 49.21036
-longitude: 1.17322
+id: 10705181370
+type: node
+latitude: 49.21022
+longitude: 1.17329
 postcode: "27400"
 city: Louviers
 street: "Boulevard du Docteur Postel"
-housenumber: 
-phone: "+33 2 32 09 41 00"
-opening_hours: "Mo-Tu 09:30–12:30,14:00–19:00 We 09:30-19:00 Th-Fr 09:30–12:30,14:00–19:00 Sa 09:30-19:00"
-website: "https://www.sport2000.fr/magasins/fiche/271517-sport-2000-louviers"
+housenumber: 33
+phone: ""
+opening_hours: "Mo,Tu,Th,Fr 09:30-12:30,14:00-19:00; We,Sa 09:30-19:00"
+website: ""
