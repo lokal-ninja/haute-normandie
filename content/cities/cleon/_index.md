@@ -1,6 +1,6 @@
 ---
 title: Cléon
 url: /cleon/
-latitude: 49.309
-longitude: 1.036
+latitude: 49.313
+longitude: 1.032
 ---
