@@ -1,5 +1,5 @@
 ---
-title: "Une Heure pour Soi"
+title: "Une Heure Pour Soi"
 url: /rouen/une-heure-pour-soi/
-shop: beauté
+shop: parfumerie
 ---

@@ -1,5 +1,5 @@
 ---
-title: "E. Leclerc"
+title: "E.Leclerc"
 url: /rouen/e-leclerc/
-shop: supermarché
+shop: agence de voyage
 ---
