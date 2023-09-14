@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
-url: /le-havre/yves-rocher/
+url: /le-havre/yves-rocher-rue-casimir-perier/
 shop: beauté
 ---

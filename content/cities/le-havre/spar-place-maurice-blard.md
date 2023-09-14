@@ -1,5 +1,5 @@
 ---
 title: "Spar"
-url: /le-havre/spar/
+url: /le-havre/spar-place-maurice-blard/
 shop: commodité
 ---

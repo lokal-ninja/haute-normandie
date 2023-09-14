@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /rouen/carrefour-city/
+url: /rouen/carrefour-city-place-saint-marc/
 shop: supermarché
 ---

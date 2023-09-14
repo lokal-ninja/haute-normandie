@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
-url: /rouen/calzedonia/
+url: /rouen/calzedonia-avenue-de-bretagne/
 shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /dieppe/carrefour-city/
+url: /dieppe/carrefour-city-rue-de-la-barre/
 shop: supermarché
 ---

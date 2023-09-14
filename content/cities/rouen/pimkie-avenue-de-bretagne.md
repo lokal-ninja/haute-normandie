@@ -1,5 +1,5 @@
 ---
 title: "Pimkie"
-url: /rouen/pimkie/
+url: /rouen/pimkie-avenue-de-bretagne/
 shop: vêtements
 ---

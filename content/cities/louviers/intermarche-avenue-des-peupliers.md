@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
-url: /louviers/intermarche/
+url: /louviers/intermarche-avenue-des-peupliers/
 shop: supermarché
 ---

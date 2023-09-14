@@ -1,5 +1,5 @@
 ---
 title: "Avia"
-url: /bolbec/avia/
+url: /bolbec/avia-rue-jacques-fauquet/
 shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promod"
-url: /rouen/promod/
+url: /rouen/promod-avenue-de-bretagne/
 shop: vêtements
 ---

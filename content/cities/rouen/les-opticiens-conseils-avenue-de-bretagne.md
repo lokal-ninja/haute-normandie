@@ -1,5 +1,5 @@
 ---
 title: "Les Opticiens Conseils"
-url: /rouen/les-opticiens-conseils/
+url: /rouen/les-opticiens-conseils-avenue-de-bretagne/
 shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Épi Service"
-url: /saint-etienne-du-rouvray/epi-service/
+url: /saint-etienne-du-rouvray/epi-service-rue-geo-chavez/
 shop: commodité
 ---

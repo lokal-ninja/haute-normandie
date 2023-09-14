@@ -1,5 +1,5 @@
 ---
 title: "Vallonchêne"
-url: /sommery/vallonchene/
+url: /sommery/vallonchene-chemin-datteville/
 shop: cadeau
 ---
