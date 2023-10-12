@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
-url: /dieppe/yves-rocher-grande-rue/
+url: /le-havre/yves-rocher-quai-frissard/
 shop: beauté
 ---

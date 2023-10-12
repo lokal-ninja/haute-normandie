@@ -1,6 +1,6 @@
 ---
 title: Isneauville
 url: /isneauville/
-latitude: 49.491
-longitude: 1.143
+latitude: 49.498
+longitude: 1.141
 ---
