@@ -2,5 +2,5 @@
 title: Goderville
 url: /goderville/
 latitude: 49.646
-longitude: 0.367
+longitude: 0.368
 ---
