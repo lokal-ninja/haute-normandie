@@ -1,6 +1,6 @@
 ---
 title: Nonancourt
 url: /nonancourt/
-latitude: 48.779
-longitude: 1.19
+latitude: 48.771
+longitude: 1.198
 ---
