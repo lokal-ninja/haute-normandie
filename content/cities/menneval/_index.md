@@ -1,6 +1,6 @@
 ---
 title: Menneval
 url: /menneval/
-latitude: 49.103
-longitude: 0.611
+latitude: 49.104
+longitude: 0.612
 ---
