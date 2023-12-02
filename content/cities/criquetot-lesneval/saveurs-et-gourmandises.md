@@ -1,5 +1,5 @@
 ---
-title: "Saveurs et Gourmandises"
+title: "Saveurs Et Gourmandises"
 url: /criquetot-lesneval/saveurs-et-gourmandises/
 shop: boulangerie
 ---

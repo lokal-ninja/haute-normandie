@@ -1,5 +1,5 @@
 ---
-title: "Couleurs & Cie"
+title: "Couleurs & cie"
 url: /le-havre/couleurs-et-cie/
 shop: peinture
 ---
