@@ -1,5 +1,5 @@
 ---
-title: "E. Leclerc Drive"
+title: "E.Leclerc Drive"
 url: /le-vaudreuil/e-leclerc-drive/
 shop: supermarché
 ---
