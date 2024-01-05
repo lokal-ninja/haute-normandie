@@ -1,5 +1,5 @@
 ---
 title: "Gloria"
 url: /rouen/gloria/
-shop: bijoux
+shop: décoration intérieure
 ---
