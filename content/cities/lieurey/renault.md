@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /lieurey/renault/
-shop: voiture
+shop: réparation de voitures
 ---
