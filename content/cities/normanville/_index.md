@@ -1,6 +1,6 @@
 ---
 title: Normanville
 url: /normanville/
-latitude: 49.058
-longitude: 1.166
+latitude: 49.06
+longitude: 1.17
 ---
