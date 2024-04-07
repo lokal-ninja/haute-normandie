@@ -1,6 +1,6 @@
 ---
 title: Malaunay
 url: /malaunay/
-latitude: 49.529
-longitude: 1.043
+latitude: 49.524
+longitude: 1.041
 ---
