@@ -1,5 +1,5 @@
 ---
 title: "SFR"
-url: /rouen/sfr-rue-du-gros-horloge/
+url: /rouen/sfr-avenue-de-bretagne/
 shop: téléphone portable
 ---
