@@ -1,6 +1,6 @@
 ---
 title: Ferrières-en-Bray
 url: /ferrieres-en-bray/
-latitude: 49.478
-longitude: 1.738
+latitude: 49.477
+longitude: 1.74
 ---
