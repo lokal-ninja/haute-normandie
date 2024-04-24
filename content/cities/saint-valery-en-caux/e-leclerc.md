@@ -1,5 +1,5 @@
 ---
-title: "E. Leclerc"
+title: "E.Leclerc"
 url: /saint-valery-en-caux/e-leclerc/
-shop: commodité
+shop: supermarché
 ---
