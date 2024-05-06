@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /notre-dame-de-bondeville/super-u/
+url: /maromme/super-u/
 shop: supermarché
 ---
