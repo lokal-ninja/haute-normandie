@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
-url: /franqueville-saint-pierre/speedy/
+url: /saint-aubin-celloville/speedy/
 shop: réparation de voitures
 ---
