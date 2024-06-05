@@ -1,6 +1,6 @@
 ---
 title: Saint-Saëns
 url: /saint-saens/
-latitude: 49.67
-longitude: 1.285
+latitude: 49.673
+longitude: 1.283
 ---

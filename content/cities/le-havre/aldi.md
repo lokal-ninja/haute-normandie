@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /le-havre/aldi/
 shop: supermarché
 ---
