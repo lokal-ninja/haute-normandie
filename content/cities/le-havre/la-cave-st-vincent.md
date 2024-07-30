@@ -1,5 +1,5 @@
 ---
 title: "La cave St-Vincent"
 url: /le-havre/la-cave-st-vincent/
-shop: vin
+shop: alcool
 ---
