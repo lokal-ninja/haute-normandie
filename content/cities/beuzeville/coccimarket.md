@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /beuzeville/coccimarket/
-shop: légumes
+shop: commodité
 ---
