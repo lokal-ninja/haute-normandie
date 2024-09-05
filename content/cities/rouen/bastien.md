@@ -1,5 +1,5 @@
 ---
 title: "Bastien"
 url: /rouen/bastien/
-shop: pâtisserie
+shop: Konditorei
 ---

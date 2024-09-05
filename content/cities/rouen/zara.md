@@ -1,5 +1,5 @@
 ---
 title: "Zara"
 url: /rouen/zara/
-shop: vêtements
+shop: Kleidung
 ---

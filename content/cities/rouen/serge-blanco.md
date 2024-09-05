@@ -1,5 +1,5 @@
 ---
 title: "Serge Blanco"
 url: /rouen/serge-blanco/
-shop: vêtements
+shop: Kleidung
 ---

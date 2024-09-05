@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /guichainville/orange/
-shop: téléphone portable
+shop: Handy
 ---

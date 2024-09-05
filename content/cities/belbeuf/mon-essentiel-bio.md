@@ -1,5 +1,5 @@
 ---
 title: "Mon Essentiel Bio"
 url: /belbeuf/mon-essentiel-bio/
-shop: supermarché
+shop: Supermarkt
 ---

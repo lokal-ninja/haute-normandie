@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /dieppe/bonjour/
-shop: commodité
+shop: Lebensmittel
 ---

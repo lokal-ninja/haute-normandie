@@ -1,5 +1,5 @@
 ---
 title: "Intercontinental Market"
 url: /le-havre/intercontinental-market/
-shop: commodité
+shop: Lebensmittel
 ---

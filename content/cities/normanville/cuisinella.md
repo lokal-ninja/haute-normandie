@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /normanville/cuisinella/
-shop: meubles
+shop: Möbel
 ---

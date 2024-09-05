@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /rouen/sephora/
-shop: beauté
+shop: Kosmetik
 ---

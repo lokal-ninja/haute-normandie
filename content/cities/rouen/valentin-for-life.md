@@ -1,5 +1,5 @@
 ---
 title: "Valentin for life"
 url: /rouen/valentin-for-life/
-shop: boulangerie
+shop: Bäckerei
 ---

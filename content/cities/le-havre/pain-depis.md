@@ -1,5 +1,5 @@
 ---
 title: "Pain d'Epis"
 url: /le-havre/pain-depis/
-shop: boulangerie
+shop: Bäckerei
 ---

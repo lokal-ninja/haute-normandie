@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /vernon/carrefour/
-shop: supermarché
+shop: Supermarkt
 ---

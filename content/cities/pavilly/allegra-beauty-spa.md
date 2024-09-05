@@ -1,5 +1,5 @@
 ---
 title: "Allegra Beauty SPA"
 url: /pavilly/allegra-beauty-spa/
-shop: beauté
+shop: Kosmetik
 ---

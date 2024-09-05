@@ -1,5 +1,5 @@
 ---
 title: "Limare"
 url: /cormeilles/limare/
-shop: boucherie
+shop: Metzgerei
 ---

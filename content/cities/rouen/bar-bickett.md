@@ -1,5 +1,5 @@
 ---
 title: "Bar Bickett"
 url: /rouen/bar-bickett/
-shop: fromage
+shop: Käse
 ---

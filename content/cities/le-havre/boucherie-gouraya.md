@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Gouraya"
 url: /le-havre/boucherie-gouraya/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /yvetot/peugeot/
-shop: vélo
+shop: Fahrrad
 ---

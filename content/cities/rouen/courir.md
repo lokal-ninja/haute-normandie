@@ -1,5 +1,5 @@
 ---
 title: "Courir"
 url: /rouen/courir/
-shop: chaussures
+shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paul"
 url: /rouen/paul/
-shop: boulangerie
+shop: Bäckerei
 ---

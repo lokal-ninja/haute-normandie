@@ -1,5 +1,5 @@
 ---
 title: "Dechamps"
 url: /isneauville/dechamps/
-shop: légumes
+shop: Gemüse & Obst
 ---

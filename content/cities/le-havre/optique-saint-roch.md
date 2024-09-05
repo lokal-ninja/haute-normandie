@@ -1,5 +1,5 @@
 ---
 title: "Optique Saint-Roch"
 url: /le-havre/optique-saint-roch/
-shop: opticien
+shop: Optiker
 ---

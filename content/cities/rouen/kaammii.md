@@ -1,5 +1,5 @@
 ---
 title: "Kaammii"
 url: /rouen/kaammii/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tendance Ongle"
 url: /rouen/tendance-ongle/
-shop: beauté
+shop: Kosmetik
 ---

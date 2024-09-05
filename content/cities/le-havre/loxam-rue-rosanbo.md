@@ -1,5 +1,5 @@
 ---
 title: "Loxam"
 url: /le-havre/loxam-rue-rosanbo/
-shop: outils
+shop: Werkzeuge
 ---

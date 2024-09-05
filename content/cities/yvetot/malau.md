@@ -1,5 +1,5 @@
 ---
 title: "Malau"
 url: /yvetot/malau/
-shop: vêtements
+shop: Kleidung
 ---

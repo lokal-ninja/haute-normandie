@@ -1,5 +1,5 @@
 ---
 title: "Etamine"
 url: /yvetot/etamine/
-shop: vêtements
+shop: Kleidung
 ---

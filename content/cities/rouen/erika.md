@@ -1,5 +1,5 @@
 ---
 title: "Erika"
 url: /rouen/erika/
-shop: vêtements
+shop: Kleidung
 ---

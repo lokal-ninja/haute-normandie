@@ -1,5 +1,5 @@
 ---
 title: "Texti"
 url: /darnetal/texti/
-shop: vêtements
+shop: Kleidung
 ---

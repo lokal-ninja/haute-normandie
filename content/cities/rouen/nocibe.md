@@ -1,5 +1,5 @@
 ---
 title: "Nocibé"
 url: /rouen/nocibe/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "A. Lemoine"
 url: /bonsecours/a-lemoine/
-shop: boucherie
+shop: Metzgerei
 ---

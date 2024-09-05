@@ -1,5 +1,5 @@
 ---
 title: "Milliaud"
 url: /rouen/milliaud/
-shop: bijoux
+shop: Schmuck
 ---

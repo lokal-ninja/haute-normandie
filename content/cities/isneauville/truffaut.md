@@ -1,5 +1,5 @@
 ---
 title: "Truffaut"
 url: /isneauville/truffaut/
-shop: centre de jardinage
+shop: Garten-Center
 ---

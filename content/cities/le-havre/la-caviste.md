@@ -1,5 +1,5 @@
 ---
 title: "La caviste"
 url: /le-havre/la-caviste/
-shop: vin
+shop: Wein
 ---

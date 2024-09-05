@@ -1,5 +1,5 @@
 ---
 title: "La Ressourcerie"
 url: /menneval/la-ressourcerie/
-shop: charité
+shop: Gebrauchtwaren
 ---

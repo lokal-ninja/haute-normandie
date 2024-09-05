@@ -1,5 +1,5 @@
 ---
 title: "Les Ciseaux De Jess"
 url: /beuzeville/les-ciseaux-de-jess/
-shop: coiffeur
+shop: Friseur
 ---

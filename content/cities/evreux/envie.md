@@ -1,5 +1,5 @@
 ---
 title: "Envie"
 url: /evreux/envie/
-shop: charité
+shop: Gebrauchtwaren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /rouen/jules/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mango"
 url: /rouen/mango/
-shop: vêtements
+shop: Kleidung
 ---

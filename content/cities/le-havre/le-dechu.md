@@ -1,5 +1,5 @@
 ---
 title: "Le Déchu"
 url: /le-havre/le-dechu/
-shop: tatouage
+shop: Tattoo
 ---

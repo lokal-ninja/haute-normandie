@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /vernon/honda/
-shop: moto
+shop: Motorrad
 ---

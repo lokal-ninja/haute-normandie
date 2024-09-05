@@ -1,5 +1,5 @@
 ---
 title: "Cora"
 url: /evreux/cora/
-shop: commodité
+shop: Lebensmittel
 ---

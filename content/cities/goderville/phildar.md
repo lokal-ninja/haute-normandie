@@ -1,5 +1,5 @@
 ---
 title: "Phildar"
 url: /goderville/phildar/
-shop: vêtements
+shop: Kleidung
 ---

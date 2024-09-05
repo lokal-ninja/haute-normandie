@@ -1,5 +1,5 @@
 ---
 title: "Mauboussin"
 url: /rouen/mauboussin/
-shop: bijoux
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Keria"
 url: /barentin/keria/
-shop: lampes
+shop: Lampen
 ---

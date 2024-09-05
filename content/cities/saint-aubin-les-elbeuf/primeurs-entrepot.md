@@ -1,5 +1,5 @@
 ---
 title: "Primeurs Entrepôt"
 url: /saint-aubin-les-elbeuf/primeurs-entrepot/
-shop: charcuterie
+shop: Feinkost
 ---

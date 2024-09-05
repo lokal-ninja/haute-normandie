@@ -1,5 +1,5 @@
 ---
 title: "Institut Biche"
 url: /rives-en-seine/institut-biche/
-shop: beauté
+shop: Kosmetik
 ---

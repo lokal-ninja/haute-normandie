@@ -1,5 +1,5 @@
 ---
 title: "Cupra"
 url: /rouen/cupra/
-shop: voiture
+shop: Autohaus
 ---

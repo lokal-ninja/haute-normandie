@@ -1,5 +1,5 @@
 ---
 title: "EcoClop"
 url: /darnetal/ecoclop/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

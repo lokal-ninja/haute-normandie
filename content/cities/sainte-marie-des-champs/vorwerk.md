@@ -1,5 +1,5 @@
 ---
 title: "Vorwerk"
 url: /sainte-marie-des-champs/vorwerk/
-shop: aspirateur
+shop: Staubsauger
 ---

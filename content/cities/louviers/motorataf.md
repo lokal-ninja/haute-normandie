@@ -1,5 +1,5 @@
 ---
 title: "MotoRataf"
 url: /louviers/motorataf/
-shop: moto
+shop: Motorrad
 ---

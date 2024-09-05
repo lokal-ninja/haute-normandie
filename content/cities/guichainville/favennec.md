@@ -1,5 +1,5 @@
 ---
 title: "Favennec"
 url: /guichainville/favennec/
-shop: centre de jardinage
+shop: Garten-Center
 ---

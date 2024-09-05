@@ -1,5 +1,5 @@
 ---
 title: "Martin"
 url: /fecamp/martin/
-shop: boulangerie
+shop: Bäckerei
 ---

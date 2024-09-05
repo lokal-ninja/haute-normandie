@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /rouen/promod/
-shop: vêtements
+shop: Kleidung
 ---

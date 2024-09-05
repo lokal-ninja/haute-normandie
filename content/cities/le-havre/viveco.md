@@ -1,5 +1,5 @@
 ---
 title: "Viveco"
 url: /le-havre/viveco/
-shop: commodité
+shop: Lebensmittel
 ---

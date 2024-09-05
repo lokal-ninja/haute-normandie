@@ -1,5 +1,5 @@
 ---
 title: "Balenzo"
 url: /le-havre/balenzo/
-shop: sac
+shop: Taschen & Koffer
 ---

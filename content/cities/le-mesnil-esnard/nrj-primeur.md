@@ -1,5 +1,5 @@
 ---
 title: "Nrj Primeur"
 url: /le-mesnil-esnard/nrj-primeur/
-shop: commodité
+shop: Lebensmittel
 ---

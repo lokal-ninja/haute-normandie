@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /sotteville-les-rouen/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

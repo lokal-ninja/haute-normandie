@@ -1,5 +1,5 @@
 ---
 title: "Dalbe"
 url: /guichainville/dalbe/
-shop: artisanat
+shop: Basteln
 ---

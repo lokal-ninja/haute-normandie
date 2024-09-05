@@ -1,5 +1,5 @@
 ---
 title: "Avia"
 url: /bolbec/avia/
-shop: commodité
+shop: Lebensmittel
 ---

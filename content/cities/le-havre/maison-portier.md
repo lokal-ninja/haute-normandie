@@ -1,5 +1,5 @@
 ---
 title: "Maison Portier"
 url: /le-havre/maison-portier/
-shop: boulangerie
+shop: Bäckerei
 ---

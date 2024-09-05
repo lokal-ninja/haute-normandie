@@ -1,5 +1,5 @@
 ---
 title: "Marie-Christine Cambos"
 url: /le-havre/marie-christine-cambos/
-shop: bijoux
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /cormeilles/citroen/
-shop: voiture
+shop: Autohaus
 ---

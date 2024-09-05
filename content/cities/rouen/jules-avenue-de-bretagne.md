@@ -1,5 +1,5 @@
 ---
 title: "Jules"
 url: /rouen/jules-avenue-de-bretagne/
-shop: vêtements
+shop: Kleidung
 ---

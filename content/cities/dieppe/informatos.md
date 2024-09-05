@@ -1,5 +1,5 @@
 ---
 title: "Informatos"
 url: /dieppe/informatos/
-shop: ordinateur
+shop: Computer
 ---

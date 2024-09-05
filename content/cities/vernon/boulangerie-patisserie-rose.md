@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie - Pâtisserie Rose"
 url: /vernon/boulangerie-patisserie-rose/
-shop: boulangerie
+shop: Bäckerei
 ---

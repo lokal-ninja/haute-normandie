@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie des Halattes"
 url: /le-havre/boulangerie-des-halattes/
-shop: boulangerie
+shop: Bäckerei
 ---

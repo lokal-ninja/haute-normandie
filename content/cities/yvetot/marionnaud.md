@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /yvetot/marionnaud/
-shop: parfumerie
+shop: Parfümerie
 ---

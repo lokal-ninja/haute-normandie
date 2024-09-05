@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /saint-leonard/volkswagen/
-shop: voiture
+shop: Autohaus
 ---

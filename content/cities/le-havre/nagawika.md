@@ -1,5 +1,5 @@
 ---
 title: "Nagawika"
 url: /le-havre/nagawika/
-shop: vêtements
+shop: Kleidung
 ---

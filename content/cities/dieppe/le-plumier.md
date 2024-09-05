@@ -1,5 +1,5 @@
 ---
 title: "Le Plumier"
 url: /dieppe/le-plumier/
-shop: livres
+shop: Bücher
 ---

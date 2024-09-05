@@ -1,5 +1,5 @@
 ---
 title: "O'Pressing"
 url: /rouen/opressing/
-shop: blanchisserie
+shop: Wäscherei
 ---

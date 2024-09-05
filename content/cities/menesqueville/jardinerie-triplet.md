@@ -1,5 +1,5 @@
 ---
 title: "Jardinerie Triplet"
 url: /menesqueville/jardinerie-triplet/
-shop: fleuriste
+shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie des Londes"
 url: /le-havre/boulangerie-des-londes/
-shop: boulangerie
+shop: Bäckerei
 ---

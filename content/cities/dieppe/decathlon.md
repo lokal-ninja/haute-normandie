@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /dieppe/decathlon/
-shop: sports
+shop: Sport
 ---

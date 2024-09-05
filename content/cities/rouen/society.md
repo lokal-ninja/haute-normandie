@@ -1,5 +1,5 @@
 ---
 title: "Society"
 url: /rouen/society/
-shop: jeux
+shop: Spiele
 ---

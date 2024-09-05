@@ -1,5 +1,5 @@
 ---
 title: "O'Délices de Maélia"
 url: /lieurey/odelices-de-maelia/
-shop: commodité
+shop: Lebensmittel
 ---

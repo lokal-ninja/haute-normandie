@@ -1,5 +1,5 @@
 ---
 title: "Jardiland"
 url: /le-vieil-evreux/jardiland/
-shop: centre de jardinage
+shop: Garten-Center
 ---

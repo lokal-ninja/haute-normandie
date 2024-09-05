@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /darnetal/lidl/
-shop: supermarché
+shop: Supermarkt
 ---

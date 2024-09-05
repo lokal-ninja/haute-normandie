@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /isneauville/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

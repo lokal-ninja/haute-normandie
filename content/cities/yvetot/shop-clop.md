@@ -1,5 +1,5 @@
 ---
 title: "Shop Clop"
 url: /yvetot/shop-clop/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

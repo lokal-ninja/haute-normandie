@@ -1,5 +1,5 @@
 ---
 title: "Moa"
 url: /rouen/moa/
-shop: bijoux
+shop: Schmuck
 ---

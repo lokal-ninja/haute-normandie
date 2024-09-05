@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /sainte-marie-des-champs/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

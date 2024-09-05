@@ -1,5 +1,5 @@
 ---
 title: "Hure"
 url: /duclair/hure/
-shop: voiture
+shop: Autohaus
 ---

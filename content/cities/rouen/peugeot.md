@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /rouen/peugeot/
-shop: voiture
+shop: Autohaus
 ---

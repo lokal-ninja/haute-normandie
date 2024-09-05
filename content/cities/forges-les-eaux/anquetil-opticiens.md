@@ -1,5 +1,5 @@
 ---
-title: "ANQUETIL OPTICIENS"
+title: "Anquetil Opticiens"
 url: /forges-les-eaux/anquetil-opticiens/
-shop: opticien
+shop: Optiker
 ---

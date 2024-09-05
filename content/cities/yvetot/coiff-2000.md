@@ -1,5 +1,5 @@
 ---
 title: "Coiff 2000"
 url: /yvetot/coiff-2000/
-shop: coiffeur
+shop: Friseur
 ---

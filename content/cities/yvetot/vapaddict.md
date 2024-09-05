@@ -1,5 +1,5 @@
 ---
 title: "Vap'Addict"
 url: /yvetot/vapaddict/
-shop: e-cigarette
+shop: E-Zigaretten
 ---

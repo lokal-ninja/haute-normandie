@@ -1,5 +1,5 @@
 ---
 title: "Biocoop Evreux"
 url: /le-vieil-evreux/biocoop-evreux/
-shop: commodité
+shop: Lebensmittel
 ---

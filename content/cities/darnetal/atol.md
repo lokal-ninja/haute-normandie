@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /darnetal/atol/
-shop: opticien
+shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "But"
 url: /barentin/but/
-shop: meubles
+shop: Möbel
 ---

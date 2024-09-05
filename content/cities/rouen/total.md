@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /rouen/total/
-shop: commodité
+shop: Lebensmittel
 ---

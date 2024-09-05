@@ -1,5 +1,5 @@
 ---
 title: "Draeger"
 url: /rouen/draeger/
-shop: vêtements
+shop: Kleidung
 ---

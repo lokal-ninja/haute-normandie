@@ -1,5 +1,5 @@
 ---
 title: "Lexus"
 url: /rouen/lexus/
-shop: voiture
+shop: Autohaus
 ---

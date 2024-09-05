@@ -1,5 +1,5 @@
 ---
 title: "Tamaris"
 url: /rouen/tamaris/
-shop: chaussures
+shop: Schuhe
 ---

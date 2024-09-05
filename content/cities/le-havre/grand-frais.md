@@ -1,5 +1,5 @@
 ---
 title: "Grand Frais"
 url: /le-havre/grand-frais/
-shop: supermarché
+shop: Supermarkt
 ---

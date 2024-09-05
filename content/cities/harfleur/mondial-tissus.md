@@ -1,5 +1,5 @@
 ---
 title: "Mondial Tissus"
 url: /harfleur/mondial-tissus/
-shop: tissu
+shop: Textil
 ---

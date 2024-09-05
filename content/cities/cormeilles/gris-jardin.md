@@ -1,5 +1,5 @@
 ---
 title: "Gris Jardin"
 url: /cormeilles/gris-jardin/
-shop: décoration intérieure
+shop: Raumausstattung
 ---

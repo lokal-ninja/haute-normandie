@@ -1,5 +1,5 @@
 ---
 title: "Hauchecorne"
 url: /fecamp/hauchecorne/
-shop: boucherie
+shop: Metzgerei
 ---

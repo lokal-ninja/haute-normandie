@@ -1,5 +1,5 @@
 ---
 title: "Velasquez"
 url: /le-havre/velasquez/
-shop: coiffeur
+shop: Friseur
 ---

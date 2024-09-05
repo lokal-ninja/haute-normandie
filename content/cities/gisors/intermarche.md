@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /gisors/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Auzou"
 url: /evreux/auzou/
-shop: chocolat
+shop: Schokolade
 ---

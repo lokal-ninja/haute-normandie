@@ -1,5 +1,5 @@
 ---
 title: "Proxi Confort"
 url: /le-mesnil-esnard/proxi-confort/
-shop: électronique
+shop: Elektronik
 ---

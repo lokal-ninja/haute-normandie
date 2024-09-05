@@ -1,5 +1,5 @@
 ---
 title: "Devianne"
 url: /barentin/devianne/
-shop: vêtements
+shop: Kleidung
 ---

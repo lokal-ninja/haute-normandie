@@ -1,5 +1,5 @@
 ---
 title: "Vivéco"
 url: /etretat/viveco/
-shop: commodité
+shop: Lebensmittel
 ---

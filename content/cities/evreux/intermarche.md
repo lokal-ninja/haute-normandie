@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /evreux/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

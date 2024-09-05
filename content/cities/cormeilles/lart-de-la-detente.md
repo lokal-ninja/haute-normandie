@@ -1,5 +1,5 @@
 ---
 title: "L'Art de la Détente"
 url: /cormeilles/lart-de-la-detente/
-shop: coiffeur
+shop: Friseur
 ---

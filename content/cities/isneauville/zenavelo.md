@@ -1,5 +1,5 @@
 ---
 title: "Zenavelo"
 url: /isneauville/zenavelo/
-shop: vélo
+shop: Fahrrad
 ---

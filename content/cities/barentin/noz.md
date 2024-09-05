@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /barentin/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---
