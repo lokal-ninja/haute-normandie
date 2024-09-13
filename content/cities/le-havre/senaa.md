@@ -1,5 +1,5 @@
 ---
 title: "Senaã"
 url: /le-havre/senaa/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

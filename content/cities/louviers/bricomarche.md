@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /louviers/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Canton"
 url: /acquigny/garage-canton/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

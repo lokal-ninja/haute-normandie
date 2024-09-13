@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /montivilliers/darty/
-shop: Elektronik
+shop: électronique
 ---

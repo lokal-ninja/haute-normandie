@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /yvetot/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

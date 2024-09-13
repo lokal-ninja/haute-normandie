@@ -1,5 +1,5 @@
 ---
 title: "ELEENE"
 url: /rouen/eleene/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

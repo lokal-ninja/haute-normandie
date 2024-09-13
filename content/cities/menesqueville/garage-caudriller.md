@@ -1,5 +1,5 @@
 ---
 title: "Garage Caudriller"
 url: /menesqueville/garage-caudriller/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

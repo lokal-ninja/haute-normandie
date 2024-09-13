@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /les-andelys/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

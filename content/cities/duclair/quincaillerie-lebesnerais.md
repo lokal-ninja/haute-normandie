@@ -1,5 +1,5 @@
 ---
 title: "Quincaillerie Lebesnerais"
 url: /duclair/quincaillerie-lebesnerais/
-shop: Eisenwaren
+shop: matériel informatique
 ---

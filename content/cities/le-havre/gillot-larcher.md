@@ -1,5 +1,5 @@
 ---
 title: "Gillot Larcher"
 url: /le-havre/gillot-larcher/
-shop: Allgemein
+shop: shop
 ---

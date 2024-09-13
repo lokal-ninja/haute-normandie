@@ -1,5 +1,5 @@
 ---
 title: "Garage Dujardin"
 url: /saint-pierre-de-varengeville/garage-dujardin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

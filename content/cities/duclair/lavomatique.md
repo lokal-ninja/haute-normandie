@@ -1,5 +1,5 @@
 ---
 title: "Lavomatique"
 url: /duclair/lavomatique/
-shop: Wäscherei
+shop: blanchisserie
 ---

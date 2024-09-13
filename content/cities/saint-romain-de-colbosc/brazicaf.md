@@ -1,5 +1,5 @@
 ---
 title: "Brazicaf"
 url: /saint-romain-de-colbosc/brazicaf/
-shop: Kaffee
+shop: café
 ---

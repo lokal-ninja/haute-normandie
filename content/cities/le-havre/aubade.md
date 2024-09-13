@@ -1,5 +1,5 @@
 ---
 title: "Aubade"
 url: /le-havre/aubade/
-shop: Baumarkt
+shop: à faire soi-même
 ---

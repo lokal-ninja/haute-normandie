@@ -1,5 +1,5 @@
 ---
 title: "Seine Financement"
 url: /rouen/seine-financement/
-shop: Leiher
+shop: prêteur sur gages
 ---

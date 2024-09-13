@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Leveuf"
 url: /la-chapelle-longueville/boucherie-leveuf/
-shop: Metzgerei
+shop: boucherie
 ---

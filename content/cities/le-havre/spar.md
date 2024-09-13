@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /le-havre/spar/
-shop: Lebensmittel
+shop: commodité
 ---

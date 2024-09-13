@@ -1,5 +1,5 @@
 ---
 title: "Philippe Deshayes"
 url: /jumieges/philippe-deshayes/
-shop: Hofladen
+shop: ferme
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dessange"
 url: /rouen/dessange/
-shop: Friseur
+shop: coiffeur
 ---

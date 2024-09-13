@@ -1,5 +1,5 @@
 ---
 title: "Bouygues"
 url: /yvetot/bouygues/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Saint-Claude"
 url: /duclair/le-saint-claude/
-shop: Tabak
+shop: tabac
 ---

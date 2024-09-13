@@ -1,5 +1,5 @@
 ---
 title: "Aubert"
 url: /gonfreville-lorcher/aubert/
-shop: Babysachen
+shop: produits pour bébés
 ---

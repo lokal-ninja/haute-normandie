@@ -1,5 +1,5 @@
 ---
 title: "A Plus Glass"
 url: /yvetot/a-plus-glass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

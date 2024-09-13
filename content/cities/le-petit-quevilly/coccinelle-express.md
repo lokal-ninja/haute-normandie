@@ -1,5 +1,5 @@
 ---
 title: "Coccinelle Express"
 url: /le-petit-quevilly/coccinelle-express/
-shop: Supermarkt
+shop: supermarché
 ---

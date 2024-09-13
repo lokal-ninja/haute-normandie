@@ -1,5 +1,5 @@
 ---
 title: "L'instant Sana"
 url: /darnetal/linstant-sana/
-shop: Friseur
+shop: coiffeur
 ---

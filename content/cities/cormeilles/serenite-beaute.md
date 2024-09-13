@@ -1,5 +1,5 @@
 ---
 title: "Sérénité Beauté"
 url: /cormeilles/serenite-beaute/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabac Gambetta"
 url: /le-havre/tabac-gambetta/
-shop: Zeitungen
+shop: marchand de journaux
 ---

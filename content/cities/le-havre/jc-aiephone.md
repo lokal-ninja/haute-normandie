@@ -1,5 +1,5 @@
 ---
 title: "JC Aiephone"
 url: /le-havre/jc-aiephone/
-shop: Handy
+shop: téléphone portable
 ---

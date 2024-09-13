@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Gilles"
 url: /thiberville/coiffure-gilles/
-shop: Friseur
+shop: coiffeur
 ---

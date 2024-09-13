@@ -1,5 +1,5 @@
 ---
 title: "Au Cygnes Mah"
 url: /malaunay/au-cygnes-mah/
-shop: Kleidung
+shop: vêtements
 ---

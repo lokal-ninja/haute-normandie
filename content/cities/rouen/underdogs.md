@@ -1,5 +1,5 @@
 ---
 title: "Underdogs"
 url: /rouen/underdogs/
-shop: Spirituosen
+shop: alcool
 ---

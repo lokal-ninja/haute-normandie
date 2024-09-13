@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /yvetot/orange/
-shop: Handy
+shop: téléphone portable
 ---

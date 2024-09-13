@@ -1,5 +1,5 @@
 ---
 title: "Kbane"
 url: /barentin/kbane/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Costiles"
 url: /totes/costiles/
-shop: Fliesen
+shop: tuiles
 ---

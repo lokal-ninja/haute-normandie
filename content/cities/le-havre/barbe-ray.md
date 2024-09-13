@@ -1,5 +1,5 @@
 ---
 title: "Barbe Ray"
 url: /le-havre/barbe-ray/
-shop: Friseur
+shop: coiffeur
 ---

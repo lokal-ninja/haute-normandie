@@ -1,5 +1,5 @@
 ---
 title: "Boutique SFR"
 url: /yvetot/boutique-sfr/
-shop: Handy
+shop: téléphone portable
 ---

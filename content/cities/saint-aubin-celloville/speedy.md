@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /saint-aubin-celloville/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

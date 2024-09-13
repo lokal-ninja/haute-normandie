@@ -1,5 +1,5 @@
 ---
 title: "Vélostation Lovélo"
 url: /rouen/velostation-lovelo/
-shop: Fahrrad
+shop: vélo
 ---

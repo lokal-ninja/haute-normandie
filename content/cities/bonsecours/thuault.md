@@ -1,5 +1,5 @@
 ---
 title: "Thuault"
 url: /bonsecours/thuault/
-shop: Bäckerei
+shop: boulangerie
 ---

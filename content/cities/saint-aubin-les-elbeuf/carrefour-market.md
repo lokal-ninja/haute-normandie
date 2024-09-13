@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /saint-aubin-les-elbeuf/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

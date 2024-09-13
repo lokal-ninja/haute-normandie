@@ -1,5 +1,5 @@
 ---
 title: "Mg Motor"
 url: /rouen/mg-motor/
-shop: Autohaus
+shop: voiture
 ---

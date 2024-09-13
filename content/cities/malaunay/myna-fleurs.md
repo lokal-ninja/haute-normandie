@@ -1,5 +1,5 @@
 ---
 title: "Myna Fleurs"
 url: /malaunay/myna-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

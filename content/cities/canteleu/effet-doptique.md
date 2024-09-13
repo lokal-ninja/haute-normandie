@@ -1,5 +1,5 @@
 ---
 title: "Effet d'Optique"
 url: /canteleu/effet-doptique/
-shop: Optiker
+shop: opticien
 ---

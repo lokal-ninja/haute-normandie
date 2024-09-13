@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /barentin/decathlon/
-shop: Sport
+shop: sports
 ---

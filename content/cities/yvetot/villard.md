@@ -1,5 +1,5 @@
 ---
 title: "Villard"
 url: /yvetot/villard/
-shop: Fisch
+shop: fruits de mer
 ---

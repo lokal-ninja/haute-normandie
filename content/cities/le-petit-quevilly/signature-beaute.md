@@ -1,5 +1,5 @@
 ---
 title: "Signature Beauté"
 url: /le-petit-quevilly/signature-beaute/
-shop: Friseur
+shop: coiffeur
 ---

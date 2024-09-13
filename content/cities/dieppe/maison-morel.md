@@ -1,5 +1,5 @@
 ---
 title: "Maison Morel"
 url: /dieppe/maison-morel/
-shop: Bäckerei
+shop: boulangerie
 ---

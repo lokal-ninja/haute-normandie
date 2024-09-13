@@ -1,5 +1,5 @@
 ---
 title: "La Foir'Fouille"
 url: /montivilliers/la-foirfouille/
-shop: Kramladen
+shop: magasin de variétés
 ---

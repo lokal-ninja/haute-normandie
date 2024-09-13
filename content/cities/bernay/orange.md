@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /bernay/orange/
-shop: Handy
+shop: téléphone portable
 ---

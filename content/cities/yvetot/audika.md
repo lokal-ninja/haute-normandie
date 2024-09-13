@@ -1,5 +1,5 @@
 ---
 title: "Audika"
 url: /yvetot/audika/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

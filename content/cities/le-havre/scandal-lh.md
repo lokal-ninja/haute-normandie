@@ -1,5 +1,5 @@
 ---
 title: "Scandal LH"
 url: /le-havre/scandal-lh/
-shop: Erotik
+shop: érotique
 ---

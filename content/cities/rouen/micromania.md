@@ -1,5 +1,5 @@
 ---
 title: "Micromania"
 url: /rouen/micromania/
-shop: Videospiele
+shop: jeux vidéo
 ---

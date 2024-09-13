@@ -1,5 +1,5 @@
 ---
 title: "K-Way"
 url: /le-havre/k-way/
-shop: Kleidung
+shop: vêtements
 ---

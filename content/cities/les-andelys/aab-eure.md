@@ -1,5 +1,5 @@
 ---
 title: "AAB Eure"
 url: /les-andelys/aab-eure/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

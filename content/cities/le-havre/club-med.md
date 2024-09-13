@@ -1,5 +1,5 @@
 ---
 title: "Club Med"
 url: /le-havre/club-med/
-shop: Reisebüro
+shop: agence de voyage
 ---

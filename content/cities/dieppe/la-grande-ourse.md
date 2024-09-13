@@ -1,5 +1,5 @@
 ---
 title: "La Grande Ourse"
 url: /dieppe/la-grande-ourse/
-shop: Bücher
+shop: livres
 ---

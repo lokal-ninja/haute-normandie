@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie"
 url: /dieppe/boulangerie-patisserie/
-shop: Bäckerei
+shop: boulangerie
 ---

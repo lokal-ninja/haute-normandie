@@ -1,5 +1,5 @@
 ---
 title: "Easy"
 url: /le-havre/easy/
-shop: Friseur
+shop: coiffeur
 ---

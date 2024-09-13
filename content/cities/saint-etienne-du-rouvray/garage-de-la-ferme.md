@@ -1,5 +1,5 @@
 ---
 title: "Garage de la Ferme"
 url: /saint-etienne-du-rouvray/garage-de-la-ferme/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

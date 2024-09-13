@@ -1,5 +1,5 @@
 ---
 title: "Fuel Sentimental"
 url: /le-havre/fuel-sentimental/
-shop: Kleidung
+shop: vêtements
 ---

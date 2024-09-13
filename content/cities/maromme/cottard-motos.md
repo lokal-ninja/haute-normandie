@@ -1,5 +1,5 @@
 ---
 title: "Cottard Motos"
 url: /maromme/cottard-motos/
-shop: Autohaus
+shop: voiture
 ---

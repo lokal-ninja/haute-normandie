@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /gournay-en-bray/leonidas/
-shop: Schokolade
+shop: chocolat
 ---

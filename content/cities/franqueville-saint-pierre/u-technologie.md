@@ -1,5 +1,5 @@
 ---
 title: "U Technologie"
 url: /franqueville-saint-pierre/u-technologie/
-shop: Allgemein
+shop: shop
 ---

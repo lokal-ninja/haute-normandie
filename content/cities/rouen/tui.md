@@ -1,5 +1,5 @@
 ---
 title: "Tui"
 url: /rouen/tui/
-shop: Reisebüro
+shop: agence de voyage
 ---

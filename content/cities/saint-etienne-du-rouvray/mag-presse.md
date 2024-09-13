@@ -1,5 +1,5 @@
 ---
 title: "Mag Presse"
 url: /saint-etienne-du-rouvray/mag-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

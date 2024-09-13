@@ -1,5 +1,5 @@
 ---
 title: "Presse Loto Du Marché"
 url: /saint-valery-en-caux/presse-loto-du-marche/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /saint-leonard/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

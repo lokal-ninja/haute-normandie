@@ -1,5 +1,5 @@
 ---
 title: "Aux Délices d'Yvetot"
 url: /yvetot/aux-delices-dyvetot/
-shop: Bäckerei
+shop: boulangerie
 ---

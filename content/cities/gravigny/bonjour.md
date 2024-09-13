@@ -1,5 +1,5 @@
 ---
 title: "Bonjour"
 url: /gravigny/bonjour/
-shop: Lebensmittel
+shop: commodité
 ---

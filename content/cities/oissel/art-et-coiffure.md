@@ -1,5 +1,5 @@
 ---
 title: "Art et Coiffure"
 url: /oissel/art-et-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Relay"
 url: /dieppe/relay/
-shop: Zeitungen
+shop: marchand de journaux
 ---

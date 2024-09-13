@@ -1,5 +1,5 @@
 ---
 title: "Illumine"
 url: /cormeilles/illumine/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nouvelles Frontières"
 url: /le-havre/nouvelles-frontieres/
-shop: Reisebüro
+shop: agence de voyage
 ---

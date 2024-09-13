@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /franqueville-saint-pierre/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

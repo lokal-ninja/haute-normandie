@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /barentin/renault/
-shop: Autohaus
+shop: voiture
 ---

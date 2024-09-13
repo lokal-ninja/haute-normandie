@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /barentin/aldi/
-shop: Supermarkt
+shop: supermarché
 ---

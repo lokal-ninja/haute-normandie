@@ -1,5 +1,5 @@
 ---
 title: "Phone"
 url: /rouen/phone/
-shop: Handy
+shop: téléphone portable
 ---

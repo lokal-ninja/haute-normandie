@@ -1,5 +1,5 @@
 ---
 title: "Le Maillon Normand"
 url: /pavilly/le-maillon-normand/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coup d'Coeur"
 url: /cormeilles/coup-dcoeur/
-shop: Leder
+shop: cuir
 ---

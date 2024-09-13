@@ -1,5 +1,5 @@
 ---
 title: "Medicorto"
 url: /saint-romain-de-colbosc/medicorto/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

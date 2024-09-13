@@ -1,5 +1,5 @@
 ---
 title: "Grand Frais"
 url: /le-grand-quevilly/grand-frais/
-shop: Supermarkt
+shop: supermarché
 ---

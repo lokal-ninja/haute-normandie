@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /yvetot/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

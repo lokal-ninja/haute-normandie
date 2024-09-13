@@ -1,5 +1,5 @@
 ---
 title: "Save"
 url: /rouen/save/
-shop: Handy
+shop: téléphone portable
 ---

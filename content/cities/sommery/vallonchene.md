@@ -1,5 +1,5 @@
 ---
 title: "Vallonchêne"
 url: /sommery/vallonchene/
-shop: Garten-Center
+shop: centre de jardinage
 ---

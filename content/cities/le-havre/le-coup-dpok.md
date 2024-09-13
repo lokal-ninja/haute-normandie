@@ -1,5 +1,5 @@
 ---
 title: "Le coup d'Pok"
 url: /le-havre/le-coup-dpok/
-shop: Zeitungen
+shop: marchand de journaux
 ---

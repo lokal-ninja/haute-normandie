@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /pont-audemer/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

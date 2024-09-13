@@ -1,5 +1,5 @@
 ---
 title: "Garage Renault"
 url: /petit-caux/garage-renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

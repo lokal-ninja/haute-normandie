@@ -1,5 +1,5 @@
 ---
 title: "La Plage"
 url: /darnetal/la-plage/
-shop: Zeitungen
+shop: marchand de journaux
 ---

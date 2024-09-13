@@ -1,5 +1,5 @@
 ---
 title: "Degrenne"
 url: /rouen/degrenne/
-shop: Haushaltsartikel
+shop: articles ménagers
 ---

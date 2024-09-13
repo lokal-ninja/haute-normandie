@@ -1,5 +1,5 @@
 ---
 title: "Fabien et Corinne Lerondel"
 url: /duclair/fabien-et-corinne-lerondel/
-shop: Bäckerei
+shop: boulangerie
 ---

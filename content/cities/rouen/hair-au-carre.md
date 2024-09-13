@@ -1,5 +1,5 @@
 ---
 title: "Hair au carré"
 url: /rouen/hair-au-carre/
-shop: Friseur
+shop: coiffeur
 ---

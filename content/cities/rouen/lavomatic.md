@@ -1,5 +1,5 @@
 ---
 title: "Lavomatic"
 url: /rouen/lavomatic/
-shop: Wäscherei
+shop: blanchisserie
 ---

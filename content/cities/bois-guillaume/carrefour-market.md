@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /bois-guillaume/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

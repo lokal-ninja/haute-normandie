@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Isis"
 url: /rouen/bijouterie-isis/
-shop: Schmuck
+shop: bijoux
 ---

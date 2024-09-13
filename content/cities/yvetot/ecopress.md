@@ -1,5 +1,5 @@
 ---
 title: "Ecopress"
 url: /yvetot/ecopress/
-shop: Wäscherei
+shop: blanchisserie
 ---

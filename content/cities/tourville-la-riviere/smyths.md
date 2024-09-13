@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
 url: /tourville-la-riviere/smyths/
-shop: Spielzeug
+shop: jouets
 ---

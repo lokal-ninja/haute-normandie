@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /rouen/free/
-shop: Handy
+shop: téléphone portable
 ---

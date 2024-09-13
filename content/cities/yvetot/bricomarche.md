@@ -1,5 +1,5 @@
 ---
 title: "Bricomarché"
 url: /yvetot/bricomarche/
-shop: Baumarkt
+shop: à faire soi-même
 ---

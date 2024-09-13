@@ -1,5 +1,5 @@
 ---
 title: "Roady"
 url: /gisors/roady/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

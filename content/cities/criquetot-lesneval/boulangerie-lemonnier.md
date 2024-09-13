@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Lemonnier"
 url: /criquetot-lesneval/boulangerie-lemonnier/
-shop: Bäckerei
+shop: boulangerie
 ---

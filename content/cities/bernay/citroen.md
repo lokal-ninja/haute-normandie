@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /bernay/citroen/
-shop: Autohaus
+shop: voiture
 ---

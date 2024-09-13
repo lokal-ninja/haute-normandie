@@ -1,5 +1,5 @@
 ---
 title: "Duclair Automobiles"
 url: /duclair/duclair-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

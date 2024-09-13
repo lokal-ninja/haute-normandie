@@ -1,5 +1,5 @@
 ---
 title: "Bullitt"
 url: /rouen/bullitt/
-shop: Kleidung
+shop: vêtements
 ---

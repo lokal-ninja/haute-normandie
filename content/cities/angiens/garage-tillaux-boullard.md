@@ -1,5 +1,5 @@
 ---
 title: "Garage Tillaux Boullard"
 url: /angiens/garage-tillaux-boullard/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

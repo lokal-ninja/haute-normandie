@@ -1,5 +1,5 @@
 ---
 title: "Drop Vintage Club"
 url: /rouen/drop-vintage-club/
-shop: Gebrauchtwaren
+shop: charité
 ---

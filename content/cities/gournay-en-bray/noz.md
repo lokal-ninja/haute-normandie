@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /gournay-en-bray/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

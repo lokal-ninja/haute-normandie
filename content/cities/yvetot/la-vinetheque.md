@@ -1,5 +1,5 @@
 ---
 title: "La Vinethèque"
 url: /yvetot/la-vinetheque/
-shop: Wein
+shop: vin
 ---

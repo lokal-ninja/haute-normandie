@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /rouen/lapeyre/
-shop: Möbel
+shop: meubles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Espace Fleurs"
 url: /gournay-en-bray/espace-fleurs/
-shop: Blumen
+shop: fleuriste
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'escapade"
 url: /le-havre/lescapade/
-shop: Wein
+shop: vin
 ---

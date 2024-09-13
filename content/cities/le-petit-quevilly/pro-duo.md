@@ -1,5 +1,5 @@
 ---
 title: "Pro-Duo"
 url: /le-petit-quevilly/pro-duo/
-shop: Friseurbedarf
+shop: fournitures pour coiffeurs
 ---

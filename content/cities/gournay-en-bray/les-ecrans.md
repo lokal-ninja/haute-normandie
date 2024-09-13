@@ -1,5 +1,5 @@
 ---
 title: "Les Ecrans"
 url: /gournay-en-bray/les-ecrans/
-shop: Kleidung
+shop: vêtements
 ---

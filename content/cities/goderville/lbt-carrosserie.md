@@ -1,5 +1,5 @@
 ---
 title: "Lbt Carrosserie"
 url: /goderville/lbt-carrosserie/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

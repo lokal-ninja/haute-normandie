@@ -1,5 +1,5 @@
 ---
 title: "Instinct'if"
 url: /saint-romain-de-colbosc/instinctif/
-shop: Friseur
+shop: coiffeur
 ---

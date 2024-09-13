@@ -1,5 +1,5 @@
 ---
 title: "Garage du Bac"
 url: /yainville/garage-du-bac/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

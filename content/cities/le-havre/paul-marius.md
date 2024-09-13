@@ -1,5 +1,5 @@
 ---
 title: "Paul Marius"
 url: /le-havre/paul-marius/
-shop: Leder
+shop: cuir
 ---

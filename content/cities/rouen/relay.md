@@ -1,5 +1,5 @@
 ---
 title: "Relay"
 url: /rouen/relay/
-shop: Zeitungen
+shop: marchand de journaux
 ---

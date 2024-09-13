@@ -1,5 +1,5 @@
 ---
 title: "Vivéco"
 url: /bihorel/viveco/
-shop: Lebensmittel
+shop: commodité
 ---

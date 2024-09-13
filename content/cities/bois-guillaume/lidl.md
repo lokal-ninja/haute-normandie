@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /bois-guillaume/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

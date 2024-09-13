@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie la nouvelle vague"
 url: /fecamp/poissonnerie-la-nouvelle-vague/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /caudebec-les-elbeuf/screwfix/
-shop: Baumarkt
+shop: à faire soi-même
 ---

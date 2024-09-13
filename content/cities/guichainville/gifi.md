@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /guichainville/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

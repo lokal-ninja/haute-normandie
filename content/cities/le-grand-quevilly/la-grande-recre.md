@@ -1,5 +1,5 @@
 ---
 title: "La Grande Récré"
 url: /le-grand-quevilly/la-grande-recre/
-shop: Spielzeug
+shop: jouets
 ---

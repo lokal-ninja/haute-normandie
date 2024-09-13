@@ -1,5 +1,5 @@
 ---
 title: "Éram"
 url: /rouen/eram/
-shop: Schuhe
+shop: chaussures
 ---

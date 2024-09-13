@@ -1,5 +1,5 @@
 ---
 title: "Office Depot"
 url: /le-petit-quevilly/office-depot/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

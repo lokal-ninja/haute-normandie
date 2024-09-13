@@ -1,5 +1,5 @@
 ---
 title: "Couleurs du sud"
 url: /le-havre/couleurs-du-sud/
-shop: Kleidung
+shop: vêtements
 ---

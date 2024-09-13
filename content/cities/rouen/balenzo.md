@@ -1,5 +1,5 @@
 ---
 title: "Balenzo"
 url: /rouen/balenzo/
-shop: Taschen & Koffer
+shop: sac
 ---

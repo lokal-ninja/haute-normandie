@@ -1,5 +1,5 @@
 ---
 title: "Togs"
 url: /yvetot/togs/
-shop: Allgemein
+shop: shop
 ---

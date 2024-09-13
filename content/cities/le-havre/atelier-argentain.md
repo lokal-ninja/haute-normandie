@@ -1,5 +1,5 @@
 ---
 title: "Atelier Argentain"
 url: /le-havre/atelier-argentain/
-shop: Bäckerei
+shop: boulangerie
 ---

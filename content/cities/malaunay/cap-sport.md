@@ -1,5 +1,5 @@
 ---
 title: "Cap Sport"
 url: /malaunay/cap-sport/
-shop: Sport
+shop: sports
 ---

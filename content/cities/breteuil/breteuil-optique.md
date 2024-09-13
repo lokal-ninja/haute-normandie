@@ -1,5 +1,5 @@
 ---
 title: "Breteuil Optique"
 url: /breteuil/breteuil-optique/
-shop: Optiker
+shop: opticien
 ---

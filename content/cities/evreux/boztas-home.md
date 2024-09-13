@@ -1,5 +1,5 @@
 ---
 title: "Boztas Home"
 url: /evreux/boztas-home/
-shop: Möbel
+shop: meubles
 ---

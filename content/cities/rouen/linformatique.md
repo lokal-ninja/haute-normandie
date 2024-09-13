@@ -1,5 +1,5 @@
 ---
 title: "L'Informatique"
 url: /rouen/linformatique/
-shop: Computer
+shop: ordinateur
 ---

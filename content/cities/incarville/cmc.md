@@ -1,5 +1,5 @@
 ---
 title: "CMC"
 url: /incarville/cmc/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

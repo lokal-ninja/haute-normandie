@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /gonfreville-lorcher/e-leclerc/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Notre-Dame"
 url: /le-havre/notre-dame/
-shop: Zeitungen
+shop: marchand de journaux
 ---

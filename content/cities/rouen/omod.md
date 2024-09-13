@@ -1,5 +1,5 @@
 ---
 title: "O'mod"
 url: /rouen/omod/
-shop: Kleidung
+shop: vêtements
 ---

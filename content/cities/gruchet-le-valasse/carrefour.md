@@ -1,5 +1,5 @@
 ---
 title: "Carrefour"
 url: /gruchet-le-valasse/carrefour/
-shop: Supermarkt
+shop: supermarché
 ---

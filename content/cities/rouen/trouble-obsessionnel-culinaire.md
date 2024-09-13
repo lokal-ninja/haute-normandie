@@ -1,5 +1,5 @@
 ---
 title: "Trouble Obsessionnel Culinaire"
 url: /rouen/trouble-obsessionnel-culinaire/
-shop: Küchen
+shop: cuisine
 ---

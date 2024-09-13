@@ -1,5 +1,5 @@
 ---
 title: "Bisman"
 url: /rouen/bisman/
-shop: Auktionshaus
+shop: maison d'enchères
 ---

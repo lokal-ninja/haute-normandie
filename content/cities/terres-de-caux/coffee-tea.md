@@ -1,5 +1,5 @@
 ---
 title: "Coffee Tea"
 url: /terres-de-caux/coffee-tea/
-shop: Kaffee
+shop: café
 ---

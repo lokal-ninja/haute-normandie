@@ -1,5 +1,5 @@
 ---
 title: "Mesnil Ink"
 url: /bonsecours/mesnil-ink/
-shop: Tattoo
+shop: tatouage
 ---

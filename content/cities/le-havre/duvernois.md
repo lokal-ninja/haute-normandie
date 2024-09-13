@@ -1,5 +1,5 @@
 ---
 title: "Duvernois"
 url: /le-havre/duvernois/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

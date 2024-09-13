@@ -1,5 +1,5 @@
 ---
 title: "Maison de presse"
 url: /lieurey/maison-de-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

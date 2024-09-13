@@ -1,5 +1,5 @@
 ---
 title: "France Pare-Brise"
 url: /evreux/france-pare-brise/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

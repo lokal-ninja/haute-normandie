@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /gonfreville-lorcher/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

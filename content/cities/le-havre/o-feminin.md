@@ -1,5 +1,5 @@
 ---
 title: "O Féminin"
 url: /le-havre/o-feminin/
-shop: Kosmetik
+shop: beauté
 ---

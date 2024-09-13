@@ -1,5 +1,5 @@
 ---
 title: "Droguerie Conseils"
 url: /le-havre/droguerie-conseils/
-shop: Drogerie
+shop: chimiste
 ---

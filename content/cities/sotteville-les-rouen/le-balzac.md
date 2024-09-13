@@ -1,5 +1,5 @@
 ---
 title: "Le Balzac"
 url: /sotteville-les-rouen/le-balzac/
-shop: Zeitungen
+shop: marchand de journaux
 ---

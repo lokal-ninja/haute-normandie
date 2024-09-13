@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /les-andelys/vival/
-shop: Lebensmittel
+shop: commodité
 ---

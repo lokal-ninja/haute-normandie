@@ -1,5 +1,5 @@
 ---
 title: "Bruno Place"
 url: /quincampoix/bruno-place/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

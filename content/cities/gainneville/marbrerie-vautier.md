@@ -1,5 +1,5 @@
 ---
 title: "Marbrerie Vautier"
 url: /gainneville/marbrerie-vautier/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Boinet Mickaël"
 url: /saint-pierre-les-elbeuf/boinet-mickael/
-shop: Metzgerei
+shop: boucherie
 ---

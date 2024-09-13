@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Kevin"
 url: /bazoques/carrosserie-kevin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

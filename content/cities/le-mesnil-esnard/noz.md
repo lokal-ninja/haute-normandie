@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /le-mesnil-esnard/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

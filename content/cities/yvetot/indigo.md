@@ -1,5 +1,5 @@
 ---
 title: "Indigo"
 url: /yvetot/indigo/
-shop: Kleidung
+shop: vêtements
 ---

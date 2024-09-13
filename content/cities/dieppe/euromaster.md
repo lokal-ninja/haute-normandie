@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
 url: /dieppe/euromaster/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

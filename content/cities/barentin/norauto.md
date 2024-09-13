@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /barentin/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

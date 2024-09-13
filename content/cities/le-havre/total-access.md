@@ -1,5 +1,5 @@
 ---
 title: "Total Access"
 url: /le-havre/total-access/
-shop: Lebensmittel
+shop: commodité
 ---

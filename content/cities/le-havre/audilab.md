@@ -1,5 +1,5 @@
 ---
 title: "Audilab"
 url: /le-havre/audilab/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

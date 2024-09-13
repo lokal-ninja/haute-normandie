@@ -1,5 +1,5 @@
 ---
 title: "PADD"
 url: /rouen/padd/
-shop: Sport
+shop: sports
 ---

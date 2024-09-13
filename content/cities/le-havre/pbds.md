@@ -1,5 +1,5 @@
 ---
 title: "Pbds"
 url: /le-havre/pbds/
-shop: Autoteile
+shop: pièces de voitures
 ---

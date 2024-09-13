@@ -1,5 +1,5 @@
 ---
 title: "Honda"
 url: /deville-les-rouen/honda/
-shop: Motorrad
+shop: moto
 ---

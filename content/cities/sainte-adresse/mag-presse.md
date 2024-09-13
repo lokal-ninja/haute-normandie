@@ -1,5 +1,5 @@
 ---
 title: "Mag Presse"
 url: /sainte-adresse/mag-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

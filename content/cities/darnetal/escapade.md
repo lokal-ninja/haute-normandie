@@ -1,5 +1,5 @@
 ---
 title: "Escapade"
 url: /darnetal/escapade/
-shop: Schuhe
+shop: chaussures
 ---

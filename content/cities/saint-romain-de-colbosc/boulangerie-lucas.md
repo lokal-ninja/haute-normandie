@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Lucas"
 url: /saint-romain-de-colbosc/boulangerie-lucas/
-shop: Bäckerei
+shop: boulangerie
 ---

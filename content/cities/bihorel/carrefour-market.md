@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /bihorel/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

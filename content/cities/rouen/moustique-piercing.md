@@ -1,5 +1,5 @@
 ---
 title: "Moustique Piercing"
 url: /rouen/moustique-piercing/
-shop: Piercing
+shop: piercing
 ---

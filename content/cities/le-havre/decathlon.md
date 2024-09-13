@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /le-havre/decathlon/
-shop: Sport
+shop: sports
 ---

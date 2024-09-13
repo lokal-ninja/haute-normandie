@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /elbeuf/carrefour-city/
-shop: Supermarkt
+shop: supermarché
 ---

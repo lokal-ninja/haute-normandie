@@ -1,5 +1,5 @@
 ---
 title: "Smoke 2 Vape"
 url: /deville-les-rouen/smoke-2-vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

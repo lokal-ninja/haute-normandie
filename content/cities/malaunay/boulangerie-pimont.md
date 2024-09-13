@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pimont"
 url: /malaunay/boulangerie-pimont/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie des Chartreux"
 url: /le-petit-quevilly/carrosserie-des-chartreux/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

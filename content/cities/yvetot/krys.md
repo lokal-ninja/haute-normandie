@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /yvetot/krys/
-shop: Optiker
+shop: opticien
 ---

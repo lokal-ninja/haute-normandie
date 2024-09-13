@@ -1,5 +1,5 @@
 ---
 title: "Loxam"
 url: /le-havre/loxam/
-shop: Werkzeuge
+shop: outils
 ---

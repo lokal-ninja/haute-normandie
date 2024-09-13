@@ -1,5 +1,5 @@
 ---
 title: "Coiffeur-Barbier"
 url: /rouen/coiffeur-barbier/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Niort Frères"
 url: /rouen/niort-freres/
-shop: Autoteile
+shop: pièces de voitures
 ---

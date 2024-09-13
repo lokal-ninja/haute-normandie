@@ -1,5 +1,5 @@
 ---
 title: "Smoke2Vape"
 url: /le-petit-quevilly/smoke2vape/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

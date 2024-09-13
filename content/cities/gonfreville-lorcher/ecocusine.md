@@ -1,5 +1,5 @@
 ---
 title: "EcoCusine"
 url: /gonfreville-lorcher/ecocusine/
-shop: Küchen
+shop: cuisine
 ---

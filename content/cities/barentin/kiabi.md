@@ -1,5 +1,5 @@
 ---
 title: "Kiabi"
 url: /barentin/kiabi/
-shop: Kleidung
+shop: vêtements
 ---

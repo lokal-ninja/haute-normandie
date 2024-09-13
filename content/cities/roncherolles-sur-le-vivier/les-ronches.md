@@ -1,5 +1,5 @@
 ---
 title: "Les Ronches"
 url: /roncherolles-sur-le-vivier/les-ronches/
-shop: Tabak
+shop: tabac
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /saint-etienne-du-rouvray/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dog story"
 url: /yvetot/dog-story/
-shop: Allgemein
+shop: shop
 ---

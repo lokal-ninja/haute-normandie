@@ -1,5 +1,5 @@
 ---
 title: "Etablissements JP Masson SARL"
 url: /houville-en-vexin/etablissements-jp-masson-sarl/
-shop: Autoteile
+shop: pièces de voitures
 ---

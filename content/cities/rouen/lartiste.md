@@ -1,5 +1,5 @@
 ---
 title: "L'Artiste"
 url: /rouen/lartiste/
-shop: Friseur
+shop: coiffeur
 ---

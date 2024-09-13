@@ -1,5 +1,5 @@
 ---
 title: "Archi Cool"
 url: /le-havre/archi-cool/
-shop: Kleidung
+shop: vêtements
 ---

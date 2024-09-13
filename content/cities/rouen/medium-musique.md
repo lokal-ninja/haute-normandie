@@ -1,5 +1,5 @@
 ---
 title: "Medium Musique"
 url: /rouen/medium-musique/
-shop: Instrumente
+shop: instrument de musique
 ---

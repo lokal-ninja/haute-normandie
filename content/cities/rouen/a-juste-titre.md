@@ -1,5 +1,5 @@
 ---
 title: "À juste titre"
 url: /rouen/a-juste-titre/
-shop: Bücher
+shop: livres
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Total Contact"
 url: /barentin/total-contact/
-shop: Lebensmittel
+shop: commodité
 ---

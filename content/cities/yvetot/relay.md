@@ -1,5 +1,5 @@
 ---
 title: "Relay"
 url: /yvetot/relay/
-shop: Zeitungen
+shop: marchand de journaux
 ---

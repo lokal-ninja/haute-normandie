@@ -1,5 +1,5 @@
 ---
 title: "Lebourgeois"
 url: /le-havre/lebourgeois/
-shop: Autoteile
+shop: pièces de voitures
 ---

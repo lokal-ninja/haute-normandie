@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /sotteville-les-rouen/carrefour-market/
-shop: Gasflaschen
+shop: gaz
 ---

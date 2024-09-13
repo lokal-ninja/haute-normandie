@@ -1,5 +1,5 @@
 ---
 title: "Le Cayeux"
 url: /dieppe/le-cayeux/
-shop: Zeitungen
+shop: marchand de journaux
 ---

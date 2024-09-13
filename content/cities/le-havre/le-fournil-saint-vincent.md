@@ -1,5 +1,5 @@
 ---
 title: "Le Fournil Saint-Vincent"
 url: /le-havre/le-fournil-saint-vincent/
-shop: Bäckerei
+shop: boulangerie
 ---

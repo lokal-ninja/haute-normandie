@@ -1,5 +1,5 @@
 ---
 title: "Système U"
 url: /yerville/systeme-u/
-shop: Lebensmittel
+shop: commodité
 ---

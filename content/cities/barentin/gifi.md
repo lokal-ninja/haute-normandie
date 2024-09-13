@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /barentin/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

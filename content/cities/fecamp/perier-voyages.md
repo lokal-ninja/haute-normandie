@@ -1,5 +1,5 @@
 ---
 title: "Périer Voyages"
 url: /fecamp/perier-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

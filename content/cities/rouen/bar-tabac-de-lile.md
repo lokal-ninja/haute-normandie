@@ -1,5 +1,5 @@
 ---
 title: "Bar Tabac de l'Île"
 url: /rouen/bar-tabac-de-lile/
-shop: Zeitungen
+shop: marchand de journaux
 ---

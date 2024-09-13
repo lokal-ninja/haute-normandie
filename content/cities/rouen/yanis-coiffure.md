@@ -1,5 +1,5 @@
 ---
 title: "Yanis Coiffure"
 url: /rouen/yanis-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

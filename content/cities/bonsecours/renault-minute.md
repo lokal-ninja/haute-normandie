@@ -1,5 +1,5 @@
 ---
 title: "Renault Minute"
 url: /bonsecours/renault-minute/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

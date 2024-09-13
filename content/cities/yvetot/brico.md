@@ -1,5 +1,5 @@
 ---
 title: "Brico"
 url: /yvetot/brico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

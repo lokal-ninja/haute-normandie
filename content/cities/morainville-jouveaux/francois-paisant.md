@@ -1,5 +1,5 @@
 ---
 title: "François Paisant"
 url: /morainville-jouveaux/francois-paisant/
-shop: Landwirtschaftlich
+shop: agraire
 ---

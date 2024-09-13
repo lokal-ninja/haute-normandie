@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /gruchet-le-valasse/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

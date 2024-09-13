@@ -1,5 +1,5 @@
 ---
 title: "Wassim"
 url: /bonsecours/wassim/
-shop: Bäckerei
+shop: boulangerie
 ---

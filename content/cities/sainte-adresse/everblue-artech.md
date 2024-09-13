@@ -1,5 +1,5 @@
 ---
 title: "Everblue Artech"
 url: /sainte-adresse/everblue-artech/
-shop: Pool
+shop: piscine
 ---

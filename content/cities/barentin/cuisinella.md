@@ -1,5 +1,5 @@
 ---
 title: "Cuisinella"
 url: /barentin/cuisinella/
-shop: Küchen
+shop: cuisine
 ---

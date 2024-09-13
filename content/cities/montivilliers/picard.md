@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /montivilliers/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

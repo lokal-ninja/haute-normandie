@@ -1,5 +1,5 @@
 ---
 title: "Fleurs Bleues"
 url: /le-havre/fleurs-bleues/
-shop: Blumen
+shop: fleuriste
 ---

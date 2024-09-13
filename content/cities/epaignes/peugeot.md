@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /epaignes/peugeot/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jean Jacques"
 url: /le-havre/jean-jacques/
-shop: Friseur
+shop: coiffeur
 ---

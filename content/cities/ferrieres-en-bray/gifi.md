@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /ferrieres-en-bray/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LoVaNail"
 url: /le-havre/lovanail/
-shop: Allgemein
+shop: shop
 ---

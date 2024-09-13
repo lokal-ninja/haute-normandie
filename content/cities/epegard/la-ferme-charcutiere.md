@@ -1,5 +1,5 @@
 ---
 title: "La Ferme Charcutiere"
 url: /epegard/la-ferme-charcutiere/
-shop: Metzgerei
+shop: boucherie
 ---

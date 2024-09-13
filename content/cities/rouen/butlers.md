@@ -1,5 +1,5 @@
 ---
 title: "Butler's"
 url: /rouen/butlers/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

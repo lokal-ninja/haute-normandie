@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Papeil"
 url: /le-mesnil-esnard/bijouterie-papeil/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Total Access"
 url: /moulineaux/total-access/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roady"
 url: /louviers/roady/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

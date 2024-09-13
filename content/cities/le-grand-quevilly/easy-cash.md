@@ -1,5 +1,5 @@
 ---
 title: "Easy Cash"
 url: /le-grand-quevilly/easy-cash/
-shop: Gebrauchtwaren
+shop: charité
 ---

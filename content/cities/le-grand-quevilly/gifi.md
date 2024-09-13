@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /le-grand-quevilly/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

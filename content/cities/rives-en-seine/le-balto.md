@@ -1,5 +1,5 @@
 ---
 title: "Le Balto"
 url: /rives-en-seine/le-balto/
-shop: Tabak
+shop: tabac
 ---

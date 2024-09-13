@@ -1,5 +1,5 @@
 ---
 title: "Forchy"
 url: /yvetot/forchy/
-shop: Bäckerei
+shop: boulangerie
 ---

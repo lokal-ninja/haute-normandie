@@ -1,5 +1,5 @@
 ---
 title: "Julien"
 url: /isneauville/julien/
-shop: Bäckerei
+shop: boulangerie
 ---

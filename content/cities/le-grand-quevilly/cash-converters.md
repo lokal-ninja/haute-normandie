@@ -1,5 +1,5 @@
 ---
 title: "Cash Converters"
 url: /le-grand-quevilly/cash-converters/
-shop: Leiher
+shop: prêteur sur gages
 ---

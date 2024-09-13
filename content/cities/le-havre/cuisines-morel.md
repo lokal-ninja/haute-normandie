@@ -1,5 +1,5 @@
 ---
 title: "Cuisines Morel"
 url: /le-havre/cuisines-morel/
-shop: Küchen
+shop: cuisine
 ---

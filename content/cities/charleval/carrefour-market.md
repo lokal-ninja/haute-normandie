@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
 url: /charleval/carrefour-market/
-shop: Supermarkt
+shop: supermarché
 ---

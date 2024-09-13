@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /elbeuf/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

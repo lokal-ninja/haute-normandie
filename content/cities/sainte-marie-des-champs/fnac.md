@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /sainte-marie-des-champs/fnac/
-shop: Elektronik
+shop: électronique
 ---

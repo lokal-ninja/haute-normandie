@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /bois-guillaume/renault/
-shop: Autohaus
+shop: voiture
 ---

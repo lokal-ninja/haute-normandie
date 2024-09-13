@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /rouen/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

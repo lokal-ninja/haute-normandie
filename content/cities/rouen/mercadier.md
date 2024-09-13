@@ -1,5 +1,5 @@
 ---
 title: "Mercadier"
 url: /rouen/mercadier/
-shop: Farben
+shop: peinture
 ---

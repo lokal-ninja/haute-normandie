@@ -1,5 +1,5 @@
 ---
 title: "Épi Service"
 url: /le-havre/epi-service/
-shop: Lebensmittel
+shop: commodité
 ---

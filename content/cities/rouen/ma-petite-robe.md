@@ -1,5 +1,5 @@
 ---
 title: "Ma petite robe"
 url: /rouen/ma-petite-robe/
-shop: Kleidung
+shop: vêtements
 ---

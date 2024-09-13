@@ -1,5 +1,5 @@
 ---
 title: "Garage Niel"
 url: /yainville/garage-niel/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

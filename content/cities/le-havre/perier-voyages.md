@@ -1,5 +1,5 @@
 ---
 title: "Périer Voyages"
 url: /le-havre/perier-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

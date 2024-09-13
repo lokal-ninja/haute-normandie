@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /franqueville-saint-pierre/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

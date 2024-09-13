@@ -1,5 +1,5 @@
 ---
 title: "Silliard Ludovic Roland Gilbert"
 url: /malaunay/silliard-ludovic-roland-gilbert/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

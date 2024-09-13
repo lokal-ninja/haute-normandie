@@ -1,5 +1,5 @@
 ---
 title: "Prolians"
 url: /le-havre/prolians/
-shop: Baumarkt
+shop: à faire soi-même
 ---

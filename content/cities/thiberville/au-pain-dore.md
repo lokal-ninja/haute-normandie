@@ -1,5 +1,5 @@
 ---
 title: "Au Pain Doré"
 url: /thiberville/au-pain-dore/
-shop: Bäckerei
+shop: boulangerie
 ---

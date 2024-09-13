@@ -1,5 +1,5 @@
 ---
 title: "L'Élixir"
 url: /oissel/lelixir/
-shop: Zeitungen
+shop: marchand de journaux
 ---

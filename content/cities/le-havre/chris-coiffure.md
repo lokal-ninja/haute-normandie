@@ -1,5 +1,5 @@
 ---
 title: "Chris Coiffure"
 url: /le-havre/chris-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

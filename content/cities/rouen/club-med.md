@@ -1,5 +1,5 @@
 ---
 title: "Club Med"
 url: /rouen/club-med/
-shop: Reisebüro
+shop: agence de voyage
 ---

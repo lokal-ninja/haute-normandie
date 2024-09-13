@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Accent"
 url: /le-tilleul/le-petit-accent/
-shop: Bäckerei
+shop: boulangerie
 ---

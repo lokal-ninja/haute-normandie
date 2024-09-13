@@ -1,5 +1,5 @@
 ---
 title: "Jacadi"
 url: /rouen/jacadi/
-shop: Kleidung
+shop: vêtements
 ---

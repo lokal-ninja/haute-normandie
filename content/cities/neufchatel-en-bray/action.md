@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /neufchatel-en-bray/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

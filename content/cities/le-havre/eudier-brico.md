@@ -1,5 +1,5 @@
 ---
 title: "Eudier Brico"
 url: /le-havre/eudier-brico/
-shop: Baumarkt
+shop: à faire soi-même
 ---

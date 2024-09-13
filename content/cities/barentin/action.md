@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /barentin/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

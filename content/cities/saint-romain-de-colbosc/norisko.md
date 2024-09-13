@@ -1,5 +1,5 @@
 ---
 title: "Norisko"
 url: /saint-romain-de-colbosc/norisko/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

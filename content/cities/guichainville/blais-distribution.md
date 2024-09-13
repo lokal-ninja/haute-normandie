@@ -1,5 +1,5 @@
 ---
 title: "Blais Distribution"
 url: /guichainville/blais-distribution/
-shop: Großhandel
+shop: vente en gros
 ---

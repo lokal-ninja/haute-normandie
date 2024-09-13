@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
 url: /le-havre/warhammer/
-shop: Spiele
+shop: jeux
 ---

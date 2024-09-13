@@ -1,5 +1,5 @@
 ---
 title: "La Gourmandise"
 url: /sotteville-les-rouen/la-gourmandise/
-shop: Bäckerei
+shop: boulangerie
 ---

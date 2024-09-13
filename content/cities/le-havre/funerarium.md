@@ -1,5 +1,5 @@
 ---
 title: "Funérarium"
 url: /le-havre/funerarium/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

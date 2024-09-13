@@ -1,5 +1,5 @@
 ---
 title: "La Petite Boulange"
 url: /saint-sylvestre-de-cormeilles/la-petite-boulange/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ephélide"
 url: /duclair/ephelide/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse du Centre"
 url: /oissel/tabac-presse-du-centre/
-shop: Zeitungen
+shop: marchand de journaux
 ---

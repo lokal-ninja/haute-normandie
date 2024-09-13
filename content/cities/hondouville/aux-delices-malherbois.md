@@ -1,5 +1,5 @@
 ---
 title: "Aux Délices Malherbois"
 url: /hondouville/aux-delices-malherbois/
-shop: Bäckerei
+shop: boulangerie
 ---

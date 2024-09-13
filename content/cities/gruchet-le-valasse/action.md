@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /gruchet-le-valasse/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

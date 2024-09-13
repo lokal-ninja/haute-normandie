@@ -1,5 +1,5 @@
 ---
 title: "Auchan"
 url: /dieppe/auchan/
-shop: Supermarkt
+shop: supermarché
 ---

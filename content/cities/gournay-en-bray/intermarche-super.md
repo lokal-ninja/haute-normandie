@@ -1,5 +1,5 @@
 ---
 title: "Intermarché Super"
 url: /gournay-en-bray/intermarche-super/
-shop: Supermarkt
+shop: supermarché
 ---

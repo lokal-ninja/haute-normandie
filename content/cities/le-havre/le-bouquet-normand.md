@@ -1,5 +1,5 @@
 ---
 title: "Le Bouquet Normand"
 url: /le-havre/le-bouquet-normand/
-shop: Fisch
+shop: fruits de mer
 ---

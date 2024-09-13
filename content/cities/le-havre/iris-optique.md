@@ -1,5 +1,5 @@
 ---
 title: "Iris Optique"
 url: /le-havre/iris-optique/
-shop: Optiker
+shop: opticien
 ---

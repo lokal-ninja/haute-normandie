@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /le-havre/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hair en tête"
 url: /sotteville-les-rouen/hair-en-tete/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Districenter"
 url: /bihorel/districenter/
-shop: Kleidung
+shop: vêtements
 ---

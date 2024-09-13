@@ -1,5 +1,5 @@
 ---
 title: "Gms Dreadlocks Afro"
 url: /le-havre/gms-dreadlocks-afro/
-shop: Friseur
+shop: coiffeur
 ---

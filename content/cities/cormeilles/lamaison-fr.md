@@ -1,5 +1,5 @@
 ---
 title: "lamaison.fr"
 url: /cormeilles/lamaison-fr/
-shop: Baumarkt
+shop: à faire soi-même
 ---

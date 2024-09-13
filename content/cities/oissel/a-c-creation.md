@@ -1,5 +1,5 @@
 ---
 title: "A.C' Creation"
 url: /oissel/a-c-creation/
-shop: Friseur
+shop: coiffeur
 ---

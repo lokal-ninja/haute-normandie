@@ -1,5 +1,5 @@
 ---
 title: "Viva'Son"
 url: /rouen/vivason/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

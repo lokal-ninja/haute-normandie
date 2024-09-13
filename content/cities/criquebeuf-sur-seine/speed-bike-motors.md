@@ -1,5 +1,5 @@
 ---
 title: "Speed Bike Motors"
 url: /criquebeuf-sur-seine/speed-bike-motors/
-shop: Sport
+shop: sports
 ---

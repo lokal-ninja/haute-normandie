@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /gisors/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

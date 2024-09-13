@@ -1,5 +1,5 @@
 ---
 title: "Laverie Automatique"
 url: /oissel/laverie-automatique/
-shop: Wäscherei
+shop: blanchisserie
 ---

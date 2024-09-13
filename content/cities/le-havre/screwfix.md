@@ -1,5 +1,5 @@
 ---
 title: "Screwfix"
 url: /le-havre/screwfix/
-shop: Baumarkt
+shop: à faire soi-même
 ---

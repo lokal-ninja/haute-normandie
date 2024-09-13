@@ -1,5 +1,5 @@
 ---
 title: "Aesthetic Circle Record Shop"
 url: /rouen/aesthetic-circle-record-shop/
-shop: Musik
+shop: musique
 ---

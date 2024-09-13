@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /le-houlme/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

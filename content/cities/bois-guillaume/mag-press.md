@@ -1,5 +1,5 @@
 ---
 title: "Mag Press"
 url: /bois-guillaume/mag-press/
-shop: Zeitungen
+shop: marchand de journaux
 ---

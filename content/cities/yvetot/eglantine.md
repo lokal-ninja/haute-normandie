@@ -1,5 +1,5 @@
 ---
 title: "Eglantine"
 url: /yvetot/eglantine/
-shop: Kleidung
+shop: vêtements
 ---

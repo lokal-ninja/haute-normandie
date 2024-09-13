@@ -1,5 +1,5 @@
 ---
 title: "Nature house"
 url: /yvetot/nature-house/
-shop: Nahrungsergänzung
+shop: les compléments alimentaires
 ---

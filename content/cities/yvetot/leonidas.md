@@ -1,5 +1,5 @@
 ---
 title: "Leonidas"
 url: /yvetot/leonidas/
-shop: Schokolade
+shop: chocolat
 ---

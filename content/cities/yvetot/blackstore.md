@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /yvetot/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "PFG"
 url: /darnetal/pfg/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les Maisons Extraco"
 url: /yvetot/les-maisons-extraco/
-shop: Allgemein
+shop: shop
 ---

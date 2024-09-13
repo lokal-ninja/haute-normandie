@@ -1,5 +1,5 @@
 ---
 title: "Les Tentureries"
 url: /le-havre/les-tentureries/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Madejo"
 url: /le-havre/madejo/
-shop: Tiere
+shop: animal de compagnie
 ---

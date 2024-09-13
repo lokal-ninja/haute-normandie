@@ -1,5 +1,5 @@
 ---
 title: "Les Vivants"
 url: /le-havre/les-vivants/
-shop: Bücher
+shop: livres
 ---

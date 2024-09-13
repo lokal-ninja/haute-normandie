@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
 url: /le-havre/volkswagen/
-shop: Autohaus
+shop: voiture
 ---

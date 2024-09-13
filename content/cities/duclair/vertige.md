@@ -1,5 +1,5 @@
 ---
 title: "Vertige"
 url: /duclair/vertige/
-shop: Blumen
+shop: fleuriste
 ---

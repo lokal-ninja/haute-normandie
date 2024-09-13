@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /rouen/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Petit Lutin"
 url: /yvetot/le-petit-lutin/
-shop: Babysachen
+shop: produits pour bébés
 ---

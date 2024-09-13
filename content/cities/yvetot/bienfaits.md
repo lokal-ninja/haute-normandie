@@ -1,5 +1,5 @@
 ---
 title: "Bienfaits"
 url: /yvetot/bienfaits/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

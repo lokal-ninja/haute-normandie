@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /fecamp/intermarche/
-shop: Supermarkt
+shop: supermarché
 ---

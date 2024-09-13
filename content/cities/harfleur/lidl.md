@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
 url: /harfleur/lidl/
-shop: Supermarkt
+shop: supermarché
 ---

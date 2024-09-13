@@ -1,5 +1,5 @@
 ---
 title: "Marchand"
 url: /dieppe/marchand/
-shop: Gasflaschen
+shop: gaz
 ---

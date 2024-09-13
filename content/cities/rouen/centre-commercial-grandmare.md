@@ -1,5 +1,5 @@
 ---
 title: "Centre commercial Grand'Mare"
 url: /rouen/centre-commercial-grandmare/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

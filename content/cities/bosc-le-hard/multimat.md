@@ -1,5 +1,5 @@
 ---
 title: "Multimat"
 url: /bosc-le-hard/multimat/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /le-havre/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

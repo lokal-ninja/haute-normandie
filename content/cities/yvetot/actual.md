@@ -1,5 +1,5 @@
 ---
 title: "Actual"
 url: /yvetot/actual/
-shop: Kleidung
+shop: vêtements
 ---

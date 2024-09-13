@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /rouen/sfr/
-shop: Handy
+shop: téléphone portable
 ---

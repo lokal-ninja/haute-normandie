@@ -1,5 +1,5 @@
 ---
 title: "Écouter Voir"
 url: /evreux/ecouter-voir/
-shop: Optiker
+shop: opticien
 ---

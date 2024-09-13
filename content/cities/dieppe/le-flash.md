@@ -1,5 +1,5 @@
 ---
 title: "Le Flash"
 url: /dieppe/le-flash/
-shop: Tabak
+shop: tabac
 ---

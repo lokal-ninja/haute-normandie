@@ -1,5 +1,5 @@
 ---
 title: "France Literie"
 url: /gonfreville-lorcher/france-literie/
-shop: Betten
+shop: lit
 ---

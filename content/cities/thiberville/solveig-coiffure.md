@@ -1,5 +1,5 @@
 ---
 title: "Solveig Coiffure"
 url: /thiberville/solveig-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

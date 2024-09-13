@@ -1,5 +1,5 @@
 ---
 title: "Joutel"
 url: /yvetot/joutel/
-shop: Metzgerei
+shop: boucherie
 ---

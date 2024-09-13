@@ -1,5 +1,5 @@
 ---
 title: "La salamandre"
 url: /yvetot/la-salamandre/
-shop: Kleidung
+shop: vêtements
 ---

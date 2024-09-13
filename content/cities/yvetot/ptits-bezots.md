@@ -1,5 +1,5 @@
 ---
 title: "P'tits Bézots"
 url: /yvetot/ptits-bezots/
-shop: Babysachen
+shop: produits pour bébés
 ---

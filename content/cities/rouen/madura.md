@@ -1,5 +1,5 @@
 ---
 title: "Madura"
 url: /rouen/madura/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

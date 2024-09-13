@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
 url: /le-houlme/e-leclerc/
-shop: Gasflaschen
+shop: gaz
 ---

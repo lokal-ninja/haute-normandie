@@ -1,5 +1,5 @@
 ---
 title: "Halles de Barentin"
 url: /barentin/halles-de-barentin/
-shop: Dorfladen
+shop: magasin de campagne
 ---

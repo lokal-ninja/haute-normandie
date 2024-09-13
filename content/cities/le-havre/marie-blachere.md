@@ -1,5 +1,5 @@
 ---
 title: "Marie Blachère"
 url: /le-havre/marie-blachere/
-shop: Bäckerei
+shop: boulangerie
 ---

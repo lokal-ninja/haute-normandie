@@ -1,5 +1,5 @@
 ---
 title: "Infinity Shop"
 url: /le-havre/infinity-shop/
-shop: Anime
+shop: anime
 ---

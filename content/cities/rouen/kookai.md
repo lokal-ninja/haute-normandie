@@ -1,5 +1,5 @@
 ---
 title: "Kookaï"
 url: /rouen/kookai/
-shop: Kleidung
+shop: vêtements
 ---

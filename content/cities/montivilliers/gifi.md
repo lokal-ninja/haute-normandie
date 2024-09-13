@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /montivilliers/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

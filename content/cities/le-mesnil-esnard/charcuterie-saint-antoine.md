@@ -1,5 +1,5 @@
 ---
 title: "Charcuterie Saint-Antoine"
 url: /le-mesnil-esnard/charcuterie-saint-antoine/
-shop: Metzgerei
+shop: boucherie
 ---

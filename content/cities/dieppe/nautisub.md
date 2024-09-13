@@ -1,5 +1,5 @@
 ---
 title: "Nautisub"
 url: /dieppe/nautisub/
-shop: Boot
+shop: bateau
 ---

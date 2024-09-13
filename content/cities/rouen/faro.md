@@ -1,5 +1,5 @@
 ---
 title: "Faro"
 url: /rouen/faro/
-shop: Schuhe
+shop: chaussures
 ---

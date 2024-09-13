@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /saint-valery-en-caux/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

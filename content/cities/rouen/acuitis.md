@@ -1,5 +1,5 @@
 ---
 title: "Acuitis"
 url: /rouen/acuitis/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

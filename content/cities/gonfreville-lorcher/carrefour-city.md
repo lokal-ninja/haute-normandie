@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /gonfreville-lorcher/carrefour-city/
-shop: Supermarkt
+shop: supermarché
 ---

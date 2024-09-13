@@ -1,5 +1,5 @@
 ---
 title: "L'Ariel"
 url: /sotteville-les-rouen/lariel/
-shop: Zeitungen
+shop: marchand de journaux
 ---

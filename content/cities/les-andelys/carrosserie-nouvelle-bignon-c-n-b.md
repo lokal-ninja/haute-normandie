@@ -1,5 +1,5 @@
 ---
 title: "Carrosserie Nouvelle Bignon (C.N.B)"
 url: /les-andelys/carrosserie-nouvelle-bignon-c-n-b/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Jardinerie Poullain"
 url: /le-petit-quevilly/jardinerie-poullain/
-shop: Garten-Center
+shop: centre de jardinage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /barentin/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

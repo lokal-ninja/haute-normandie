@@ -1,5 +1,5 @@
 ---
 title: "Garage Municipal"
 url: /le-havre/garage-municipal/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

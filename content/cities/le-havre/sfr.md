@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /le-havre/sfr/
-shop: Handy
+shop: téléphone portable
 ---

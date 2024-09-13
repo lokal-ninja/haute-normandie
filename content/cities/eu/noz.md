@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /eu/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

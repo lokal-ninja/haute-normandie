@@ -1,5 +1,5 @@
 ---
 title: "Rivada"
 url: /barentin/rivada/
-shop: Tiere
+shop: animal de compagnie
 ---

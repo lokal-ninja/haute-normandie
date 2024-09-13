@@ -1,5 +1,5 @@
 ---
 title: "Factorerie"
 url: /le-havre/factorerie/
-shop: Kleidung
+shop: vêtements
 ---

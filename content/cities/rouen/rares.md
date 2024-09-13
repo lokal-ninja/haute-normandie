@@ -1,5 +1,5 @@
 ---
 title: "Rares"
 url: /rouen/rares/
-shop: Schmuck
+shop: bijoux
 ---

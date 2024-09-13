@@ -1,5 +1,5 @@
 ---
 title: "New Yorker"
 url: /le-havre/new-yorker/
-shop: Kleidung
+shop: vêtements
 ---

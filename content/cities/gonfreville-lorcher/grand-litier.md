@@ -1,5 +1,5 @@
 ---
 title: "Grand Litier"
 url: /gonfreville-lorcher/grand-litier/
-shop: Betten
+shop: lit
 ---

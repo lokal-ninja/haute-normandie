@@ -1,5 +1,5 @@
 ---
 title: "Olivier"
 url: /dieppe/olivier/
-shop: Feinkost
+shop: charcuterie
 ---

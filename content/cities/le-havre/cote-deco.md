@@ -1,5 +1,5 @@
 ---
 title: "Côté Déco"
 url: /le-havre/cote-deco/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

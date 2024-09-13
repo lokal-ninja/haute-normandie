@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /duclair/total/
-shop: Lebensmittel
+shop: commodité
 ---

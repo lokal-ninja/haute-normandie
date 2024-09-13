@@ -1,5 +1,5 @@
 ---
 title: "Margarett Delaruelle"
 url: /gournay-en-bray/margarett-delaruelle/
-shop: Schuhe
+shop: chaussures
 ---

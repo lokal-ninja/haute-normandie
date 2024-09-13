@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /le-havre/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

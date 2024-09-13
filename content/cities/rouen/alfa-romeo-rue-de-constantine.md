@@ -1,5 +1,5 @@
 ---
 title: "Alfa Romeo"
 url: /rouen/alfa-romeo-rue-de-constantine/
-shop: Autohaus
+shop: voiture
 ---

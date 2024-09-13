@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /le-grand-quevilly/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /gravigny/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

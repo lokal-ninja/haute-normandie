@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /dieppe/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /maromme/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

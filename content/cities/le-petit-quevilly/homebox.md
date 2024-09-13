@@ -1,5 +1,5 @@
 ---
 title: "Homebox"
 url: /le-petit-quevilly/homebox/
-shop: Mieten
+shop: location de stockage
 ---

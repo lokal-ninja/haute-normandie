@@ -1,5 +1,5 @@
 ---
 title: "Peugeot"
 url: /auzebosc/peugeot/
-shop: Autohaus
+shop: voiture
 ---

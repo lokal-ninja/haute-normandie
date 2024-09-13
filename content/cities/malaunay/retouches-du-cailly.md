@@ -1,5 +1,5 @@
 ---
 title: "Retouches du Cailly"
 url: /malaunay/retouches-du-cailly/
-shop: Nähzubehör
+shop: couture
 ---

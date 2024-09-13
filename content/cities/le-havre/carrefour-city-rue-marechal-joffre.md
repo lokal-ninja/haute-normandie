@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /le-havre/carrefour-city-rue-marechal-joffre/
-shop: Supermarkt
+shop: supermarché
 ---

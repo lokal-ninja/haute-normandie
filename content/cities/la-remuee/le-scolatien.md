@@ -1,5 +1,5 @@
 ---
 title: "Le Scolatien"
 url: /la-remuee/le-scolatien/
-shop: Bäckerei
+shop: boulangerie
 ---

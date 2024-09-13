@@ -1,5 +1,5 @@
 ---
 title: "Le Havane"
 url: /dieppe/le-havane/
-shop: Tabak
+shop: tabac
 ---

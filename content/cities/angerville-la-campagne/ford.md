@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /angerville-la-campagne/ford/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

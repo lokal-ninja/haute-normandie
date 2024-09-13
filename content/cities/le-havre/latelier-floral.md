@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier Floral"
 url: /le-havre/latelier-floral/
-shop: Blumen
+shop: fleuriste
 ---
