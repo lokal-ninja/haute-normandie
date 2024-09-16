@@ -4,8 +4,8 @@ latitude: 49.61686
 longitude: 0.75586
 postcode: "76190"
 city: Yvetot
-street: "Place de l'Hôtel-de-Ville"
-housenumber: 8
-phone: "+33 2 49 88 23 37"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-17:00"
-website: "https://www.institut-lacledubienetre.fr/"
+street: Place de l'Hôtel-de-Ville
+housenumber: "8"
+phone: +33 2 49 88 23 37
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:00-17:00
+website: https://www.institut-lacledubienetre.fr/

@@ -1,11 +1,11 @@
 id: 181246541
-type: way
+type: node
 latitude: 49.43073
 longitude: 1.1663
 postcode: "76160"
 city: Saint-Léger-du-Bourg-Denis
-street: "Route de Lyons-la-Forêt"
-housenumber: 1491
+street: Route de Lyons-la-Forêt
+housenumber: "1491"
 phone: ""
 opening_hours: ""
 website: ""

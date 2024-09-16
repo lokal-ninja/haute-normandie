@@ -4,8 +4,8 @@ latitude: 49.44306
 longitude: 1.0901
 postcode: "76000"
 city: Rouen
-street: "Rue Guillaume le Conquérant"
-housenumber: 7
-phone: "+33 2 35 71 56 35"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://lelanchon.net/"
+street: Rue Guillaume le Conquérant
+housenumber: "7"
+phone: +33 2 35 71 56 35
+opening_hours: Mo-Sa 09:00-19:00
+website: https://lelanchon.net/

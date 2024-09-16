@@ -4,8 +4,8 @@ latitude: 49.49455
 longitude: 0.11001
 postcode: "76600"
 city: Le Havre
-street: "Rue Albert André Huet"
-housenumber: 6
+street: Rue Albert André Huet
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.free.fr/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.free.fr/

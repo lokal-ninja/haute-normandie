@@ -1,11 +1,11 @@
 id: 122017622
-type: way
+type: node
 latitude: 49.61759
 longitude: 0.75353
 postcode: "76190"
 city: Yvetot
-street: "Rue Martin du Bellay"
-housenumber: 5
+street: Rue Martin du Bellay
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

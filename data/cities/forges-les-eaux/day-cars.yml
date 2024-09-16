@@ -4,8 +4,8 @@ latitude: 49.61338
 longitude: 1.55105
 postcode: "76440"
 city: Forges-les-Eaux
-street: "Rue Leroux"
-housenumber: 6
-phone: "+33 7 72 27 98 33"
+street: Rue Leroux
+housenumber: "6"
+phone: +33 7 72 27 98 33
 opening_hours: ""
-website: "https://www.daycars.fr/contact-daycars"
+website: https://www.daycars.fr/contact-daycars

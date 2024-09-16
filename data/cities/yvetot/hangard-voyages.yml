@@ -4,8 +4,8 @@ latitude: 49.6184
 longitude: 0.75307
 postcode: "76190"
 city: Yvetot
-street: "Rue Guy de Maupassant"
-housenumber: 26
-phone: "+33 2 35 56 06 26"
-opening_hours: "Mo-Fr 09:30-12:00, 14:00-18:30; Sa 09:30-12:00, 14:00-17:30"
-website: "https://www.hangard-voyages.com/"
+street: Rue Guy de Maupassant
+housenumber: "26"
+phone: +33 2 35 56 06 26
+opening_hours: Mo-Fr 09:30-12:00, 14:00-18:30; Sa 09:30-12:00, 14:00-17:30
+website: https://www.hangard-voyages.com/

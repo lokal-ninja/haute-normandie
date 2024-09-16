@@ -4,8 +4,8 @@ latitude: 49.41984
 longitude: 1.04285
 postcode: "76120"
 city: Le Grand-Quevilly
-street: "Rue Paul Vaillant Couturier"
-housenumber: 7
-phone: "+33 2 32 11 45 50"
-opening_hours: "Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00"
-website: "https://www.jysk.fr/"
+street: Rue Paul Vaillant Couturier
+housenumber: "7"
+phone: +33 2 32 11 45 50
+opening_hours: Mo-Fr 10:00-12:00, 14:00-19:00; Sa 10:00-19:00
+website: https://www.jysk.fr/

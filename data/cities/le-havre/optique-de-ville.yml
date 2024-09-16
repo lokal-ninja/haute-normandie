@@ -4,8 +4,8 @@ latitude: 49.4952
 longitude: 0.10988
 postcode: "76600"
 city: Le Havre
-street: "Avenue René Coty"
-housenumber: 8
-phone: "+33 2 35 42 47 54"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:30-12:30,14:00-19:00"
-website: "https://www.opticien-lehavre-optiquedeville.fr/optique-de-ville"
+street: Avenue René Coty
+housenumber: "8"
+phone: +33 2 35 42 47 54
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:30-12:30,14:00-19:00
+website: https://www.opticien-lehavre-optiquedeville.fr/optique-de-ville

@@ -4,8 +4,8 @@ latitude: 49.43764
 longitude: 1.11177
 postcode: "76000"
 city: Rouen
-street: "Route de Lyons-la-Forêt"
-housenumber: 72
+street: Route de Lyons-la-Forêt
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/carrefour-city-rouen-martainville-chu"
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/carrefour-city-rouen-martainville-chu

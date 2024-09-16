@@ -1,11 +1,11 @@
 id: 100119897
-type: way
+type: node
 latitude: 49.48999
 longitude: 0.13119
 postcode: "76600"
 city: Le Havre
-street: "Quai Frissard"
-housenumber: 70
-phone: "02 35 11 33 60"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-19:00"
-website: "https://www.docksvauban.com/"
+street: Quai Frissard
+housenumber: "70"
+phone: 02 35 11 33 60
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-19:00
+website: https://www.docksvauban.com/

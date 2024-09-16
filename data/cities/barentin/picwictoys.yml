@@ -1,11 +1,11 @@
 id: 196253321
-type: way
+type: node
 latitude: 49.52869
 longitude: 0.96568
 postcode: "76360"
 city: Barentin
-street: "Boulevard de l'Europe"
-housenumber: 
-phone: "+33 2 32 94 90 00"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.picwic.com/"
+street: Boulevard de l'Europe
+housenumber: ""
+phone: +33 2 32 94 90 00
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.picwic.com/

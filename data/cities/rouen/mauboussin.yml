@@ -4,8 +4,8 @@ latitude: 49.44324
 longitude: 1.09491
 postcode: "76000"
 city: Rouen
-street: "rue Ganterie"
-housenumber: 22
+street: rue Ganterie
+housenumber: "22"
 phone: "+33232830311"
-opening_hours: "Mo,We 10:00-13:00,14:00-19:00; Tu,Th-Sa 10:00-19:00"
-website: "https://www.mauboussin.fr/"
+opening_hours: Mo,We 10:00-13:00,14:00-19:00; Tu,Th-Sa 10:00-19:00
+website: https://www.mauboussin.fr/

@@ -1,11 +1,11 @@
 id: 73086703
-type: way
+type: node
 latitude: 49.23139
 longitude: 1.16907
 postcode: "27400"
 city: Louviers
-street: "Avenue Winston Churchill"
-housenumber: 53
+street: Avenue Winston Churchill
+housenumber: "53"
 phone: ""
 opening_hours: ""
-website: "https://www.pointp.fr/"
+website: https://www.pointp.fr/

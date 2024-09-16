@@ -4,8 +4,8 @@ latitude: 49.502
 longitude: 0.93124
 postcode: "76480"
 city: Saint-Pierre-de-Varengeville
-street: "Rue de l'Église"
-housenumber: 6
-phone: "+33 9 81 27 82 83"
-opening_hours: "Tu-Fr 09:15-19:00; Sa 08:45-17:00"
-website: "https://app.kiute.com/l_atelier-du-bien-etre_/home"
+street: Rue de l'Église
+housenumber: "6"
+phone: +33 9 81 27 82 83
+opening_hours: Tu-Fr 09:15-19:00; Sa 08:45-17:00
+website: https://app.kiute.com/l_atelier-du-bien-etre_/home

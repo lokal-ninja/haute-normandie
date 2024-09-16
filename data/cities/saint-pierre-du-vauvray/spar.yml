@@ -1,11 +1,11 @@
 id: 251740384
-type: way
+type: node
 latitude: 49.23318
 longitude: 1.22164
 postcode: "27430"
 city: Saint-Pierre-du-Vauvray
-street: "Grande Rue"
-housenumber: 
-phone: "+33 2 32 61 21 15"
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
-website: "https://magasins.spar.fr/fr/s/spar-saint-pierre-du-vauvray"
+street: Grande Rue
+housenumber: ""
+phone: +33 2 32 61 21 15
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
+website: https://magasins.spar.fr/fr/s/spar-saint-pierre-du-vauvray

@@ -4,8 +4,8 @@ latitude: 49.49248
 longitude: 0.10608
 postcode: "76600"
 city: Le Havre
-street: "Place de l'Hôtel de Ville"
-housenumber: 29
-phone: "+33 2 35 41 11 56"
+street: Place de l'Hôtel de Ville
+housenumber: "29"
+phone: +33 2 35 41 11 56
 opening_hours: ""
-website: "https://www.lissac.fr/"
+website: https://www.lissac.fr/

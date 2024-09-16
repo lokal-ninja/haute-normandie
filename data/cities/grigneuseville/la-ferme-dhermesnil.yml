@@ -1,11 +1,11 @@
 id: 553277577
-type: way
+type: node
 latitude: 49.64571
 longitude: 1.18538
 postcode: "76850"
 city: Grigneuseville
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Fr 09:30-12:30,13:30-18:30; Sa 09:30-12:30,13:30-17:30"
-website: "https://jadorelecochon.com/"
+opening_hours: Fr 09:30-12:30,13:30-18:30; Sa 09:30-12:30,13:30-17:30
+website: https://jadorelecochon.com/

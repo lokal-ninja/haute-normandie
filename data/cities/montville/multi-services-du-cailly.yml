@@ -1,11 +1,11 @@
 id: 176172433
-type: way
+type: node
 latitude: 49.55351
 longitude: 1.07579
 postcode: "76710"
 city: Montville
-street: "Rue de Fontaine"
-housenumber: 33
+street: Rue de Fontaine
+housenumber: "33"
 phone: "+33235875703"
-opening_hours: "Mo-Fr 08:00-12:00,13:30-18:30"
-website: "https://multiservicesducailly.fr/"
+opening_hours: Mo-Fr 08:00-12:00,13:30-18:30
+website: https://multiservicesducailly.fr/

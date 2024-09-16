@@ -1,11 +1,11 @@
 id: 82065187
-type: way
+type: node
 latitude: 49.01444
 longitude: 1.17076
 postcode: "27000"
 city: Évreux
-street: "Rue Roland Moreno"
-housenumber: 26
+street: Rue Roland Moreno
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://stores.go-sport.com/fr-fr/magasin-sport/evreux/go-sport-evreux/1108"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://stores.go-sport.com/fr-fr/magasin-sport/evreux/go-sport-evreux/1108

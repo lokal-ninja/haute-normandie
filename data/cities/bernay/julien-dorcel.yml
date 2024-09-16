@@ -4,8 +4,8 @@ latitude: 49.08953
 longitude: 0.59546
 postcode: "27300"
 city: Bernay
-street: "Rue Général de Gaulle"
-housenumber: 55
+street: Rue Général de Gaulle
+housenumber: "55"
 phone: ""
-opening_hours: "Mo 10:00-19:00; Tu 09:00-19:00; We-Fr 09:30-19:00; Sa 09:00-19:00"
-website: "https://www.juliendorcel.com/fr-fr/bijouterie/bernay"
+opening_hours: Mo 10:00-19:00; Tu 09:00-19:00; We-Fr 09:30-19:00; Sa 09:00-19:00
+website: https://www.juliendorcel.com/fr-fr/bijouterie/bernay

@@ -1,11 +1,11 @@
 id: 251898257
-type: way
+type: node
 latitude: 49.50024
 longitude: 0.95606
 postcode: "76480"
 city: Saint-Pierre-de-Varengeville
-street: "Route de Rouen"
-housenumber: 1769
-phone: "+33 7 66 00 44 50"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-18:00"
+street: Route de Rouen
+housenumber: "1769"
+phone: +33 7 66 00 44 50
+opening_hours: Mo-Sa 09:00-12:00, 14:00-18:00
 website: ""

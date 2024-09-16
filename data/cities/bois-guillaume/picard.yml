@@ -1,11 +1,11 @@
 id: 64957005
-type: way
+type: node
 latitude: 49.46814
 longitude: 1.11893
 postcode: "76230"
 city: Bois-Guillaume
-street: "Route de Neufchâtel"
-housenumber: 
-phone: "+33 2 35 59 93 84"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/117-picard-bois-guillaume"
+street: Route de Neufchâtel
+housenumber: ""
+phone: +33 2 35 59 93 84
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/117-picard-bois-guillaume

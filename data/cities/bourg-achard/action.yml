@@ -4,8 +4,8 @@ latitude: 49.36129
 longitude: 0.81904
 postcode: "27310"
 city: Bourg Achard
-street: "D313"
-housenumber: 
+street: D313
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.action.com/fr-fr/points-de-vente/bourg-achard-route-departementale/"
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.action.com/fr-fr/points-de-vente/bourg-achard-route-departementale/

@@ -4,8 +4,8 @@ latitude: 49.49771
 longitude: 0.18462
 postcode: "76600"
 city: Le Havre
-street: "Boulevard Jules Durand"
-housenumber: 500
-phone: "+33 2 35 25 79 08"
-opening_hours: "Mo-Fr 07:00-19:30"
-website: "https://store.totalenergies.fr/en_EN/NF014988"
+street: Boulevard Jules Durand
+housenumber: "500"
+phone: +33 2 35 25 79 08
+opening_hours: Mo-Fr 07:00-19:30
+website: https://store.totalenergies.fr/en_EN/NF014988

@@ -1,11 +1,11 @@
 id: 351562546
-type: way
+type: node
 latitude: 49.0947
 longitude: 1.28281
 postcode: "27490"
 city: Autheuil-Authouillet
-street: "Rue Yves Montand"
-housenumber: 87
+street: Rue Yves Montand
+housenumber: "87"
 phone: ""
-opening_hours: "Tu-Fr 08:00-12:30,13:00-19:00; Sa 08:00-12:30,13:00-16:00"
+opening_hours: Tu-Fr 08:00-12:30,13:00-19:00; Sa 08:00-12:30,13:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 64968228
-type: way
+type: node
 latitude: 49.40139
 longitude: 1.11539
 postcode: "76300"
 city: Sotteville-lès-Rouen
-street: "Chemin de la Mi-Voie"
-housenumber: 3
-phone: "+33 2 35 32 22 91"
+street: Chemin de la Mi-Voie
+housenumber: "3"
+phone: +33 2 35 32 22 91
 opening_hours: ""
-website: "https://www.leclercdrive.fr/"
+website: https://www.leclercdrive.fr/

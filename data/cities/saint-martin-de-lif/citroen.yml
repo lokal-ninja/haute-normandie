@@ -1,11 +1,11 @@
 id: 511811354
-type: way
+type: node
 latitude: 49.57094
 longitude: 0.83392
 postcode: "76190"
 city: Saint Martin de l'If
-street: "Route de la Croix-Mare"
-housenumber: 267
-phone: "+33 2 35 91 27 58"
-opening_hours: "Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-17:00"
-website: "https://reseau.citroen.fr/reparateur-freville"
+street: Route de la Croix-Mare
+housenumber: "267"
+phone: +33 2 35 91 27 58
+opening_hours: Tu-Fr 08:00-12:00,14:00-18:30; Sa 08:00-12:00,14:00-17:00
+website: https://reseau.citroen.fr/reparateur-freville

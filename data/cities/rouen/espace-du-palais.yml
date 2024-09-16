@@ -1,11 +1,11 @@
 id: 584459224
-type: way
+type: node
 latitude: 49.44274
 longitude: 1.09232
 postcode: "76000"
 city: Rouen
-street: "Allée Eugène Delacroix"
-housenumber: 8
+street: Allée Eugène Delacroix
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://espacedupalais-rouen.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://espacedupalais-rouen.com/

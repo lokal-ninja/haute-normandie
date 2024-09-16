@@ -1,11 +1,11 @@
 id: 186502370
-type: way
+type: node
 latitude: 49.91461
 longitude: 1.09384
 postcode: "76370"
 city: Rouxmesnil-Bouteilles
-street: "Avenue de Breaute"
-housenumber: 
-phone: "+33 2 35 82 57 75"
-opening_hours: "Mo-Sa 08:45-19:30; Su 09:00-12:30"
-website: "https://www.intermarche.com/"
+street: Avenue de Breaute
+housenumber: ""
+phone: +33 2 35 82 57 75
+opening_hours: Mo-Sa 08:45-19:30; Su 09:00-12:30
+website: https://www.intermarche.com/

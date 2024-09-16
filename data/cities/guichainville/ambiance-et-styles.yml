@@ -1,11 +1,11 @@
 id: 837584209
-type: way
+type: node
 latitude: 49.01262
 longitude: 1.17558
 postcode: "27930"
 city: Guichainville
-street: "Le Long Buisson"
-housenumber: 
+street: Le Long Buisson
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:30"
+opening_hours: Mo-Sa 10:00-19:30
 website: ""

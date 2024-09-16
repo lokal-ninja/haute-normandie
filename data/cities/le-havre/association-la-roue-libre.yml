@@ -4,8 +4,8 @@ latitude: 49.49389
 longitude: 0.12017
 postcode: "76600"
 city: Le Havre
-street: "Rue Bonnivet"
-housenumber: 3
-phone: "+33 9 84 11 52 95"
-opening_hours: "Tu-Fr 13:30-18:00; Sa 10:00-12:00,13:30-18:00"
+street: Rue Bonnivet
+housenumber: "3"
+phone: +33 9 84 11 52 95
+opening_hours: Tu-Fr 13:30-18:00; Sa 10:00-12:00,13:30-18:00
 website: ""

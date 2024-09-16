@@ -1,11 +1,11 @@
 id: 64913900
-type: way
+type: node
 latitude: 49.44515
 longitude: 1.0722
 postcode: "76000"
 city: Rouen
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

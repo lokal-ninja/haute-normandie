@@ -1,11 +1,11 @@
 id: 64294298
-type: way
+type: node
 latitude: 49.57262
 longitude: 0.46861
 postcode: "76210"
 city: Bolbec
-street: "Rue Jacques Fauquet"
-housenumber: 17
-phone: "+33 2 35 31 89 49"
-opening_hours: "Mo-Sa 06:30-21:30, Su 07:00-21:00"
-website: "https://www.avia-france.fr/"
+street: Rue Jacques Fauquet
+housenumber: "17"
+phone: +33 2 35 31 89 49
+opening_hours: Mo-Sa 06:30-21:30, Su 07:00-21:00
+website: https://www.avia-france.fr/

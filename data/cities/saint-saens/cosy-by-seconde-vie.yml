@@ -1,11 +1,11 @@
 id: 283758261
-type: way
+type: node
 latitude: 49.67263
 longitude: 1.2832
 postcode: "76680"
 city: Saint-Saëns
-street: "Place Maintenon"
-housenumber: 7
-phone: "+33 2 35 59 72 01"
+street: Place Maintenon
+housenumber: "7"
+phone: +33 2 35 59 72 01
 opening_hours: ""
 website: ""

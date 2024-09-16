@@ -1,11 +1,11 @@
 id: 122013758
-type: way
+type: node
 latitude: 49.61759
 longitude: 0.75291
 postcode: "76190"
 city: Yvetot
-street: "Rue des Victoires"
-housenumber: 16
+street: Rue des Victoires
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

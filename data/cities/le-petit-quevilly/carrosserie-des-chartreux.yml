@@ -4,8 +4,8 @@ latitude: 49.42009
 longitude: 1.06849
 postcode: "76140"
 city: Le Petit-Quevilly
-street: "Boulevard du 11 Novembre"
-housenumber: 42
-phone: "+33 2 35 72 48 04"
-opening_hours: "Mo-Fr 09:00-12:00,13:00-17:00"
+street: Boulevard du 11 Novembre
+housenumber: "42"
+phone: +33 2 35 72 48 04
+opening_hours: Mo-Fr 09:00-12:00,13:00-17:00
 website: ""

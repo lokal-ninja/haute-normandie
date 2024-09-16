@@ -4,8 +4,8 @@ latitude: 49.48409
 longitude: 0.13008
 postcode: "76600"
 city: Le Havre
-street: "Quai de la Marne"
-housenumber: 31
-phone: "+33 2 77 67 62 93"
-opening_hours: "Mo 09:00-18:30; Tu-Fr 09:00-18:30; Sa 09:00-15:00"
-website: "https://www.hashtaglesalon.fr/"
+street: Quai de la Marne
+housenumber: "31"
+phone: +33 2 77 67 62 93
+opening_hours: Mo 09:00-18:30; Tu-Fr 09:00-18:30; Sa 09:00-15:00
+website: https://www.hashtaglesalon.fr/

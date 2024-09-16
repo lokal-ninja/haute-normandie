@@ -4,8 +4,8 @@ latitude: 49.35836
 longitude: 1.00901
 postcode: "76530"
 city: Grand-Couronne
-street: "Rue Georges Clemenceau"
-housenumber: 48
-phone: "+33 2 35 67 73 32"
-opening_hours: "Mo-Su 08:30-21:00"
-website: "https://www.coccinelle.fr/"
+street: Rue Georges Clemenceau
+housenumber: "48"
+phone: +33 2 35 67 73 32
+opening_hours: Mo-Su 08:30-21:00
+website: https://www.coccinelle.fr/

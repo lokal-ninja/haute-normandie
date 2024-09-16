@@ -1,11 +1,11 @@
 id: 122011245
-type: way
+type: node
 latitude: 49.61671
 longitude: 0.75005
 postcode: "76190"
 city: Yvetot
-street: "Rue du Manoir"
-housenumber: 10
+street: Rue du Manoir
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

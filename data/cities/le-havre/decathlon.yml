@@ -1,11 +1,11 @@
 id: 472093400
-type: way
+type: node
 latitude: 49.48875
 longitude: 0.13231
 postcode: "76600"
 city: Le Havre
-street: "Quai de la Réunion"
-housenumber: 112
+street: Quai de la Réunion
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-19:00"
-website: "https://www.decathlon.fr/"
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-19:00
+website: https://www.decathlon.fr/

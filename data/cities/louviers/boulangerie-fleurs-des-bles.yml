@@ -4,8 +4,8 @@ latitude: 49.20988
 longitude: 1.17657
 postcode: "27400"
 city: Louviers
-street: "Rue Saint-Jean"
-housenumber: 19
-phone: "+33 2 32 40 18 72"
-opening_hours: "Mo off; Tu-Sa 06:00-20:00; Su 06:00-13:30"
+street: Rue Saint-Jean
+housenumber: "19"
+phone: +33 2 32 40 18 72
+opening_hours: Mo off; Tu-Sa 06:00-20:00; Su 06:00-13:30
 website: ""

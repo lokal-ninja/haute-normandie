@@ -1,11 +1,11 @@
 id: 610560875
-type: way
+type: node
 latitude: 49.5295
 longitude: 0.34438
 postcode: "76430"
 city: Saint-Romain-de-Colbosc
-street: "Zone Commerciale"
-housenumber: 
-phone: "+33 2 35 20 50 42"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-17:00"
-website: "https://garagelerouxsarl.fr"
+street: Zone Commerciale
+housenumber: ""
+phone: +33 2 35 20 50 42
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-17:00
+website: https://garagelerouxsarl.fr

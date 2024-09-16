@@ -4,8 +4,8 @@ latitude: 49.52133
 longitude: 0.32256
 postcode: "76430"
 city: Saint-Aubin-Routot
-street: "Route la Vieille Route la Botte"
-housenumber: 17
+street: Route la Vieille Route la Botte
+housenumber: "17"
 phone: ""
-opening_hours: "Deux dimanches par mois"
+opening_hours: '"Deux dimanches par mois"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.43817
 longitude: 1.1005
 postcode: "76000"
 city: Rouen
-street: "Place Saint-Marc"
-housenumber: 
+street: Place Saint-Marc
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/"
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/

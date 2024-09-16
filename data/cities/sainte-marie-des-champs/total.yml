@@ -4,8 +4,8 @@ latitude: 49.62384
 longitude: 0.77935
 postcode: "76190"
 city: Sainte-Marie-des-Champs
-street: "Avenue René Coty"
-housenumber: 97
-phone: "+33 2 35 95 44 24"
-opening_hours: "24/7"
-website: "http://store.total.fr/fr_FR/NF040077"
+street: Avenue René Coty
+housenumber: "97"
+phone: +33 2 35 95 44 24
+opening_hours: 24/7
+website: http://store.total.fr/fr_FR/NF040077

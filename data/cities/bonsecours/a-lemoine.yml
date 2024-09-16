@@ -4,8 +4,8 @@ latitude: 49.4231
 longitude: 1.12496
 postcode: "76240"
 city: Bonsecours
-street: "Route de Paris"
-housenumber: 71
-phone: "+33 2 35 80 50 57"
-opening_hours: "Tu-Sa 08:30-13:00,15:00-19:30"
+street: Route de Paris
+housenumber: "71"
+phone: +33 2 35 80 50 57
+opening_hours: Tu-Sa 08:30-13:00,15:00-19:30
 website: ""

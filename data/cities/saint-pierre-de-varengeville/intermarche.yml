@@ -1,11 +1,11 @@
 id: 762540089
-type: way
+type: node
 latitude: 49.49984
 longitude: 0.92935
 postcode: "76480"
 city: Saint-Pierre-de-Varengeville
-street: "Chemin de la Messé"
-housenumber: 
+street: Chemin de la Messé
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

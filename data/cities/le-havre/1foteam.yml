@@ -4,8 +4,8 @@ latitude: 49.4964
 longitude: 0.12673
 postcode: "76600"
 city: Le Havre
-street: "Cours de la République"
-housenumber: 91
+street: Cours de la République
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:30-12:00"
-website: "https://www.1foteam.com/"
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; Sa 09:30-12:00
+website: https://www.1foteam.com/

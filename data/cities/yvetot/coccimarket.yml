@@ -4,8 +4,8 @@ latitude: 49.61685
 longitude: 0.75611
 postcode: "76190"
 city: Yvetot
-street: "Place de l'Hôtel-de-Ville"
-housenumber: 4
-phone: "+33 2 35 96 83 36"
-opening_hours: "Mo-Su 08:00-23:00; Tu off"
-website: "http://www.coccinelle.fr"
+street: Place de l'Hôtel-de-Ville
+housenumber: "4"
+phone: +33 2 35 96 83 36
+opening_hours: Mo-Su 08:00-23:00; Tu off
+website: http://www.coccinelle.fr

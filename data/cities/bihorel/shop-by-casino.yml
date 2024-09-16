@@ -1,11 +1,11 @@
 id: 64750278
-type: way
+type: node
 latitude: 49.45764
 longitude: 1.10835
 postcode: "76420"
 city: Bihorel
-street: "Route de Neufchâtel"
-housenumber: 184
+street: Route de Neufchâtel
+housenumber: "184"
 phone: ""
 opening_hours: ""
 website: ""

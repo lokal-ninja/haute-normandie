@@ -1,11 +1,11 @@
 id: 149633045
-type: way
+type: node
 latitude: 49.92191
 longitude: 1.07658
 postcode: "76200"
 city: Dieppe
-street: "Boulevard du Maréchal Joffre"
-housenumber: 20
-phone: "+33 2 35 84 18 81"
+street: Boulevard du Maréchal Joffre
+housenumber: "20"
+phone: +33 2 35 84 18 81
 opening_hours: ""
 website: ""

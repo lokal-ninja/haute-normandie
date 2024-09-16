@@ -4,8 +4,8 @@ latitude: 49.40178
 longitude: 1.0571
 postcode: "76120"
 city: Le Grand-Quevilly
-street: "Rue Michel Corroy"
-housenumber: 26
-phone: "+33 2 32 66 00 26"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-13:00"
-website: "https://www.vival.fr/"
+street: Rue Michel Corroy
+housenumber: "26"
+phone: +33 2 32 66 00 26
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-13:00
+website: https://www.vival.fr/

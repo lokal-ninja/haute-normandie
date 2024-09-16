@@ -4,8 +4,8 @@ latitude: 49.44077
 longitude: 1.10284
 postcode: "76000"
 city: Rouen
-street: "Place du 39e Régiment d'Infanterie"
-housenumber: 3
-phone: "+33 2 32 76 48 30"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.padd.fr/"
+street: Place du 39e Régiment d'Infanterie
+housenumber: "3"
+phone: +33 2 32 76 48 30
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.padd.fr/

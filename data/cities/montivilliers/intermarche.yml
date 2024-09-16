@@ -1,11 +1,11 @@
 id: 120310838
-type: way
+type: node
 latitude: 49.53989
 longitude: 0.17665
 postcode: ""
 city: Montivilliers
-street: "Avenue du Président Wilson"
-housenumber: 68
+street: Avenue du Président Wilson
+housenumber: "68"
 phone: ""
 opening_hours: ""
 website: ""

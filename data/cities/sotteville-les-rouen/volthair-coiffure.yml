@@ -4,8 +4,8 @@ latitude: 49.42369
 longitude: 1.08959
 postcode: "76300"
 city: Sotteville-lès-Rouen
-street: "Place Voltaire"
-housenumber: 15
-phone: "+33 2 35 72 26 67"
-opening_hours: "Tu-Th 09:00-12:00,14:00-18:30; Fr 08:30-19:00; Sa 08:00-17:00"
+street: Place Voltaire
+housenumber: "15"
+phone: +33 2 35 72 26 67
+opening_hours: Tu-Th 09:00-12:00,14:00-18:30; Fr 08:30-19:00; Sa 08:00-17:00
 website: ""

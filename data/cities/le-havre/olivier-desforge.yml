@@ -4,8 +4,8 @@ latitude: 49.49539
 longitude: 0.1017
 postcode: "76600"
 city: Le Havre
-street: "Rue Georges Braque"
-housenumber: 56
+street: Rue Georges Braque
+housenumber: "56"
 phone: ""
-opening_hours: "10:00-12:00,14:00-19:00"
+opening_hours: 10:00-12:00,14:00-19:00
 website: ""

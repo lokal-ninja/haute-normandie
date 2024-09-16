@@ -4,8 +4,8 @@ latitude: 49.44129
 longitude: 1.09172
 postcode: "76000"
 city: Rouen
-street: "Rue du Gros-Horloge"
-housenumber: 73
-phone: "+33 2 35 70 25 39"
-opening_hours: "Mo-Sa 08:30-21:00"
-website: "https://www.monoprix.fr/305.html"
+street: Rue du Gros-Horloge
+housenumber: "73"
+phone: +33 2 35 70 25 39
+opening_hours: Mo-Sa 08:30-21:00
+website: https://www.monoprix.fr/305.html

@@ -1,11 +1,11 @@
 id: 283758689
-type: way
+type: node
 latitude: 49.6732
 longitude: 1.28251
 postcode: "76680"
 city: Saint-Saëns
-street: "Rue Raymond Poincaré"
-housenumber: 10
-phone: "+33 664278744"
-opening_hours: "Tu-Su 09:30-12:30; Tu-Th 14:30-19:30; Fr-Sa 14:30-20:00"
+street: Rue Raymond Poincaré
+housenumber: "10"
+phone: +33 664278744
+opening_hours: Tu-Su 09:30-12:30; Tu-Th 14:30-19:30; Fr-Sa 14:30-20:00
 website: ""

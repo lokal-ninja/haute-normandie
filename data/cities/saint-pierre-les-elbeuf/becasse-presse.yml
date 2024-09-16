@@ -1,11 +1,11 @@
 id: 181909764
-type: way
+type: node
 latitude: 49.27739
 longitude: 1.0417
 postcode: "76320"
 city: Saint-Pierre-lès-Elbeuf
-street: "Allée Louise Michel"
-housenumber: 8
+street: Allée Louise Michel
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 73132871
-type: way
+type: node
 latitude: 49.23755
 longitude: 1.17411
 postcode: "27400"
 city: Incarville
-street: "Rue de la Forêt"
-housenumber: 
+street: Rue de la Forêt
+housenumber: ""
 phone: "0232593365"
 opening_hours: ""
-website: "https://www.cmc-electromenager.com/"
+website: https://www.cmc-electromenager.com/

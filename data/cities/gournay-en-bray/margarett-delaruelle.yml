@@ -1,11 +1,11 @@
 id: 78786972
-type: way
+type: node
 latitude: 49.48272
 longitude: 1.72548
 postcode: "76220"
 city: Gournay-en-Bray
-street: "Rue du Docteur Duchesne"
-housenumber: 
+street: Rue du Docteur Duchesne
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

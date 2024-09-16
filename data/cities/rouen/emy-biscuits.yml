@@ -4,8 +4,8 @@ latitude: 49.44564
 longitude: 1.0973
 postcode: "76000"
 city: Rouen
-street: "Rue Beauvoisine"
-housenumber: 103
-phone: "+33 6 65 05 98 26"
-opening_hours: "Tu-Sa 10:30-18:00"
-website: "https://www.emybiscuits.fr/"
+street: Rue Beauvoisine
+housenumber: "103"
+phone: +33 6 65 05 98 26
+opening_hours: Tu-Sa 10:30-18:00
+website: https://www.emybiscuits.fr/

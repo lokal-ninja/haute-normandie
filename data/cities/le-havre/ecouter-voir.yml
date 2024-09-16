@@ -4,8 +4,8 @@ latitude: 49.49727
 longitude: 0.11194
 postcode: "76600"
 city: Le Havre
-street: "Avenue René Coty"
-housenumber: 45
-phone: "+33 2 32 74 03 72"
-opening_hours: "Tu-Sa 09:00-19:00"
-website: "https://www.ecoutervoir.fr/"
+street: Avenue René Coty
+housenumber: "45"
+phone: +33 2 32 74 03 72
+opening_hours: Tu-Sa 09:00-19:00
+website: https://www.ecoutervoir.fr/

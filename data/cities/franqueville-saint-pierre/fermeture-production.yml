@@ -1,11 +1,13 @@
 id: 982802906
-type: way
+type: node
 latitude: 49.39707
 longitude: 1.177
 postcode: "76520"
 city: Franqueville-Saint-Pierre
-street: "Rue du Canivet"
-housenumber: 
-phone: "+33 2 35 61 48 20"
-opening_hours: "lundi Fermé / Mardi 09:00-12:30 14:00-18:00 / Mercredi 09:00-12:30 14:00-18:00 / Jeudi 09:00-12:30 14:00-18:00 / Vendredi 09:00-12:30 14:00-17:00 / Samedi 09:00-12:00 / Dimanche Fermé"
-website: "https://www.fermeture-production.com/"
+street: Rue du Canivet
+housenumber: ""
+phone: +33 2 35 61 48 20
+opening_hours: lundi Fermé / Mardi 09:00-12:30 14:00-18:00 / Mercredi 09:00-12:30
+    14:00-18:00 / Jeudi 09:00-12:30 14:00-18:00 / Vendredi 09:00-12:30 14:00-17:00
+    / Samedi 09:00-12:00 / Dimanche Fermé
+website: https://www.fermeture-production.com/

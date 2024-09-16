@@ -1,11 +1,11 @@
 id: 279818959
-type: way
+type: node
 latitude: 49.24519
 longitude: 1.41268
 postcode: "27700"
 city: Les Andelys
-street: "avenue de la République"
-housenumber: 27
+street: avenue de la République
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://www.securitest.fr/"
+website: https://www.securitest.fr/

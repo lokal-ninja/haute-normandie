@@ -1,11 +1,11 @@
 id: 122018839
-type: way
+type: node
 latitude: 49.61741
 longitude: 0.75528
 postcode: "76190"
 city: Yvetot
-street: "Rue du Calvaire"
-housenumber: 8
+street: Rue du Calvaire
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

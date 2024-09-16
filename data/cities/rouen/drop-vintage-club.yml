@@ -4,8 +4,9 @@ latitude: 49.44355
 longitude: 1.09336
 postcode: "76000"
 city: Rouen
-street: "Rue Ganterie"
-housenumber: 59
+street: Rue Ganterie
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Tu 11:00-14:00,15:00-19:00; We 11:00-19:00; Th-Fr 11:00-14:00,15:00-19:00; Sa 11:00-19:00"
+opening_hours: Mo-Tu 11:00-14:00,15:00-19:00; We 11:00-19:00; Th-Fr 11:00-14:00,15:00-19:00;
+    Sa 11:00-19:00
 website: ""

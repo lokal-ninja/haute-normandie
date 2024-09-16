@@ -1,11 +1,11 @@
 id: 240894182
-type: way
+type: node
 latitude: 49.20931
 longitude: 1.18149
 postcode: "27400"
 city: Louviers
-street: "Avenue des Peupliers"
-housenumber: 
+street: Avenue des Peupliers
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.lebecquet.fr"
+website: https://www.lebecquet.fr

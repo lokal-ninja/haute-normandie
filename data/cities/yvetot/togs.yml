@@ -1,11 +1,11 @@
 id: 122016283
-type: way
+type: node
 latitude: 49.61686
 longitude: 0.75345
 postcode: "76190"
 city: Yvetot
-street: "Le Mail"
-housenumber: 26
+street: Le Mail
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

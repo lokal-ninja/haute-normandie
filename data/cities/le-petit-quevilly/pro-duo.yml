@@ -1,11 +1,11 @@
 id: 65312596
-type: way
+type: node
 latitude: 49.42332
 longitude: 1.06561
 postcode: "76140"
 city: Le Petit-Quevilly
-street: "Place des Chartreux"
-housenumber: 20
-phone: "+33 2 35 73 35 35"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 09:00-13:00"
-website: "https://www.pro-duo.fr"
+street: Place des Chartreux
+housenumber: "20"
+phone: +33 2 35 73 35 35
+opening_hours: Mo-Fr 08:30-18:30; Sa 09:00-13:00
+website: https://www.pro-duo.fr

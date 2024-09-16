@@ -1,11 +1,11 @@
 id: 733269460
-type: way
+type: node
 latitude: 49.42006
 longitude: 1.048
 postcode: "76120"
 city: Le Grand-Quevilly
-street: "Rue Paul Vaillant Couturier"
-housenumber: 
+street: Rue Paul Vaillant Couturier
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; Su 08:30-12:30"
-website: "https://www.lidl.fr"
+opening_hours: Mo-Sa 08:30-20:00; Su 08:30-12:30
+website: https://www.lidl.fr

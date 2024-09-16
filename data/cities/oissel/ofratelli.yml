@@ -4,8 +4,8 @@ latitude: 49.3416
 longitude: 1.09778
 postcode: "76350"
 city: Oissel
-street: "Rue du Maréchal Foch"
-housenumber: 28
-phone: "+33 7 77 46 52 90"
-opening_hours: "Tu-We 11:45-20:00; Th-Sa 11:45-14:30, 18:30-22:00"
+street: Rue du Maréchal Foch
+housenumber: "28"
+phone: +33 7 77 46 52 90
+opening_hours: Tu-We 11:45-20:00; Th-Sa 11:45-14:30, 18:30-22:00
 website: ""

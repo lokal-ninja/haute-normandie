@@ -4,8 +4,8 @@ latitude: 49.74864
 longitude: 0.37149
 postcode: "76400"
 city: Fécamp
-street: "Route du Havre"
-housenumber: 2
-phone: "+33 2 27 30 62 77"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-17:00"
-website: "http://www.100pour100pneu.fr/"
+street: Route du Havre
+housenumber: "2"
+phone: +33 2 27 30 62 77
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:30-17:00
+website: http://www.100pour100pneu.fr/

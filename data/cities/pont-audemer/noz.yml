@@ -1,11 +1,11 @@
 id: 1225443418
-type: way
+type: node
 latitude: 49.35429
 longitude: 0.50064
 postcode: "27500"
 city: Pont-Audemer
-street: "Rue de l'Étang"
-housenumber: 
+street: Rue de l'Étang
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/pont-audemer/"
+website: https://www.nozarrivages.com/magasin/pont-audemer/

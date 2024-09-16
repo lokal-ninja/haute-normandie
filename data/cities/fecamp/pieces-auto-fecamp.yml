@@ -1,11 +1,11 @@
 id: 135948519
-type: way
+type: node
 latitude: 49.76246
 longitude: 0.37761
 postcode: "76400"
 city: Fécamp
-street: "Avenue Jean Lorrain"
-housenumber: 216
+street: Avenue Jean Lorrain
+housenumber: "216"
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
 website: ""

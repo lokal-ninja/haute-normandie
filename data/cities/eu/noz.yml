@@ -1,11 +1,11 @@
 id: 181174005
-type: way
+type: node
 latitude: 50.0582
 longitude: 1.41269
 postcode: "76260"
 city: Eu
-street: "Rue Lavoisier"
-housenumber: 
+street: Rue Lavoisier
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/eu/"
+website: https://www.nozarrivages.com/magasin/eu/

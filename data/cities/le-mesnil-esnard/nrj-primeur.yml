@@ -4,8 +4,8 @@ latitude: 49.41224
 longitude: 1.13842
 postcode: "76240"
 city: Le Mesnil-Esnard
-street: "Place du Général de Gaulle"
-housenumber: 4
-phone: "+33 2 35 32 59 19"
-opening_hours: "Tu-Th 08:00-12:30,15:00-19:30; Fr,Sa 08:00-13:00,15:00-19:30; Su off"
+street: Place du Général de Gaulle
+housenumber: "4"
+phone: +33 2 35 32 59 19
+opening_hours: Tu-Th 08:00-12:30,15:00-19:30; Fr,Sa 08:00-13:00,15:00-19:30; Su off
 website: ""

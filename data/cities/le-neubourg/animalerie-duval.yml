@@ -4,8 +4,8 @@ latitude: 49.14511
 longitude: 0.92297
 postcode: "27110"
 city: Le Neubourg
-street: "Avenue Maréchal de Lattre de Tassigny"
-housenumber: 8
+street: Avenue Maréchal de Lattre de Tassigny
+housenumber: "8"
 phone: "+33232352742"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-16:00"
-website: "https://animalerie-duval.pagesperso-orange.fr/index.html"
+opening_hours: Mo-Sa 10:00-12:00,14:00-16:00
+website: https://animalerie-duval.pagesperso-orange.fr/index.html

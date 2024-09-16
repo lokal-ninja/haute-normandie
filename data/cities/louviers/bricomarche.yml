@@ -1,11 +1,11 @@
 id: 156322439
-type: way
+type: node
 latitude: 49.21033
 longitude: 1.18322
 postcode: "27400"
 city: Louviers
-street: "Avenue des Peupliers"
-housenumber: 
-phone: "+33 2 32 40 46 88"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.bricomarche.com/"
+street: Avenue des Peupliers
+housenumber: ""
+phone: +33 2 32 40 46 88
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.bricomarche.com/

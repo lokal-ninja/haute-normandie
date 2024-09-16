@@ -4,8 +4,8 @@ latitude: 49.41149
 longitude: 1.09315
 postcode: "76300"
 city: Sotteville-lès-Rouen
-street: "Rue Pierre Mendès France"
-housenumber: 361
-phone: "+33 2 35 62 52 79"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 10:00-12:00, 14:30-18:00"
-website: "https://sotteville.extra.fr"
+street: Rue Pierre Mendès France
+housenumber: "361"
+phone: +33 2 35 62 52 79
+opening_hours: Mo-Fr 09:00-12:00, 14:00-19:00; Sa 10:00-12:00, 14:30-18:00
+website: https://sotteville.extra.fr

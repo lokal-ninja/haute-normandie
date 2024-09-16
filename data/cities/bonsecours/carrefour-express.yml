@@ -4,8 +4,8 @@ latitude: 49.42257
 longitude: 1.12554
 postcode: "76240"
 city: Bonsecours
-street: "Route de Paris"
-housenumber: 69
+street: Route de Paris
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Su 08:00-13:00"
-website: "https://www.carrefour.fr/magasin/carrefour-express-bonsecours"
+opening_hours: Mo-Sa 08:00-21:00; Su 08:00-13:00
+website: https://www.carrefour.fr/magasin/carrefour-express-bonsecours

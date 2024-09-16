@@ -1,11 +1,11 @@
 id: 71456669
-type: way
+type: node
 latitude: 48.73175
 longitude: 0.91851
 postcode: "27130"
 city: Verneuil-sur-Avre
-street: "N 12"
-housenumber: 
+street: N 12
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Fr 09:00-20:00"
+opening_hours: Mo-Sa 09:00-19:30; Fr 09:00-20:00
 website: ""

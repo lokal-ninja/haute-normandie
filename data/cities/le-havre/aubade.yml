@@ -4,8 +4,8 @@ latitude: 49.48858
 longitude: 0.13545
 postcode: "76600"
 city: Le Havre
-street: "Rue Denfert Rochereau"
-housenumber: 94
+street: Rue Denfert Rochereau
+housenumber: "94"
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30; "
-website: "https://www.espace-aubade.fr"
+opening_hours: 'Mo-Fr 07:30-12:00,13:30-17:30; '
+website: https://www.espace-aubade.fr

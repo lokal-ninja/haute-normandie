@@ -1,11 +1,11 @@
 id: 1307980105
-type: way
+type: node
 latitude: 49.49015
 longitude: 0.1303
 postcode: "76600"
 city: Le Havre
-street: "Quai des Antilles"
-housenumber: 70
+street: Quai des Antilles
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

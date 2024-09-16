@@ -1,11 +1,11 @@
 id: 437689510
-type: way
+type: node
 latitude: 49.53813
 longitude: 0.96192
 postcode: "76360"
 city: Barentin
-street: "Rue de la Liberté"
-housenumber: 315
+street: Rue de la Liberté
+housenumber: "315"
 phone: ""
 opening_hours: ""
-website: "https://magasin.darty.com/3136-darty-barentin"
+website: https://magasin.darty.com/3136-darty-barentin

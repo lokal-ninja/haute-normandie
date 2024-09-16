@@ -1,11 +1,11 @@
 id: 1302147353
-type: way
+type: node
 latitude: 49.0994
 longitude: 1.46015
 postcode: "27950"
 city: Saint-Marcel
-street: "Rue Louis Blériot"
-housenumber: 6
+street: Rue Louis Blériot
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

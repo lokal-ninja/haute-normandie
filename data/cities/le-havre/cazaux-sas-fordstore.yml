@@ -4,8 +4,8 @@ latitude: 49.49548
 longitude: 0.1477
 postcode: "76600"
 city: Le Havre
-street: "Rue de Pressensé"
-housenumber: 2
-phone: "+33 2 35 24 60 30"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.cazauxautomobiles.fr/"
+street: Rue de Pressensé
+housenumber: "2"
+phone: +33 2 35 24 60 30
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.cazauxautomobiles.fr/

@@ -1,11 +1,11 @@
 id: 118283805
-type: way
+type: node
 latitude: 49.85985
 longitude: 0.69639
 postcode: "76460"
 city: Saint-Valery-en-Caux
-street: "Avenue du 51 Highlands Division"
-housenumber: 9
+street: Avenue du 51 Highlands Division
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 49.44279
 longitude: 1.09086
 postcode: "76000"
 city: Rouen
-street: "Rue Jeanne d'Arc"
-housenumber: 39
-phone: "+33 2 32 10 70 30"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-18:30; Sa, Su off"
-website: "https://www.vivason.fr/centre-audition/rouen"
+street: Rue Jeanne d'Arc
+housenumber: "39"
+phone: +33 2 32 10 70 30
+opening_hours: Mo-Fr 09:30-12:30,14:00-18:30; Sa, Su off
+website: https://www.vivason.fr/centre-audition/rouen

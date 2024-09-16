@@ -4,8 +4,8 @@ latitude: 49.44143
 longitude: 1.09938
 postcode: "76000"
 city: Rouen
-street: "Rue Eau de Robec"
-housenumber: 247
-phone: "+33 2 76 27 01 19"
-opening_hours: "Mo 15:00-19:30; Tu-We 10:00-19:30; Th 14:00-19:30; Fr-Sa 10:00-19:30"
+street: Rue Eau de Robec
+housenumber: "247"
+phone: +33 2 76 27 01 19
+opening_hours: Mo 15:00-19:30; Tu-We 10:00-19:30; Th 14:00-19:30; Fr-Sa 10:00-19:30
 website: ""

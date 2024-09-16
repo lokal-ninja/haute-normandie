@@ -5,7 +5,7 @@ longitude: 1.09403
 postcode: "76130"
 city: Mont-Saint-Aignan
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:30"
-website: "https://www.carrefour.fr/"
+opening_hours: Mo-Sa 09:00-20:30
+website: https://www.carrefour.fr/

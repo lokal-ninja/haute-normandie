@@ -1,11 +1,11 @@
 id: 65038264
-type: way
+type: node
 latitude: 49.43109
 longitude: 1.08322
 postcode: "76100"
 city: Rouen
-street: "Avenue de Bretagne"
-housenumber: 
-phone: "+33 2 32 81 20 00"
-opening_hours: "Mo-Sa 09:00-23:00, Su 11:00-23:00"
-website: "https://www.rouenstsever.com/"
+street: Avenue de Bretagne
+housenumber: ""
+phone: +33 2 32 81 20 00
+opening_hours: Mo-Sa 09:00-23:00, Su 11:00-23:00
+website: https://www.rouenstsever.com/

@@ -4,8 +4,8 @@ latitude: 49.44889
 longitude: 1.09436
 postcode: "76000"
 city: Rouen
-street: "Place Bernard Tissot"
-housenumber: 
+street: Place Bernard Tissot
+housenumber: ""
 phone: ""
-opening_hours: "Sep-Jun: Mo-Fr 07:00-19:00; Sep-Jun: Sa 09:30-12:30,13:30-17:30"
-website: "https://www.reseau-astuce.fr/"
+opening_hours: 'Sep-Jun: Mo-Fr 07:00-19:00; Sep-Jun: Sa 09:30-12:30,13:30-17:30'
+website: https://www.reseau-astuce.fr/

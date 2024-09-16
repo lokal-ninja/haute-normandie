@@ -4,8 +4,8 @@ latitude: 49.70681
 longitude: 0.20436
 postcode: "76790"
 city: Étretat
-street: "Rue Alphonse Karr"
-housenumber: 4
-phone: "+33 2 35107566"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-12:45"
-website: "https://www.carrefour.fr/"
+street: Rue Alphonse Karr
+housenumber: "4"
+phone: +33 2 35107566
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-12:45
+website: https://www.carrefour.fr/

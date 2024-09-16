@@ -1,11 +1,11 @@
 id: 246484001
-type: way
+type: node
 latitude: 49.43082
 longitude: 1.08292
 postcode: "76100"
 city: Rouen
-street: "Avenue de Bretagne"
-housenumber: 
-phone: "+33 2 35 58 82 82"
-opening_hours: "Mo-Sa 09:00-20:30; Su 09:00-12:30"
-website: "http://www.e-leclerc.com"
+street: Avenue de Bretagne
+housenumber: ""
+phone: +33 2 35 58 82 82
+opening_hours: Mo-Sa 09:00-20:30; Su 09:00-12:30
+website: http://www.e-leclerc.com

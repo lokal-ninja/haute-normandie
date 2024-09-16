@@ -1,11 +1,11 @@
 id: 727338091
-type: way
+type: node
 latitude: 49.4959
 longitude: 0.17697
 postcode: "76600"
 city: Le Havre
-street: "Boulevard Jules Durand"
-housenumber: 393
+street: Boulevard Jules Durand
+housenumber: "393"
 phone: ""
 opening_hours: ""
-website: "https://distributeur.groupauto.fr/"
+website: https://distributeur.groupauto.fr/

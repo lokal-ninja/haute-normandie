@@ -1,11 +1,11 @@
 id: 122013334
-type: way
+type: node
 latitude: 49.62101
 longitude: 0.77052
 postcode: "76190"
 city: Yvetot
-street: "Avenue Georges Clemenceau"
-housenumber: 
-phone: "+33 2 32 70 42 42"
-opening_hours: "Mo-Fr 07:00-12:15, 13:45-19:00; Sa 07:00-12:30, 13:30-19:00"
+street: Avenue Georges Clemenceau
+housenumber: ""
+phone: +33 2 32 70 42 42
+opening_hours: Mo-Fr 07:00-12:15, 13:45-19:00; Sa 07:00-12:30, 13:30-19:00
 website: ""

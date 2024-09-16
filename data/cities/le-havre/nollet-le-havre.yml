@@ -4,8 +4,8 @@ latitude: 49.49057
 longitude: 0.14338
 postcode: "76600"
 city: Le Havre
-street: "Rue Gustave Nicolle"
-housenumber: 20
-phone: "+33 2 35 26 61 82"
-opening_hours: "Mo-Th 07:30-12:00,13:45-17:30; Fr 07:30-12:00,13:45-16:30"
-website: "https://www.nollet.fr/"
+street: Rue Gustave Nicolle
+housenumber: "20"
+phone: +33 2 35 26 61 82
+opening_hours: Mo-Th 07:30-12:00,13:45-17:30; Fr 07:30-12:00,13:45-16:30
+website: https://www.nollet.fr/

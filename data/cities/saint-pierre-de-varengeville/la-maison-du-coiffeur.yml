@@ -1,11 +1,11 @@
 id: 251899101
-type: way
+type: node
 latitude: 49.50251
 longitude: 0.93194
 postcode: "76480"
 city: Saint-Pierre-de-Varengeville
-street: "Route du Candos"
-housenumber: 81
-phone: "+33 2 35 37 88 81"
-opening_hours: "Mo-Fr 09:00-12:00,14:00-18:30; We off; Sa 08:30-16:30"
-website: "https://www.la-maison-du-coiffeur.fr/"
+street: Route du Candos
+housenumber: "81"
+phone: +33 2 35 37 88 81
+opening_hours: Mo-Fr 09:00-12:00,14:00-18:30; We off; Sa 08:30-16:30
+website: https://www.la-maison-du-coiffeur.fr/

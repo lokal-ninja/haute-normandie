@@ -1,11 +1,11 @@
 id: 785852378
-type: way
+type: node
 latitude: 49.00692
 longitude: 1.16265
 postcode: "27000"
 city: Évreux
-street: "Boulevard du 14 Juillet"
-housenumber: 
+street: Boulevard du 14 Juillet
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

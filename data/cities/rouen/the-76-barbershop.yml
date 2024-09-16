@@ -4,8 +4,8 @@ latitude: 49.4386
 longitude: 1.09913
 postcode: "76000"
 city: Rouen
-street: "Rue Alsace Lorraine"
-housenumber: 11
-phone: "+33 6 10 42 06 53"
-opening_hours: "Mo-Sa 10:00-20:00; Su 10:00-18:00"
+street: Rue Alsace Lorraine
+housenumber: "11"
+phone: +33 6 10 42 06 53
+opening_hours: Mo-Sa 10:00-20:00; Su 10:00-18:00
 website: ""

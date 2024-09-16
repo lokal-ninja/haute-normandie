@@ -4,8 +4,8 @@ latitude: 49.46949
 longitude: 1.12112
 postcode: "76230"
 city: Bois-Guillaume
-street: "Route de Darnétal"
-housenumber: 66
-phone: "+33 2 35 59 05 63"
-opening_hours: "Tu-Sa 09:30-19:30"
-website: "https://leproducteurlocal.fr/index.php?dispatch=index"
+street: Route de Darnétal
+housenumber: "66"
+phone: +33 2 35 59 05 63
+opening_hours: Tu-Sa 09:30-19:30
+website: https://leproducteurlocal.fr/index.php?dispatch=index

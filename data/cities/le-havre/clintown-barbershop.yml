@@ -4,8 +4,8 @@ latitude: 49.50009
 longitude: 0.12789
 postcode: "76600"
 city: Le Havre
-street: "Rue Maréchal Joffre"
-housenumber: 147
+street: Rue Maréchal Joffre
+housenumber: "147"
 phone: ""
-opening_hours: "Mo-Tu, Th-Sa 09:30-19:00; We 09:30-20:00"
-website: "https://www.clintownlh.com/"
+opening_hours: Mo-Tu, Th-Sa 09:30-19:00; We 09:30-20:00
+website: https://www.clintownlh.com/

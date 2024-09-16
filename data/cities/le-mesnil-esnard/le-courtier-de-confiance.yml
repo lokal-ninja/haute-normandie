@@ -4,8 +4,8 @@ latitude: 49.41114
 longitude: 1.14092
 postcode: "76240"
 city: Le Mesnil-Esnard
-street: "Route de Paris"
-housenumber: 84
-phone: "+33 2 32 83 28 76"
-opening_hours: "Mo-Sa by appointment"
-website: "https://www.seinefinancement.fr/seine-financement-mesnil-esnard/"
+street: Route de Paris
+housenumber: "84"
+phone: +33 2 32 83 28 76
+opening_hours: Mo-Sa "by appointment"
+website: https://www.seinefinancement.fr/seine-financement-mesnil-esnard/

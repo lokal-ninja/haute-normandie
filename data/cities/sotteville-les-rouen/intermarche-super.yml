@@ -1,11 +1,11 @@
 id: 64969375
-type: way
+type: node
 latitude: 49.41999
 longitude: 1.09859
 postcode: "76300"
 city: Sotteville-lès-Rouen
-street: "Rue Gaston Contremoulins"
-housenumber: 
-phone: "+33 2 35 72 39 25"
-opening_hours: "Mo-Sa 08:45-19:30"
-website: "https://www.intermarche.com/"
+street: Rue Gaston Contremoulins
+housenumber: ""
+phone: +33 2 35 72 39 25
+opening_hours: Mo-Sa 08:45-19:30
+website: https://www.intermarche.com/

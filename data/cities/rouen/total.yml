@@ -1,11 +1,11 @@
 id: 65040401
-type: way
+type: node
 latitude: 49.43407
 longitude: 1.07534
 postcode: "76100"
 city: Rouen
-street: "Avenue Jean Rondeaux"
-housenumber: 
-phone: "+33 2 35 73 19 78"
-opening_hours: "Mo-Fr 08:30-18:00; Sa 00:00-24:00,08:30-12:00"
-website: "https://store.totalenergies.fr/en_EN/NF080019"
+street: Avenue Jean Rondeaux
+housenumber: ""
+phone: +33 2 35 73 19 78
+opening_hours: Mo-Fr 08:30-18:00; Sa 00:00-24:00,08:30-12:00
+website: https://store.totalenergies.fr/en_EN/NF080019

@@ -4,8 +4,8 @@ latitude: 49.44093
 longitude: 1.09316
 postcode: "76000"
 city: Rouen
-street: "Rue du Gros-Horloge"
-housenumber: 21
-phone: "+33 2 44 19 85 04"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.unjourailleurs.com/"
+street: Rue du Gros-Horloge
+housenumber: "21"
+phone: +33 2 44 19 85 04
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.unjourailleurs.com/

@@ -4,8 +4,8 @@ latitude: 49.61719
 longitude: 0.75246
 postcode: "76190"
 city: Yvetot
-street: "Rue des Victoires"
-housenumber: 7
-phone: "+33 2 35 95 00 79"
-opening_hours: "Tu-Fr 07:30-12:45, 14:00-19:30; Sa 07:30-19:30"
-website: "http://www.boucherie-dumesnil.com/"
+street: Rue des Victoires
+housenumber: "7"
+phone: +33 2 35 95 00 79
+opening_hours: Tu-Fr 07:30-12:45, 14:00-19:30; Sa 07:30-19:30
+website: http://www.boucherie-dumesnil.com/

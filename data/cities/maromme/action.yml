@@ -1,11 +1,11 @@
 id: 123191376
-type: way
+type: node
 latitude: 49.47423
 longitude: 1.04274
 postcode: "76150"
 city: Maromme
-street: "Rue de la République"
-housenumber: 71
+street: Rue de la République
+housenumber: "71"
 phone: ""
 opening_hours: ""
-website: "https://www.action.com"
+website: https://www.action.com

@@ -4,8 +4,8 @@ latitude: 49.49262
 longitude: 0.10949
 postcode: "76600"
 city: Le Havre
-street: "Place de l'Hôtel de Ville"
-housenumber: 42
+street: Place de l'Hôtel de Ville
+housenumber: "42"
 phone: ""
-opening_hours: "Mo 10:00-19:00; Tu-Sa 09:30-19:30"
-website: "https://scandal-lh-shop.com/"
+opening_hours: Mo 10:00-19:00; Tu-Sa 09:30-19:30
+website: https://scandal-lh-shop.com/

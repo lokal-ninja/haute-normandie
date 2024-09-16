@@ -4,8 +4,8 @@ latitude: 49.48748
 longitude: 0.14306
 postcode: "76600"
 city: Le Havre
-street: "Boulevard de l'Amiral Mouchez"
-housenumber: 161
-phone: "+33 2 35 26 28 00"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30"
+street: Boulevard de l'Amiral Mouchez
+housenumber: "161"
+phone: +33 2 35 26 28 00
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30
 website: ""

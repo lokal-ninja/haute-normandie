@@ -4,8 +4,8 @@ latitude: 49.92732
 longitude: 1.08703
 postcode: "76200"
 city: Dieppe
-street: "Grande Rue du Pollet"
-housenumber: 30
-phone: "+33 7 61 03 48 58"
-opening_hours: "Mo-Sa 11:00-19:00"
+street: Grande Rue du Pollet
+housenumber: "30"
+phone: +33 7 61 03 48 58
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 317371039
-type: way
+type: node
 latitude: 49.22365
 longitude: 1.06707
 postcode: "27400"
 city: La Haye-Malherbe
-street: "Rue de la Poste"
-housenumber: 
+street: Rue de la Poste
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

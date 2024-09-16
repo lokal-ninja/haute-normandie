@@ -4,8 +4,8 @@ latitude: 49.27134
 longitude: 0.78167
 postcode: "27520"
 city: Boissey-le-Châtel
-street: "Place de la Mairie"
-housenumber: 10
-phone: "+33 9 70 95 90 71"
-opening_hours: "Tu-Sa 08:00-13:00, 15:00-20:30; Su 09:00-13:00, 16:00-20:00"
-website: "http://www.vival.fr"
+street: Place de la Mairie
+housenumber: "10"
+phone: +33 9 70 95 90 71
+opening_hours: Tu-Sa 08:00-13:00, 15:00-20:30; Su 09:00-13:00, 16:00-20:00
+website: http://www.vival.fr

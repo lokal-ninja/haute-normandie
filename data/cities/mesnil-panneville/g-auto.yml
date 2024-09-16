@@ -1,11 +1,11 @@
 id: 510200974
-type: way
+type: node
 latitude: 49.59734
 longitude: 0.86542
 postcode: "76570"
 city: Mesnil-Panneville
-street: "Allée des maisons bleus"
-housenumber: 170
-phone: "+33 2 32 87 56 79"
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-12:00"
+street: Allée des maisons bleus
+housenumber: "170"
+phone: +33 2 32 87 56 79
+opening_hours: Mo-Fr 08:30-12:00, 14:00-18:30; Sa 08:30-12:00
 website: ""

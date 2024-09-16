@@ -4,8 +4,8 @@ latitude: 49.42147
 longitude: 1.12709
 postcode: "76240"
 city: Bonsecours
-street: "Route de Paris"
-housenumber: 50
+street: Route de Paris
+housenumber: "50"
 phone: "+33235792080"
-opening_hours: "Tu-Th 09:00-19:00; Fr, Sa 09:00-19:30; Su 09:00-13:00"
-website: "https://www.artisansfleuristesdefrance.com/fleuriste/topaze-fleurs"
+opening_hours: Tu-Th 09:00-19:00; Fr, Sa 09:00-19:30; Su 09:00-13:00
+website: https://www.artisansfleuristesdefrance.com/fleuriste/topaze-fleurs

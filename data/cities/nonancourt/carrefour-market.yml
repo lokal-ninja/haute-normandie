@@ -1,11 +1,11 @@
 id: 478475138
-type: way
+type: node
 latitude: 48.76345
 longitude: 1.2155
 postcode: "27320"
 city: Nonancourt
-street: "Rue de la Cité Neuve"
-housenumber: 
-phone: "+33 2 32 32 80 20"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-nonancourt"
+street: Rue de la Cité Neuve
+housenumber: ""
+phone: +33 2 32 32 80 20
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-nonancourt

@@ -4,8 +4,8 @@ latitude: 49.50504
 longitude: 0.19946
 postcode: "76700"
 city: Harfleur
-street: "Avenue de la Résistance"
-housenumber: 5
-phone: "+33 2 35 49 00 79"
-opening_hours: "Tu-We 09:00-18:30; Th 09:00-18:30; Fr 09:00-19:00; Sa 08:30-17:30"
-website: "https://medard-essentiel.fr/"
+street: Avenue de la Résistance
+housenumber: "5"
+phone: +33 2 35 49 00 79
+opening_hours: Tu-We 09:00-18:30; Th 09:00-18:30; Fr 09:00-19:00; Sa 08:30-17:30
+website: https://medard-essentiel.fr/

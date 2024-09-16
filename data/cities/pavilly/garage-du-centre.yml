@@ -1,11 +1,11 @@
 id: 164284333
-type: way
+type: node
 latitude: 49.5639
 longitude: 0.95506
 postcode: "76570"
 city: Pavilly
-street: "Rue André Lesouef"
-housenumber: 5
-phone: "+33 2 35 92 03 20"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-18:30"
-website: "https://www.citroen.fr/"
+street: Rue André Lesouef
+housenumber: "5"
+phone: +33 2 35 92 03 20
+opening_hours: Mo-Fr 07:30-12:00,13:30-18:30
+website: https://www.citroen.fr/

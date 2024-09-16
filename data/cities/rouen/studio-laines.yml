@@ -4,8 +4,8 @@ latitude: 49.44345
 longitude: 1.09589
 postcode: "76000"
 city: ROUEN
-street: "rue Beauvoisine"
-housenumber: 14
+street: rue Beauvoisine
+housenumber: "14"
 phone: "+33983389405"
 opening_hours: ""
-website: "https://www.studio-laine.fr/"
+website: https://www.studio-laine.fr/

@@ -4,8 +4,8 @@ latitude: 49.49058
 longitude: 0.10434
 postcode: "76600"
 city: Le Havre
-street: "Place des Halles Centrales"
-housenumber: 23
+street: Place des Halles Centrales
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Sa 08:00-12:30,14:00-19:00; Su 09:00-13:00"
-website: "https://cafes-duchossoy.com/"
+opening_hours: Tu-Sa 08:00-12:30,14:00-19:00; Su 09:00-13:00
+website: https://cafes-duchossoy.com/

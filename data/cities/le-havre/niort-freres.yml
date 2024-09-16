@@ -4,8 +4,8 @@ latitude: 49.48788
 longitude: 0.14373
 postcode: "76600"
 city: Le Havre
-street: "Boulevard de l'Amiral Mouchez"
-housenumber: 167
+street: Boulevard de l'Amiral Mouchez
+housenumber: "167"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:30"
-website: "https://www.niortfreres.fr/"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:30
+website: https://www.niortfreres.fr/

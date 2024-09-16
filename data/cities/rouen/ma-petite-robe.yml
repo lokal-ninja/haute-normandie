@@ -4,8 +4,8 @@ latitude: 49.4422
 longitude: 1.09422
 postcode: "76000"
 city: Rouen
-street: "rue Saint-Lô"
-housenumber: 14
+street: rue Saint-Lô
+housenumber: "14"
 phone: "+33232187927"
 opening_hours: ""
-website: "https://www.mapetiteroberouen.fr/"
+website: https://www.mapetiteroberouen.fr/

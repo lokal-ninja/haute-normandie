@@ -1,11 +1,11 @@
 id: 78746145
-type: way
+type: node
 latitude: 49.48202
 longitude: 1.7138
 postcode: "76220"
 city: Gournay-en-Bray
-street: "Avenue des Aulnaies"
-housenumber: 20
-phone: "+33 2 35 09 00 15"
-opening_hours: "Mo-Sa 08:30-20:00"
+street: Avenue des Aulnaies
+housenumber: "20"
+phone: +33 2 35 09 00 15
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

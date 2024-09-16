@@ -1,11 +1,11 @@
 id: 196775223
-type: way
+type: node
 latitude: 49.53022
 longitude: 0.96721
 postcode: "76360"
 city: Barentin
-street: "Boulevard de Westphalie"
-housenumber: 
-phone: "+33 2 32 94 97 97"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.fly.fr/"
+street: Boulevard de Westphalie
+housenumber: ""
+phone: +33 2 32 94 97 97
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.fly.fr/

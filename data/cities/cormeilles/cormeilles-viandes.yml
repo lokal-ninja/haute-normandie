@@ -4,8 +4,8 @@ latitude: 49.24731
 longitude: 0.37822
 postcode: "27260"
 city: Cormeilles
-street: "Rue de l'Abbaye"
-housenumber: 35
-phone: "+33 2 32 57 80 99"
-opening_hours: "Tu,Sa,Su 08:00-13:00; We,Th 08:00-13:00,15:00-19:30; Fr 08:00-13:00,14:30-19:30"
+street: Rue de l'Abbaye
+housenumber: "35"
+phone: +33 2 32 57 80 99
+opening_hours: Tu,Sa,Su 08:00-13:00; We,Th 08:00-13:00,15:00-19:30; Fr 08:00-13:00,14:30-19:30
 website: ""

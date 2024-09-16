@@ -4,8 +4,8 @@ latitude: 49.44253
 longitude: 1.08884
 postcode: "76000"
 city: Rouen
-street: "Place de la Pucelle"
-housenumber: 20
-phone: "+33 2 35 07 66 96"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.micromania.fr/"
+street: Place de la Pucelle
+housenumber: "20"
+phone: +33 2 35 07 66 96
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.micromania.fr/

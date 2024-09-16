@@ -4,8 +4,8 @@ latitude: 49.28728
 longitude: 1.00881
 postcode: "76500"
 city: Elbeuf
-street: "Rue des Martyrs"
-housenumber: 2
-phone: "+33 2 44 10 14 64"
-opening_hours: "Mo-Th 08:30-19:30; Fr-Sa 08:30-20:00; Su 08:30-13:30"
-website: "https://www.manonflore.fr/"
+street: Rue des Martyrs
+housenumber: "2"
+phone: +33 2 44 10 14 64
+opening_hours: Mo-Th 08:30-19:30; Fr-Sa 08:30-20:00; Su 08:30-13:30
+website: https://www.manonflore.fr/

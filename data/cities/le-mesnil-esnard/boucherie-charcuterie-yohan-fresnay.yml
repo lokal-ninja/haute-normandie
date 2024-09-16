@@ -4,8 +4,8 @@ latitude: 49.41062
 longitude: 1.1411
 postcode: "76240"
 city: Le Mesnil-Esnard
-street: "Route de Paris"
-housenumber: 81
+street: Route de Paris
+housenumber: "81"
 phone: "+33235800634"
-opening_hours: "Tu-Fr 08:00-12:45,15:00-19:00"
-website: "https://www.boucheriefresnay.fr/"
+opening_hours: Tu-Fr 08:00-12:45,15:00-19:00
+website: https://www.boucheriefresnay.fr/

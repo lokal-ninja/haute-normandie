@@ -4,8 +4,8 @@ latitude: 49.48441
 longitude: 0.1306
 postcode: "76600"
 city: Le Havre
-street: "Rue Louis Eudier"
-housenumber: 5
-phone: "+33 2 32 72 49 81"
-opening_hours: "Mo-Sa 08:30-20:00; Su 09:00-12:30"
-website: "https://www.auchan.fr/magasins/supermarche/auchan-supermarche-le-havre/s-1370"
+street: Rue Louis Eudier
+housenumber: "5"
+phone: +33 2 32 72 49 81
+opening_hours: Mo-Sa 08:30-20:00; Su 09:00-12:30
+website: https://www.auchan.fr/magasins/supermarche/auchan-supermarche-le-havre/s-1370

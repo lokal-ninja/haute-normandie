@@ -1,11 +1,11 @@
 id: 64949472
-type: way
+type: node
 latitude: 49.41428
 longitude: 1.09086
 postcode: "76300"
 city: Sotteville-lès-Rouen
-street: "Avenue Jean Jaurès"
-housenumber: 
+street: Avenue Jean Jaurès
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

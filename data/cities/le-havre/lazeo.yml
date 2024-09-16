@@ -4,8 +4,8 @@ latitude: 49.4939
 longitude: 0.1096
 postcode: "76600"
 city: Le Havre
-street: "Place de l'Hôtel de Ville"
-housenumber: 66
-phone: "+33 2 79 01 08 38"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.lazeo.com/"
+street: Place de l'Hôtel de Ville
+housenumber: "66"
+phone: +33 2 79 01 08 38
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.lazeo.com/

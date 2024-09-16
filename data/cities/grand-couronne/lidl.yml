@@ -1,11 +1,11 @@
 id: 139362958
-type: way
+type: node
 latitude: 49.36401
 longitude: 1.01462
 postcode: "76530"
 city: Grand-Couronne
-street: "Rue Léon Blum"
-housenumber: 4
+street: Rue Léon Blum
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.lidl.fr/"
+website: https://www.lidl.fr/

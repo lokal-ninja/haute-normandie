@@ -1,11 +1,11 @@
 id: 64956318
-type: way
+type: node
 latitude: 49.47046
 longitude: 1.11538
 postcode: "76230"
 city: Bois-Guillaume
-street: "Rue de la République"
-housenumber: 
-phone: "+33 2 35 12 85 10"
-opening_hours: "24/7"
-website: "https://www.carrefour.fr/"
+street: Rue de la République
+housenumber: ""
+phone: +33 2 35 12 85 10
+opening_hours: 24/7
+website: https://www.carrefour.fr/

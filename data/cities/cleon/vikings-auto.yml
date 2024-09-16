@@ -1,11 +1,11 @@
 id: 178020141
-type: way
+type: node
 latitude: 49.30651
 longitude: 1.02854
 postcode: "76410"
 city: Cléon
-street: "Rue de Tourville"
-housenumber: 
+street: Rue de Tourville
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-18:30; Sa 09:00-12:00, 14:00-18:00"
-website: "https://www.vikings-auto.fr/concession/volkswagen/volkswagen-cleon"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-18:30; Sa 09:00-12:00, 14:00-18:00
+website: https://www.vikings-auto.fr/concession/volkswagen/volkswagen-cleon

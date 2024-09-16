@@ -1,11 +1,11 @@
 id: 440044881
-type: way
+type: node
 latitude: 49.53952
 longitude: 0.95887
 postcode: "76360"
 city: Barentin
-street: "Rue Denis Papin"
-housenumber: 363
-phone: "+33 2 46 59 04 70"
-opening_hours: "Mo-Sa 09:00-12:00, 14:00-19:00"
-website: "https://fiatbarentin.espacevo.fr/"
+street: Rue Denis Papin
+housenumber: "363"
+phone: +33 2 46 59 04 70
+opening_hours: Mo-Sa 09:00-12:00, 14:00-19:00
+website: https://fiatbarentin.espacevo.fr/

@@ -4,8 +4,8 @@ latitude: 49.49514
 longitude: 0.10912
 postcode: "76600"
 city: Le Havre
-street: "Rue Édouard Herriot"
-housenumber: 5
-phone: "+33 2 35 43 45 60"
+street: Rue Édouard Herriot
+housenumber: "5"
+phone: +33 2 35 43 45 60
 opening_hours: ""
-website: "https://place-des-pains.fr/"
+website: https://place-des-pains.fr/

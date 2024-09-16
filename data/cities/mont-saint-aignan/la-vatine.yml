@@ -1,11 +1,11 @@
 id: 65108955
-type: way
+type: node
 latitude: 49.47039
 longitude: 1.09574
 postcode: "76130"
 city: Mont-Saint-Aignan
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.carrefour-lavatine.fr/"
+website: https://www.carrefour-lavatine.fr/

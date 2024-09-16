@@ -1,11 +1,11 @@
 id: 143815160
-type: way
+type: node
 latitude: 49.3533
 longitude: 0.9121
 postcode: "27310"
 city: Saint-Ouen-de-Thouberville
-street: "Route Nationale"
-housenumber: 69
+street: Route Nationale
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

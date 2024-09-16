@@ -1,11 +1,11 @@
 id: 32366903
-type: way
+type: node
 latitude: 49.61325
 longitude: 0.77289
 postcode: "76190"
 city: Yvetot
-street: "Rue Jean Moulin"
-housenumber: 10
-phone: "+33 2 35 95 97 35"
-opening_hours: "Mo-Th, Sa 08:30-20:00; Fr 08:30-20:30"
-website: "https://e.leclerc/mag/e-leclerc-yvetot"
+street: Rue Jean Moulin
+housenumber: "10"
+phone: +33 2 35 95 97 35
+opening_hours: Mo-Th, Sa 08:30-20:00; Fr 08:30-20:30
+website: https://e.leclerc/mag/e-leclerc-yvetot

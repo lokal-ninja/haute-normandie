@@ -5,7 +5,7 @@ longitude: 0.149
 postcode: "76600"
 city: Le Havre
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:00, 13:30-19:00"
-website: "https://www.audi-lehavre.com/"
+opening_hours: Mo-Sa 08:00-12:00, 13:30-19:00
+website: https://www.audi-lehavre.com/

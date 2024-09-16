@@ -1,11 +1,11 @@
 id: 641351209
-type: way
+type: node
 latitude: 49.95474
 longitude: 1.22758
 postcode: "76370"
 city: Petit-Caux
-street: "Rue de la Bascule"
-housenumber: 2
+street: Rue de la Bascule
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

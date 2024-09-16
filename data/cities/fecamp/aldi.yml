@@ -1,11 +1,11 @@
 id: 135948180
-type: way
+type: node
 latitude: 49.7549
 longitude: 0.396
 postcode: "76400"
 city: Fécamp
-street: "Boulevard Suzanne Clément"
-housenumber: 
+street: Boulevard Suzanne Clément
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

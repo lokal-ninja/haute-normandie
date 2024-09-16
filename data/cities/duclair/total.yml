@@ -4,8 +4,8 @@ latitude: 49.48047
 longitude: 0.87275
 postcode: "76480"
 city: Duclair
-street: "Avenue du Président Coty"
-housenumber: 130
-phone: "+33 2 35 37 52 79"
-opening_hours: "Mo-Fr 06:30-19:30; Sa 07:30-19:30; Su 09:00-13:00"
-website: "http://www.total.fr"
+street: Avenue du Président Coty
+housenumber: "130"
+phone: +33 2 35 37 52 79
+opening_hours: Mo-Fr 06:30-19:30; Sa 07:30-19:30; Su 09:00-13:00
+website: http://www.total.fr

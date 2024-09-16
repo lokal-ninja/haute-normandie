@@ -1,11 +1,11 @@
 id: 1307980070
-type: way
+type: node
 latitude: 49.48993
 longitude: 0.12789
 postcode: "76600"
 city: Le Havre
-street: "Quai Frissard"
-housenumber: 
-phone: "+33 2 35 25 57 65"
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-19:00"
-website: "https://www.primark.com/fr-fr/stores/le-havre/centre-commercial-les-docks-vauban"
+street: Quai Frissard
+housenumber: ""
+phone: +33 2 35 25 57 65
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-19:00
+website: https://www.primark.com/fr-fr/stores/le-havre/centre-commercial-les-docks-vauban

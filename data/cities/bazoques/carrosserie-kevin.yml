@@ -1,11 +1,11 @@
 id: 765437887
-type: way
+type: node
 latitude: 49.1636
 longitude: 0.55689
 postcode: "27230"
 city: Bazoques
-street: "route de Bernay"
-housenumber: 865
+street: route de Bernay
+housenumber: "865"
 phone: ""
 opening_hours: ""
 website: ""

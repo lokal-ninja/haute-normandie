@@ -1,11 +1,11 @@
 id: 71192036
-type: way
+type: node
 latitude: 49.48058
 longitude: 0.87191
 postcode: "76480"
 city: Duclair
-street: "Rue de Ronnenberg"
-housenumber: 
-phone: "+33 2 32 82 75 90"
-opening_hours: "Mo-Sa 08:45-19:30; Su 09:15-12:15"
-website: "https://www.carrefour.fr"
+street: Rue de Ronnenberg
+housenumber: ""
+phone: +33 2 32 82 75 90
+opening_hours: Mo-Sa 08:45-19:30; Su 09:15-12:15
+website: https://www.carrefour.fr

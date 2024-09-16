@@ -1,11 +1,11 @@
 id: 784323804
-type: way
+type: node
 latitude: 49.05422
 longitude: 1.16803
 postcode: "27930"
 city: Gravigny
-street: "Rue Pierre Semard"
-housenumber: 
+street: Rue Pierre Semard
+housenumber: ""
 phone: "+33232629610"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://nozarrivages.com/magasin/gravigny/"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://nozarrivages.com/magasin/gravigny/

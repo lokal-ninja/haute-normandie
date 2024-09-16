@@ -1,11 +1,11 @@
 id: 480240165
-type: way
+type: node
 latitude: 49.65319
 longitude: 0.59995
 postcode: "76640"
 city: Fauville-en-Caux
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.magasins-u.com/magasin/superu-terresdecaux"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.magasins-u.com/magasin/superu-terresdecaux

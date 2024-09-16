@@ -1,11 +1,11 @@
 id: 477509191
-type: way
+type: node
 latitude: 49.33516
 longitude: 1.26876
 postcode: "27360"
 city: Pont-Saint-Pierre
-street: "Grande Rue"
-housenumber: 
+street: Grande Rue
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

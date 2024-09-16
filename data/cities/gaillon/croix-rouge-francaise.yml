@@ -1,11 +1,11 @@
 id: 315329376
-type: way
+type: node
 latitude: 49.16085
 longitude: 1.33127
 postcode: "27600"
 city: Gaillon
-street: "Rue du Four à Baon"
-housenumber: 6
-phone: "+33 2 32 52 78 71"
-opening_hours: "Mo 14:00-16:00; Tu 09:00-12:00,14:00-17:00; Fr 09:00-12:00"
-website: "https://www.croix-rouge.fr"
+street: Rue du Four à Baon
+housenumber: "6"
+phone: +33 2 32 52 78 71
+opening_hours: Mo 14:00-16:00; Tu 09:00-12:00,14:00-17:00; Fr 09:00-12:00
+website: https://www.croix-rouge.fr

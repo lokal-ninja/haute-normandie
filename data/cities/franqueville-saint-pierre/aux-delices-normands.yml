@@ -4,8 +4,8 @@ latitude: 49.40348
 longitude: 1.17265
 postcode: "76520"
 city: Franqueville-Saint-Pierre
-street: "Rue de la République"
-housenumber: 392
-phone: "+33 2 35 80 21 11"
-opening_hours: "We-Sa 06:30-19:30; Su 06:30-13:00"
-website: "https://www.auxdelicesnormands.fr/"
+street: Rue de la République
+housenumber: "392"
+phone: +33 2 35 80 21 11
+opening_hours: We-Sa 06:30-19:30; Su 06:30-13:00
+website: https://www.auxdelicesnormands.fr/

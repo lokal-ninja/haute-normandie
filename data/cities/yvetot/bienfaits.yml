@@ -4,8 +4,8 @@ latitude: 49.61766
 longitude: 0.7549
 postcode: "76190"
 city: Yvetot
-street: "Rue Percée"
-housenumber: 2
-phone: "+33 2 77 75 72 38"
-opening_hours: "Mo-Tu 08:30-19:00; We 09:30-19:00; Th-Fr 08:30-19:00; Sa 09:30-19:00"
+street: Rue Percée
+housenumber: "2"
+phone: +33 2 77 75 72 38
+opening_hours: Mo-Tu 08:30-19:00; We 09:30-19:00; Th-Fr 08:30-19:00; Sa 09:30-19:00
 website: ""

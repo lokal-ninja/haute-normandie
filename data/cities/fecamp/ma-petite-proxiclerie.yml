@@ -1,11 +1,11 @@
 id: 135946589
-type: way
+type: node
 latitude: 49.74809
 longitude: 0.36801
 postcode: "76400"
 city: Fécamp
-street: "Rue Traversière"
-housenumber: 
+street: Rue Traversière
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

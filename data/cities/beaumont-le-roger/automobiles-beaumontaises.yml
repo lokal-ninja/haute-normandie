@@ -1,11 +1,11 @@
 id: 677003449
-type: way
+type: node
 latitude: 49.0844
 longitude: 0.7572
 postcode: "27170"
 city: Beaumont-le-Roger
-street: "Route de Bernay"
-housenumber: 31
+street: Route de Bernay
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

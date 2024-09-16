@@ -1,11 +1,11 @@
 id: 579199116
-type: way
+type: node
 latitude: 49.26758
 longitude: 1.20476
 postcode: "27100"
 city: Val-de-Reuil
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

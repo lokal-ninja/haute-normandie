@@ -4,8 +4,8 @@ latitude: 49.50008
 longitude: 0.12778
 postcode: "76600"
 city: Le Havre
-street: "Rue Maréchal Joffre"
-housenumber: 145
+street: Rue Maréchal Joffre
+housenumber: "145"
 phone: ""
-opening_hours: "We 13:30-19:15; Th,Fr 16:30-19:15; Sa 10:00-12:45"
-website: "https://www.lamouette-coop.fr/"
+opening_hours: We 13:30-19:15; Th,Fr 16:30-19:15; Sa 10:00-12:45
+website: https://www.lamouette-coop.fr/

@@ -1,11 +1,11 @@
 id: 82043875
-type: way
+type: node
 latitude: 49.03085
 longitude: 1.15312
 postcode: "27000"
 city: Evreux
-street: "Rue du Maréchal Joffre"
-housenumber: 13
+street: Rue du Maréchal Joffre
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

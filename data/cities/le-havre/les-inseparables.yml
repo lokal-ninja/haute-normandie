@@ -5,7 +5,7 @@ longitude: 0.11129
 postcode: "76600"
 city: Le Havre
 street: ""
-housenumber: 1
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://www.placeomarche.fr/artisans/les-inseparables-concept-2-en-1-la-boulangerie"
+website: https://www.placeomarche.fr/artisans/les-inseparables-concept-2-en-1-la-boulangerie

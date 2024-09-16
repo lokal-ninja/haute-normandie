@@ -1,11 +1,11 @@
 id: 65315841
-type: way
+type: node
 latitude: 49.42613
 longitude: 1.05834
 postcode: "76140"
 city: Le Petit-Quevilly
-street: "Avenue Jean Jaurès"
-housenumber: 128
+street: Avenue Jean Jaurès
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

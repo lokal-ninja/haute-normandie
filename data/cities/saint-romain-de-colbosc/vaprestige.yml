@@ -4,8 +4,8 @@ latitude: 49.52955
 longitude: 0.35759
 postcode: "76430"
 city: Saint-Romain-de-Colbosc
-street: "Place Théodule Benoist"
-housenumber: 15
+street: Place Théodule Benoist
+housenumber: "15"
 phone: ""
-opening_hours: "Tu-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.vaprestige.fr/"
+opening_hours: Tu-Sa 10:00-12:30,14:00-19:00
+website: https://www.vaprestige.fr/

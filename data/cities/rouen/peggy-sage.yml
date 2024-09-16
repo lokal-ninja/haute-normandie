@@ -4,8 +4,8 @@ latitude: 49.44091
 longitude: 1.09322
 postcode: "76000"
 city: Rouen
-street: "Rue du Gros-Horloge"
-housenumber: 19
+street: Rue du Gros-Horloge
+housenumber: "19"
 phone: "0276863250"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://boutique.peggysage.com/boutiques/boutique-store-peggy-sage-rouen/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://boutique.peggysage.com/boutiques/boutique-store-peggy-sage-rouen/

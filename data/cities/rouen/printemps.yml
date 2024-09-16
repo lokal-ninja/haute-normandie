@@ -1,11 +1,11 @@
 id: 63419947
-type: way
+type: node
 latitude: 49.44097
 longitude: 1.09394
 postcode: "76000"
 city: Rouen
-street: "Rue du Gros-Horloge"
-housenumber: 4
-phone: "+33 1 71 25 26 01"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "http://www.printempsfrance.com"
+street: Rue du Gros-Horloge
+housenumber: "4"
+phone: +33 1 71 25 26 01
+opening_hours: Mo-Sa 09:30-19:30
+website: http://www.printempsfrance.com

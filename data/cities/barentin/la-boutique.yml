@@ -1,11 +1,11 @@
 id: 807083408
-type: way
+type: node
 latitude: 49.55704
 longitude: 0.95283
 postcode: "76360"
 city: Barentin
-street: "Avenue André Maurois"
-housenumber: 168
+street: Avenue André Maurois
+housenumber: "168"
 phone: ""
 opening_hours: ""
 website: ""

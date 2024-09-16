@@ -1,11 +1,11 @@
 id: 324321312
-type: way
+type: node
 latitude: 49.35393
 longitude: 0.90802
 postcode: "27310"
 city: Caumont
-street: "Route Nationale"
-housenumber: 62
+street: Route Nationale
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 164204266
-type: way
+type: node
 latitude: 49.12005
 longitude: 1.43593
 postcode: "27950"
 city: La Chapelle-Longueville
-street: "Rue du Guesdon"
-housenumber: 4
-phone: "+33 2 32 52 20 42"
-opening_hours: "Tu-Sa 08:00-12:30, 16:00-19:30; Su 08:30-12:30"
+street: Rue du Guesdon
+housenumber: "4"
+phone: +33 2 32 52 20 42
+opening_hours: Tu-Sa 08:00-12:30, 16:00-19:30; Su 08:30-12:30
 website: ""

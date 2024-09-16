@@ -1,11 +1,11 @@
 id: 125549359
-type: way
+type: node
 latitude: 49.50963
 longitude: 0.22856
 postcode: "76700"
 city: Gonfreville-l'Orcher
-street: "Rue du Camp Philip Morris"
-housenumber: 3
-phone: "+33 2 35 22 56 89"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://www.france-literie.fr/magasins-literie/france-literie-le-havre"
+street: Rue du Camp Philip Morris
+housenumber: "3"
+phone: +33 2 35 22 56 89
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-12:00,14:00-19:00; Sa 10:00-19:00
+website: https://www.france-literie.fr/magasins-literie/france-literie-le-havre

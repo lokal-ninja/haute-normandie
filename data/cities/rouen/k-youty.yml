@@ -4,8 +4,8 @@ latitude: 49.44
 longitude: 1.09236
 postcode: "76000"
 city: Rouen
-street: "Rue de la Champmeslé"
-housenumber: 44
+street: Rue de la Champmeslé
+housenumber: "44"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.k-youty.fr"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.k-youty.fr

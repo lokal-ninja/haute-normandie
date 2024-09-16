@@ -4,8 +4,8 @@ latitude: 49.49716
 longitude: 0.11229
 postcode: "76600"
 city: Le Havre
-street: "Avenue René Coty"
-housenumber: 46
-phone: "+33 2 44 10 17 66"
-opening_hours: "Tu-Sa 09:15-13:00,14:00-19:00"
-website: "https://www.thiers-optique.com/"
+street: Avenue René Coty
+housenumber: "46"
+phone: +33 2 44 10 17 66
+opening_hours: Tu-Sa 09:15-13:00,14:00-19:00
+website: https://www.thiers-optique.com/

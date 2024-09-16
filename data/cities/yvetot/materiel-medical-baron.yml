@@ -1,11 +1,11 @@
 id: 122016826
-type: way
+type: node
 latitude: 49.61823
 longitude: 0.75285
 postcode: "76190"
 city: Yvetot
-street: "Rue Guy de Maupassant"
-housenumber: 9
+street: Rue Guy de Maupassant
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

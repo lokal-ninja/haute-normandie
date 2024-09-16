@@ -1,11 +1,11 @@
 id: 186538423
-type: way
+type: node
 latitude: 49.07419
 longitude: 0.57929
 postcode: "27300"
 city: Bernay
-street: "Rue du Bois du Cours"
-housenumber: 
+street: Rue du Bois du Cours
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

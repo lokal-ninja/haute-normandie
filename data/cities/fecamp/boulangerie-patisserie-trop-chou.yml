@@ -1,11 +1,11 @@
 id: 135946029
-type: way
+type: node
 latitude: 49.76017
 longitude: 0.3688
 postcode: "76400"
 city: Fécamp
-street: "Quai Berigny"
-housenumber: 69
+street: Quai Berigny
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

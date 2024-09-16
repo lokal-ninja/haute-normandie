@@ -4,8 +4,8 @@ latitude: 49.52243
 longitude: 1.04049
 postcode: "76770"
 city: Malaunay
-street: "Route de Dieppe"
-housenumber: 238
-phone: "+33 2 35 33 33 25"
-opening_hours: "Tu-Fr 08:30-12:30, 15:00-19:00; Sa 08:30-19:00; Su 10:00-11:30"
-website: "https://www.auxdelicesdelamer.com/"
+street: Route de Dieppe
+housenumber: "238"
+phone: +33 2 35 33 33 25
+opening_hours: Tu-Fr 08:30-12:30, 15:00-19:00; Sa 08:30-19:00; Su 10:00-11:30
+website: https://www.auxdelicesdelamer.com/

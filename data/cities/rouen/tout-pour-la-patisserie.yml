@@ -4,8 +4,8 @@ latitude: 49.44204
 longitude: 1.0907
 postcode: "76000"
 city: Rouen
-street: "Rue Jeanne d'Arc"
-housenumber: 56
-phone: "+33 2 35 71 48 32"
-opening_hours: "Tu-Sa 09:30-19:00; Su,Mo off"
+street: Rue Jeanne d'Arc
+housenumber: "56"
+phone: +33 2 35 71 48 32
+opening_hours: Tu-Sa 09:30-19:00; Su,Mo off
 website: ""

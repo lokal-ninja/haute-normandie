@@ -1,11 +1,11 @@
 id: 122018752
-type: way
+type: node
 latitude: 49.6207
 longitude: 0.76637
 postcode: ""
 city: Yvetot
-street: "Avenue Georges Clemenceau"
-housenumber: 54
+street: Avenue Georges Clemenceau
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://www.aplusglass.com/"
+website: https://www.aplusglass.com/

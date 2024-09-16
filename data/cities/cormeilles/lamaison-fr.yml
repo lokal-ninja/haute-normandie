@@ -1,11 +1,11 @@
 id: 660936235
-type: way
+type: node
 latitude: 49.25461
 longitude: 0.3801
 postcode: "27260"
 city: Cormeilles
-street: "Z.A. Les Tuileries"
-housenumber: 12
-phone: "+33 2 32 57 81 11"
-opening_hours: "Mo-Sa 08:30-12:00, 14:00-18:00"
-website: "https://lamaison.fr/magasin/cormeilles/"
+street: Z.A. Les Tuileries
+housenumber: "12"
+phone: +33 2 32 57 81 11
+opening_hours: Mo-Sa 08:30-12:00, 14:00-18:00
+website: https://lamaison.fr/magasin/cormeilles/

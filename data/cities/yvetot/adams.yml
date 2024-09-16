@@ -1,11 +1,11 @@
 id: 122017321
-type: way
+type: node
 latitude: 49.61599
 longitude: 0.75422
 postcode: "76190"
 city: Yvetot
-street: "Rue Bellanger"
-housenumber: 7
+street: Rue Bellanger
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

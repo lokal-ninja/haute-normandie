@@ -4,8 +4,8 @@ latitude: 49.48304
 longitude: 0.87545
 postcode: "76480"
 city: Duclair
-street: "Rue du Marché"
-housenumber: 35
+street: Rue du Marché
+housenumber: "35"
 phone: ""
-opening_hours: "Tu,We,Fr,Sa 10:00-12:00,15:00-18:00"
+opening_hours: Tu,We,Fr,Sa 10:00-12:00,15:00-18:00
 website: ""

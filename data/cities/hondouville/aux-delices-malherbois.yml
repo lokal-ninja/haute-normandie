@@ -4,8 +4,8 @@ latitude: 49.13887
 longitude: 1.12218
 postcode: "27400"
 city: Hondouville
-street: "Place de la Halle"
-housenumber: 1
-phone: "+33 2 32 50 42 38"
-opening_hours: "Mo,Th,Fr,Sa 07:30-13:30,15:30-20:00; Tu,Su 07:30-13:00; We off"
+street: Place de la Halle
+housenumber: "1"
+phone: +33 2 32 50 42 38
+opening_hours: Mo,Th,Fr,Sa 07:30-13:30,15:30-20:00; Tu,Su 07:30-13:00; We off
 website: ""

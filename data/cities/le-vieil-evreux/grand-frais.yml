@@ -1,11 +1,11 @@
 id: 825939240
-type: way
+type: node
 latitude: 49.01659
 longitude: 1.18489
 postcode: "27930"
 city: Le Vieil-Évreux
-street: "Rue de Cocherel"
-housenumber: 1186
-phone: "+33 2 32 37 83 88"
+street: Rue de Cocherel
+housenumber: "1186"
+phone: +33 2 32 37 83 88
 opening_hours: ""
 website: ""

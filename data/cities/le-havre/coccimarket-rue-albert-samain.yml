@@ -1,11 +1,11 @@
 id: 541589940
-type: way
+type: node
 latitude: 49.51734
 longitude: 0.08974
 postcode: "76620"
 city: Le Havre
-street: "Rue Albert Samain"
-housenumber: 
-phone: "+33 2 35 44 79 85"
-opening_hours: "Tu-Su 08:00-13:00,14:30-19:30"
+street: Rue Albert Samain
+housenumber: ""
+phone: +33 2 35 44 79 85
+opening_hours: Tu-Su 08:00-13:00,14:30-19:30
 website: ""

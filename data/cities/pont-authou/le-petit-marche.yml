@@ -1,11 +1,11 @@
 id: 316625599
-type: way
+type: node
 latitude: 49.24248
 longitude: 0.69585
 postcode: "27290"
 city: Pont-Authou
-street: "Rue Saint-Louis"
-housenumber: 36
-phone: "+33 2 32 42 12 91"
+street: Rue Saint-Louis
+housenumber: "36"
+phone: +33 2 32 42 12 91
 opening_hours: ""
 website: ""

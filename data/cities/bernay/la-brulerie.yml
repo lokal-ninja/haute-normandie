@@ -1,11 +1,11 @@
 id: 186529887
-type: way
+type: node
 latitude: 49.08826
 longitude: 0.59345
 postcode: "27300"
 city: Bernay
-street: "Rue Général de Gaulle"
-housenumber: 12
-phone: "+33 2 32 46 47 74"
+street: Rue Général de Gaulle
+housenumber: "12"
+phone: +33 2 32 46 47 74
 opening_hours: ""
-website: "https://www.facebook.com/pg/Brulerie-de-bernay-704993839545627/"
+website: https://www.facebook.com/pg/Brulerie-de-bernay-704993839545627/

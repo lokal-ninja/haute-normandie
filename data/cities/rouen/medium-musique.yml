@@ -4,8 +4,8 @@ latitude: 49.44022
 longitude: 1.09071
 postcode: "76000"
 city: Rouen
-street: "Rue Camille Saint-Saëns"
-housenumber: 22
+street: Rue Camille Saint-Saëns
+housenumber: "22"
 phone: "+33235897903"
-opening_hours: "Tu-Sa 10:00-12:30,14:00-19:00"
-website: "http://www.medium-musique.mlinet.fr/"
+opening_hours: Tu-Sa 10:00-12:30,14:00-19:00
+website: http://www.medium-musique.mlinet.fr/

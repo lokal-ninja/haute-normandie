@@ -4,8 +4,8 @@ latitude: 49.50005
 longitude: 0.13341
 postcode: "76600"
 city: Le Havre
-street: "Rue Aristide Briand"
-housenumber: 222
-phone: "+33 235422646"
-opening_hours: "Tu-Sa 09:30-12:30,14:30-19:30; Su 10:00-14:00,14:30-19:00"
+street: Rue Aristide Briand
+housenumber: "222"
+phone: +33 235422646
+opening_hours: Tu-Sa 09:30-12:30,14:30-19:30; Su 10:00-14:00,14:30-19:00
 website: ""

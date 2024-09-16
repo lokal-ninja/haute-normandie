@@ -1,11 +1,11 @@
 id: 815960344
-type: way
+type: node
 latitude: 49.24055
 longitude: 0.39751
 postcode: "27260"
 city: Saint-Sylvestre-de-Cormeilles
-street: "Rue des Marchardières"
-housenumber: 37
+street: Rue des Marchardières
+housenumber: "37"
 phone: ""
 opening_hours: ""
 website: ""

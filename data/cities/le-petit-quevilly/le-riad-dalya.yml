@@ -4,8 +4,9 @@ latitude: 49.42367
 longitude: 1.05638
 postcode: "76140"
 city: Le Petit-Quevilly
-street: "Rue Lucien Vallée"
-housenumber: 6
-phone: "+33 2 35 98 49 44"
-opening_hours: "Mo-Tu 09:00-18:00; We 10:00-17:00; Th 09:00-18:00; Fr 10:00-19:00; Sa 09:00-17:00"
-website: "https://www.leriaddalya.fr/"
+street: Rue Lucien Vallée
+housenumber: "6"
+phone: +33 2 35 98 49 44
+opening_hours: Mo-Tu 09:00-18:00; We 10:00-17:00; Th 09:00-18:00; Fr 10:00-19:00;
+    Sa 09:00-17:00
+website: https://www.leriaddalya.fr/

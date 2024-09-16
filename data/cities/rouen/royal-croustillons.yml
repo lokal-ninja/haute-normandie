@@ -4,8 +4,8 @@ latitude: 49.4393
 longitude: 1.09716
 postcode: "76000"
 city: Rouen
-street: "Rue de la République"
-housenumber: 42
+street: Rue de la République
+housenumber: "42"
 phone: ""
-opening_hours: "Tu-Th 10:00-19:00; Fr-Sa 10:00-22:00"
+opening_hours: Tu-Th 10:00-19:00; Fr-Sa 10:00-22:00
 website: ""

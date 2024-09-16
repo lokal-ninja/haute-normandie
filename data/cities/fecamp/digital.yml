@@ -1,11 +1,11 @@
 id: 135937388
-type: way
+type: node
 latitude: 49.75639
 longitude: 0.38028
 postcode: "76400"
 city: Fécamp
-street: "Rue de l'Inondation"
-housenumber: 
+street: Rue de l'Inondation
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.group-digital.fr/"
+website: https://www.group-digital.fr/

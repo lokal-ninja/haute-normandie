@@ -1,11 +1,11 @@
 id: 122015991
-type: way
+type: node
 latitude: 49.61732
 longitude: 0.7514
 postcode: "76190"
 city: Yvetot
-street: "Rue Edmond Labbé"
-housenumber: 17
+street: Rue Edmond Labbé
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

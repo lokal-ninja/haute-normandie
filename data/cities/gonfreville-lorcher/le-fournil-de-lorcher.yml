@@ -1,11 +1,11 @@
 id: 1174863462
-type: way
+type: node
 latitude: 49.51643
 longitude: 0.24156
 postcode: "76700"
 city: Gonfreville-l'Orcher
-street: "Route Départementale 6015"
-housenumber: 62
+street: Route Départementale 6015
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

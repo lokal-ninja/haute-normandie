@@ -1,11 +1,11 @@
 id: 243040315
-type: way
+type: node
 latitude: 49.53458
 longitude: 0.09978
 postcode: "76930"
 city: Octeville-sur-Mer
-street: "Chemin d'Edreville"
-housenumber: 
-phone: "+33 2 35 48 14 40"
-opening_hours: "Mo 14:00-19:00; Tu-Su 09:30-19:00"
-website: "https://www.cueilletteocteville.fr/"
+street: Chemin d'Edreville
+housenumber: ""
+phone: +33 2 35 48 14 40
+opening_hours: Mo 14:00-19:00; Tu-Su 09:30-19:00
+website: https://www.cueilletteocteville.fr/

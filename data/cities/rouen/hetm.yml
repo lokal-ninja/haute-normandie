@@ -4,8 +4,8 @@ latitude: 49.43104
 longitude: 1.08481
 postcode: "76100"
 city: Rouen
-street: "Avenue de Bretagne"
-housenumber: 
+street: Avenue de Bretagne
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.hm.com/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.hm.com/

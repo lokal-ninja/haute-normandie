@@ -4,8 +4,8 @@ latitude: 49.2854
 longitude: 0.71855
 postcode: "27290"
 city: Écaquelon
-street: "Rue de la Maison Forestière"
-housenumber: 1
-phone: "+33 2 27 36 58 96"
-opening_hours: "Tu 16:30-18:30; Fr 16:30-18:30"
-website: "http://www.lesjardinsdelachaumiere.fr"
+street: Rue de la Maison Forestière
+housenumber: "1"
+phone: +33 2 27 36 58 96
+opening_hours: Tu 16:30-18:30; Fr 16:30-18:30
+website: http://www.lesjardinsdelachaumiere.fr

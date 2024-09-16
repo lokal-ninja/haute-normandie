@@ -1,11 +1,11 @@
 id: 1307980085
-type: way
+type: node
 latitude: 49.48965
 longitude: 0.12837
 postcode: "76600"
 city: Le Havre
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00, Su 11:00-19:00"
+opening_hours: Mo-Sa 10:00-20:00, Su 11:00-19:00
 website: ""

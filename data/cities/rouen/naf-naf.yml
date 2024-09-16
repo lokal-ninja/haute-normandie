@@ -4,8 +4,8 @@ latitude: 49.44154
 longitude: 1.09148
 postcode: "76000"
 city: Rouen
-street: "Rue du Gros-Horloge"
-housenumber: 66
+street: Rue du Gros-Horloge
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.nafnaf.com"
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.nafnaf.com

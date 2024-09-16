@@ -1,11 +1,11 @@
 id: 1245911883
-type: way
+type: node
 latitude: 49.42422
 longitude: 1.05529
 postcode: "76140"
 city: Le Petit-Quevilly
-street: "Avenue des Alliés"
-housenumber: 163
+street: Avenue des Alliés
+housenumber: "163"
 phone: ""
 opening_hours: ""
 website: ""

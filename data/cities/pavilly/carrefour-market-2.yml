@@ -1,11 +1,11 @@
 id: 164280679
-type: way
+type: node
 latitude: 49.56367
 longitude: 0.95458
 postcode: "76570"
 city: Pavilly
 street: ""
-housenumber: 
-phone: "+33 2 35 91 61 91"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-pavilly"
+housenumber: ""
+phone: +33 2 35 91 61 91
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-pavilly

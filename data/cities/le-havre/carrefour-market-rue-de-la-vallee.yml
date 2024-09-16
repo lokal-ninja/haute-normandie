@@ -1,11 +1,11 @@
 id: 75391194
-type: way
+type: node
 latitude: 49.49411
 longitude: 0.15086
 postcode: "76600"
 city: Le Havre
-street: "Rue de la Vallée"
-housenumber: 35
-phone: "+33 2 35 25 11 11"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/"
+street: Rue de la Vallée
+housenumber: "35"
+phone: +33 2 35 25 11 11
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/

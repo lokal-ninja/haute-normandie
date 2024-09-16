@@ -1,11 +1,11 @@
 id: 823214379
-type: way
+type: node
 latitude: 49.30645
 longitude: 1.61277
 postcode: "27150"
 city: Étrépagny
-street: "Rue Turgot"
-housenumber: 1
+street: Rue Turgot
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

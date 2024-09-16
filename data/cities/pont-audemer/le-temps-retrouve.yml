@@ -1,11 +1,11 @@
 id: 182905816
-type: way
+type: node
 latitude: 49.35659
 longitude: 0.51462
 postcode: "27500"
 city: Pont-Audemer
-street: "Rue Paul Clémencin"
-housenumber: 20
-phone: "+33 2 32 57 28 87"
+street: Rue Paul Clémencin
+housenumber: "20"
+phone: +33 2 32 57 28 87
 opening_hours: ""
-website: "https://www.facebook.com/bouquinistepontaudemer/"
+website: https://www.facebook.com/bouquinistepontaudemer/

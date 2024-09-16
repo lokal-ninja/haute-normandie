@@ -4,8 +4,8 @@ latitude: 49.46267
 longitude: 1.07068
 postcode: "76130"
 city: Mont-Saint-Aignan
-street: "Place Colbert"
-housenumber: 26
-phone: "+33 2 35 70 50 30"
-opening_hours: "Tu-Th 09:00-12:30,15:30-18:30; Fr,Sa 09:00-13:30,14:30-18:30"
+street: Place Colbert
+housenumber: "26"
+phone: +33 2 35 70 50 30
+opening_hours: Tu-Th 09:00-12:30,15:30-18:30; Fr,Sa 09:00-13:30,14:30-18:30
 website: ""

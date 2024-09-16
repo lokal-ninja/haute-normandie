@@ -1,11 +1,11 @@
 id: 475438129
-type: way
+type: node
 latitude: 49.57101
 longitude: 0.49016
 postcode: ""
 city: Bolbec
-street: "Avenue du Maréchal Joffre"
-housenumber: 798
+street: Avenue du Maréchal Joffre
+housenumber: "798"
 phone: ""
-opening_hours: "Mo-Fr 08:30-17:30"
+opening_hours: Mo-Fr 08:30-17:30
 website: ""

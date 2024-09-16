@@ -4,8 +4,8 @@ latitude: 49.41219
 longitude: 1.07161
 postcode: "76140"
 city: Le Petit-Quevilly
-street: "Boulevard Stanislas Girardin"
-housenumber: 1
-phone: "+33 2 35 72 33 90"
-opening_hours: "Mo-Fr  09:00-12:30, 13:30-18:00; Sa 09:0-12:00"
-website: "https://www.groupe-roc-eclerc.com"
+street: Boulevard Stanislas Girardin
+housenumber: "1"
+phone: +33 2 35 72 33 90
+opening_hours: Mo-Fr  09:00-12:30, 13:30-18:00; Sa 09:0-12:00
+website: https://www.groupe-roc-eclerc.com

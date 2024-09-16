@@ -4,8 +4,8 @@ latitude: 49.44142
 longitude: 1.08914
 postcode: "76000"
 city: Rouen
-street: "rue de la Vicomté"
-housenumber: 54
-phone: "+33 2 35 70 53 26"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:30-20:00"
+street: rue de la Vicomté
+housenumber: "54"
+phone: +33 2 35 70 53 26
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:30-20:00
 website: ""

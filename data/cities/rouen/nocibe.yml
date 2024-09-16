@@ -4,8 +4,8 @@ latitude: 49.44156
 longitude: 1.09138
 postcode: "76000"
 city: Rouen
-street: "Rue du Gros-Horloge"
-housenumber: 68
-phone: "+33 2 32 76 79 95"
-opening_hours: "Mo 11:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.nocibe.fr/"
+street: Rue du Gros-Horloge
+housenumber: "68"
+phone: +33 2 32 76 79 95
+opening_hours: Mo 11:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.nocibe.fr/

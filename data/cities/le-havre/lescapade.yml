@@ -4,8 +4,8 @@ latitude: 49.49656
 longitude: 0.09347
 postcode: "76600"
 city: Le Havre
-street: "Boulevard Albert 1er"
-housenumber: 34
-phone: "+33 2 35 41 99 83"
-opening_hours: "Tu-Sa 10:00-13:00,15:00-22:00"
-website: "https://www.lescapade-lh.fr/"
+street: Boulevard Albert 1er
+housenumber: "34"
+phone: +33 2 35 41 99 83
+opening_hours: Tu-Sa 10:00-13:00,15:00-22:00
+website: https://www.lescapade-lh.fr/
