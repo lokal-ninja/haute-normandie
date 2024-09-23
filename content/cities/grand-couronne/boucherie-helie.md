@@ -1,5 +1,0 @@
----
-title: "Boucherie Helie"
-url: /grand-couronne/boucherie-helie/
-shop: boucherie
----
