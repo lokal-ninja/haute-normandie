@@ -1,5 +1,5 @@
 ---
 title: "Casentbon"
 url: /le-havre/casentbon/
-shop: charité
+shop: magasin de variétés
 ---
