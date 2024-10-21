@@ -4,9 +4,8 @@ latitude: 49.86842
 longitude: 0.7098
 postcode: "76460"
 city: Saint-Valery-en-Caux
-street: Rue des Pénitents
+street: ""
 housenumber: "31"
 phone: +33 0603582849
-opening_hours: Mo-Do 10:00-16:00 "sur RDV // only with appointment"; Fr-Sa 10:00-20:00
-    "sur RDV // only with Appointment"
+opening_hours: Mo-Th 09:00-18:00; Fr-Su 10:00-20:00 || "sur RDV // only with appointment"
 website: https://lechaletayurvedique.fr/
