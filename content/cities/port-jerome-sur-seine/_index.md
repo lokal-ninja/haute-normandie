@@ -1,6 +1,6 @@
 ---
 title: Port-Jérôme-sur-Seine
 url: /port-jerome-sur-seine/
-latitude: 49.486
-longitude: 0.581
+latitude: 49.488
+longitude: 0.566
 ---

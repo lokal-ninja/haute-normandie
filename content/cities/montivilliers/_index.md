@@ -1,6 +1,6 @@
 ---
 title: Montivilliers
 url: /montivilliers/
-latitude: 49.529
-longitude: 0.19
+latitude: 49.528
+longitude: 0.191
 ---
