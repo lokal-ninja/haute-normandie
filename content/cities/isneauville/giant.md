@@ -1,5 +1,5 @@
 ---
 title: "Giant"
-url: /bois-guillaume/giant/
+url: /isneauville/giant/
 shop: vélo
 ---
