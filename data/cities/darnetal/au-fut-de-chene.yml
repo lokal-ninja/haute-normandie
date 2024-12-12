@@ -7,5 +7,6 @@ city: Darnétal
 street: Rue Saint-Pierre
 housenumber: ""
 phone: +33 2 35 08 13 75
-opening_hours: Tu-Sa 10:30-13:00,14:30-19:00
+opening_hours: Mo,Tu,Th 09:00-21:00; We 10:00-19:00; Fr 10:00-22:00; Sa 16:00-21:00;
+    Su,PH 13:30-21:00
 website: ""
