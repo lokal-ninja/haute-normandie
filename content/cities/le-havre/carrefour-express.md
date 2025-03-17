@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Express"
 url: /le-havre/carrefour-express/
-shop: supermarché
+shop: commodité
 ---
