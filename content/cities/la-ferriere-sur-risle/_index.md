@@ -1,6 +1,6 @@
 ---
 title: La Ferrière-sur-Risle
 url: /la-ferriere-sur-risle/
-latitude: 48.978
+latitude: 48.979
 longitude: 0.786
 ---
