@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
-url: /evreux/carrefour-city/
+url: /le-havre/carrefour-city-rue-de-paris/
 shop: supermarché
 ---
