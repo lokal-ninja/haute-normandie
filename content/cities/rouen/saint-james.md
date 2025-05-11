@@ -1,5 +1,5 @@
 ---
-title: "Saint James"
+title: "Saint-James"
 url: /rouen/saint-james/
 shop: vêtements
 ---
