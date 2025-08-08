@@ -7,6 +7,6 @@ city: Saint-Romain-de-Colbosc
 street: Rue de l'Abbé Palfray
 housenumber: "3"
 phone: ""
-opening_hours: Mo 14:30-19:00; Tu-We 07:45-12:15,14:45-19:00; Th 08:00-12:30, 14:45-19:00;
-    Fr 07:30-12:30, 14:30-19:00; Sa 07:30-12:30,14:30-19:00; Su 08:30-12:30
+opening_hours: Mo 14:30-19:00; Tu,We 08:00-12:30,14:45-19:00; Th 08:00-12:30,14:45-19:00;
+    Fr 08:00-12:30,14:30-19:00; Sa 07:30-12:30,14:30-19:00; Su 08:30-12:15
 website: ""

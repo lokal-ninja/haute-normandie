@@ -1,6 +1,6 @@
 ---
 title: Gravigny
 url: /gravigny/
-latitude: 49.054
-longitude: 1.169
+latitude: 49.057
+longitude: 1.167
 ---

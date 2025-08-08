@@ -1,6 +1,6 @@
 ---
 title: Beuzeville
 url: /beuzeville/
-latitude: 49.346
-longitude: 0.341
+latitude: 49.337
+longitude: 0.352
 ---

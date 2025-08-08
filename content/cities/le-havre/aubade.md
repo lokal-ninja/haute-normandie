@@ -1,5 +1,5 @@
 ---
 title: "Aubade"
 url: /le-havre/aubade/
-shop: à faire soi-même
+shop: salle de bains
 ---
