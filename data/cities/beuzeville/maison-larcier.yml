@@ -7,8 +7,7 @@ city: Beuzeville
 street: Rue Albert Sorel
 housenumber: "8"
 phone: +33 2 32 57 71 82
-opening_hours: Apr 01-Oct 31 Mo-Fr 07:00-13:00,14:30-20:00; Apr 01-Oct 31 Tu 07:00-20:00;
-    Apr 01-Oct 31 We off; Apr 01-Oct 31 Sa 07:00-13:30,15:00-20:00; Apr 01-Oct 31
-    Su 07:00-13:30; Nov 01-Mar 31 Mo,Tu,Th,Fr 07:00-13:00,14:30-19:30; Nov 01-Mar
-    31 Tu 07:00-19:30; Nov 0
+opening_hours: Apr-Oct Mo,Th,Fr 07:00-13:00,14:30-20:00; Apr-Oct Tu 07:00-20:00; Apr-Oct
+    Sa 07:00-13:30,15:00-20:00; Apr-Oct Su 07:00-13:30; Nov-Mar Mo,Tu,Th,Fr 07:00-13:00,14:30-19:30;
+    Nov-Mar Tu 07:00-19:30; Nov 0
 website: ""
