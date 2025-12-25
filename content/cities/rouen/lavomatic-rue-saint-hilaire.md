@@ -1,5 +1,5 @@
 ---
 title: "Lavomatic"
-url: /rouen/lavomatic-rue-cauchoise/
+url: /rouen/lavomatic-rue-saint-hilaire/
 shop: blanchisserie
 ---
