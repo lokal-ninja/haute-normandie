@@ -1,11 +1,11 @@
-id: 10601413305
+id: 10601413406
 type: node
-latitude: 49.44122
-longitude: 1.10255
-postcode: "76000"
+latitude: 49.42652
+longitude: 1.07713
+postcode: "76100"
 city: Rouen
-street: Rue Armand Carrel
-housenumber: "57"
+street: Place Saint-Clément
+housenumber: "2"
 phone: ""
-opening_hours: Mo 10:30-19:00; Tu-Th 10:00-19:00; Fr 09:30-19:00; Sa 09:00-18:30
-website: https://vog.fr/salon/view/445
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://vog.fr/salon/view/1503
