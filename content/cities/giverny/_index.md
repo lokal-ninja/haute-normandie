@@ -1,6 +1,6 @@
 ---
 title: Giverny
 url: /giverny/
-latitude: 49.077
-longitude: 1.529
+latitude: 49.075
+longitude: 1.535
 ---
