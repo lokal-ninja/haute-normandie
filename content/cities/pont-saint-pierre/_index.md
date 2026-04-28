@@ -1,6 +1,6 @@
 ---
 title: Pont-Saint-Pierre
 url: /pont-saint-pierre/
-latitude: 49.331
-longitude: 1.281
+latitude: 49.332
+longitude: 1.279
 ---
