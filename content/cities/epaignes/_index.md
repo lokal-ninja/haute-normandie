@@ -1,6 +1,6 @@
 ---
 title: Épaignes
 url: /epaignes/
-latitude: 49.28
-longitude: 0.441
+latitude: 49.282
+longitude: 0.428
 ---
