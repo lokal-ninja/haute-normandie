@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie"
-url: /pavilly/boulangerie-patisserie-rue-adolphe-lasne/
+url: /pavilly/boulangerie-patisserie-rue-delalandre/
 shop: boulangerie
 ---
