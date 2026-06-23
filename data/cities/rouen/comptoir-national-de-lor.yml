@@ -7,5 +7,6 @@ city: Rouen
 street: Rue Jeanne d'Arc
 housenumber: "56"
 phone: ""
-opening_hours: ""
+opening_hours: Mo 10:00-13:00, Tu 10:30-13:00, We-Fr 09:30-13:00, Mo-We 01:30-18:00,
+    Th 01:30-17:00, Fr 01:30-17:30
 website: ""
