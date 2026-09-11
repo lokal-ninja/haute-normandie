@@ -1,6 +1,6 @@
 ---
 title: Saint-Étienne-du-Rouvray
 url: /saint-etienne-du-rouvray/
-latitude: 49.366
-longitude: 1.105
+latitude: 49.386
+longitude: 1.074
 ---

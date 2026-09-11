@@ -1,5 +1,5 @@
 ---
-title: "Milome"
+title: "MiLOME"
 url: /montivilliers/milome/
-shop: décoration intérieure
+shop: meubles
 ---
