@@ -7,6 +7,5 @@ city: Saint-Léonard
 street: Route du Havre
 housenumber: "1770"
 phone: ""
-opening_hours: Mo-Tu 09:30-12:30, 14:00-19:00;We 09:30-19:00;Th-Fr 09:30-12:30, 14:00-19:00;
-    Sa 09:30-19:00
-website: https://www.districenter.fr/nos-magasins/fecamp-st-leonard.html
+opening_hours: Mo-Sa 09:30-19:00; Su off
+website: https://www.districenter.fr/magasin/116-fecamp-st-leonard
