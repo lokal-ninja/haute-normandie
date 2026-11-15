@@ -1,6 +1,6 @@
 ---
 title: Bonsecours
 url: /bonsecours/
-latitude: 49.421
-longitude: 1.127
+latitude: 49.425
+longitude: 1.122
 ---
